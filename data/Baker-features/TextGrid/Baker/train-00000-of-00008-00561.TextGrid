@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.64
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.64
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5724687500000001
+			text = "xiao1"
+		intervals [2]:
+			xmin = 0.5724687500000001
+			xmax = 0.79246875
+			text = "huo3"
+		intervals [3]:
+			xmin = 0.79246875
+			xmax = 1.1124687500000001
+			text = "shuan1"
+		intervals [4]:
+			xmin = 1.1124687500000001
+			xmax = 1.4124687500000002
+			text = "mie4"
+		intervals [5]:
+			xmin = 1.4124687500000002
+			xmax = 1.6524687500000002
+			text = "huo3"
+		intervals [6]:
+			xmin = 1.6524687500000002
+			xmax = 1.98246875
+			text = "qi4"
+		intervals [7]:
+			xmin = 1.98246875
+			xmax = 2.26246875
+			text = "jun1"
+		intervals [8]:
+			xmin = 2.26246875
+			xmax = 2.4824687500000002
+			text = "yi3"
+		intervals [9]:
+			xmin = 2.4824687500000002
+			xmax = 2.7324687500000002
+			text = "pei4"
+		intervals [10]:
+			xmin = 2.7324687500000002
+			xmax = 2.92246875
+			text = "qi2"
+		intervals [11]:
+			xmin = 2.92246875
+			xmax = 3.11246875
+			text = "dao4"
+		intervals [12]:
+			xmin = 3.11246875
+			xmax = 3.60246875
+			text = "wei4"
+		intervals [13]:
+			xmin = 3.60246875
+			xmax = 4.06246875
+			text = "xiao1"
+		intervals [14]:
+			xmin = 4.06246875
+			xmax = 4.25246875
+			text = "fang2"
+		intervals [15]:
+			xmin = 4.25246875
+			xmax = 4.60246875
+			text = "beng4"
+		intervals [16]:
+			xmin = 4.60246875
+			xmax = 4.93246875
+			text = "ye2"
+		intervals [17]:
+			xmin = 4.93246875
+			xmax = 5.09246875
+			text = "yi3"
+		intervals [18]:
+			xmin = 5.09246875
+			xmax = 5.27246875
+			text = "an1"
+		intervals [19]:
+			xmin = 5.27246875
+			xmax = 5.50246875
+			text = "zhuang1"
+		intervals [20]:
+			xmin = 5.50246875
+			xmax = 5.7424687500000005
+			text = "tiao2"
+		intervals [21]:
+			xmin = 5.7424687500000005
+			xmax = 5.91246875
+			text = "shi4"
+		intervals [22]:
+			xmin = 5.91246875
+			xmax = 6.08246875
+			text = "wan2"
+		intervals [23]:
+			xmin = 6.08246875
+			xmax = 6.64
+			text = "bi4"

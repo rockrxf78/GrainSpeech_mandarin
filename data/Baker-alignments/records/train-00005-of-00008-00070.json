@@ -1,0 +1,62 @@
+{
+  "id": "train-00005-of-00008-00070",
+  "status": "rejected",
+  "hypothesis": "念得真好听改名而娇教我",
+  "cer": 0.45454545454545453,
+  "hanzi": "念的真好听赶明儿教教我",
+  "syllables": [
+    "nian4",
+    "de5",
+    "zhen1",
+    "hao3",
+    "ting1",
+    "gan3",
+    "mingr2",
+    "jiao1",
+    "jiao1",
+    "wo3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.455 exceeds 0.35"
+}

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.353015873015873
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.353015873015873
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "jin1"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.8324687500000001
+			text = "tian1"
+		intervals [3]:
+			xmin = 0.8324687500000001
+			xmax = 1.1224687500000001
+			text = "wai4"
+		intervals [4]:
+			xmin = 1.1224687500000001
+			xmax = 1.27246875
+			text = "mian4"
+		intervals [5]:
+			xmin = 1.27246875
+			xmax = 1.42246875
+			text = "de5"
+		intervals [6]:
+			xmin = 1.42246875
+			xmax = 1.6224687500000001
+			text = "tian1"
+		intervals [7]:
+			xmin = 1.6224687500000001
+			xmax = 1.83246875
+			text = "qi4"
+		intervals [8]:
+			xmin = 1.83246875
+			xmax = 2.0224687500000003
+			text = "ting2"
+		intervals [9]:
+			xmin = 2.0224687500000003
+			xmax = 2.2324687500000002
+			text = "leng3"
+		intervals [10]:
+			xmin = 2.2324687500000002
+			xmax = 2.58246875
+			text = "de5"
+		intervals [11]:
+			xmin = 2.58246875
+			xmax = 2.93246875
+			text = "dan4"
+		intervals [12]:
+			xmin = 2.93246875
+			xmax = 3.12246875
+			text = "yi2"
+		intervals [13]:
+			xmin = 3.12246875
+			xmax = 3.2924687500000003
+			text = "jin4"
+		intervals [14]:
+			xmin = 3.2924687500000003
+			xmax = 3.49246875
+			text = "xiao4"
+		intervals [15]:
+			xmin = 3.49246875
+			xmax = 3.7524687500000002
+			text = "yuan2"
+		intervals [16]:
+			xmin = 3.7524687500000002
+			xmax = 3.99246875
+			text = "jiu4"
+		intervals [17]:
+			xmin = 3.99246875
+			xmax = 4.17246875
+			text = "gan3"
+		intervals [18]:
+			xmin = 4.17246875
+			xmax = 4.35246875
+			text = "jue2"
+		intervals [19]:
+			xmin = 4.35246875
+			xmax = 4.52246875
+			text = "nuan2"
+		intervals [20]:
+			xmin = 4.52246875
+			xmax = 4.7424687500000005
+			text = "nuan3"
+		intervals [21]:
+			xmin = 4.7424687500000005
+			xmax = 5.353015873015873
+			text = "de5"

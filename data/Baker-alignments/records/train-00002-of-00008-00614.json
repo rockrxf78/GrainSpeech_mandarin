@@ -1,0 +1,52 @@
+{
+  "id": "train-00002-of-00008-00614",
+  "status": "rejected",
+  "hypothesis": "装古神描了个摸爹",
+  "cer": 0.5,
+  "hanzi": "装股神喵了个眯滴",
+  "syllables": [
+    "zhuang1",
+    "gu3",
+    "shen2",
+    "miao1",
+    "le5",
+    "ge5",
+    "mi1",
+    "di5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

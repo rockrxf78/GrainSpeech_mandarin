@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.321043083900227
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.321043083900227
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "bu2"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.8124687500000001
+			text = "guo4"
+		intervals [3]:
+			xmin = 0.8124687500000001
+			xmax = 1.07246875
+			text = "ru2"
+		intervals [4]:
+			xmin = 1.07246875
+			xmax = 1.24246875
+			text = "guo3"
+		intervals [5]:
+			xmin = 1.24246875
+			xmax = 1.46246875
+			text = "tai2"
+		intervals [6]:
+			xmin = 1.46246875
+			xmax = 1.71246875
+			text = "li3"
+		intervals [7]:
+			xmin = 1.71246875
+			xmax = 1.9024687500000002
+			text = "xu1"
+		intervals [8]:
+			xmin = 1.9024687500000002
+			xmax = 2.0424687500000003
+			text = "yao4"
+		intervals [9]:
+			xmin = 2.0424687500000003
+			xmax = 2.19246875
+			text = "wo2"
+		intervals [10]:
+			xmin = 2.19246875
+			xmax = 2.36246875
+			text = "wang3"
+		intervals [11]:
+			xmin = 2.36246875
+			xmax = 2.53246875
+			text = "zhe4"
+		intervals [12]:
+			xmin = 2.53246875
+			xmax = 2.66246875
+			text = "fang1"
+		intervals [13]:
+			xmin = 2.66246875
+			xmax = 2.82246875
+			text = "mian4"
+		intervals [14]:
+			xmin = 2.82246875
+			xmax = 3.01246875
+			text = "fa1"
+		intervals [15]:
+			xmin = 3.01246875
+			xmax = 3.19246875
+			text = "zhan3"
+		intervals [16]:
+			xmin = 3.19246875
+			xmax = 3.35246875
+			text = "de5"
+		intervals [17]:
+			xmin = 3.35246875
+			xmax = 3.65246875
+			text = "hua4"
+		intervals [18]:
+			xmin = 3.65246875
+			xmax = 3.95246875
+			text = "wo2"
+		intervals [19]:
+			xmin = 3.95246875
+			xmax = 4.13246875
+			text = "ye3"
+		intervals [20]:
+			xmin = 4.13246875
+			xmax = 4.30246875
+			text = "huo1"
+		intervals [21]:
+			xmin = 4.30246875
+			xmax = 4.45246875
+			text = "de5"
+		intervals [22]:
+			xmin = 4.45246875
+			xmax = 4.65246875
+			text = "chu1"
+		intervals [23]:
+			xmin = 4.65246875
+			xmax = 5.321043083900227
+			text = "qu4"

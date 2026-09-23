@@ -1,0 +1,67 @@
+{
+  "id": "train-00005-of-00008-01227",
+  "status": "rejected",
+  "hypothesis": "梁岁军吓得全身一阵和谁",
+  "cer": 0.36363636363636365,
+  "hanzi": "梁碎君吓得全身一震喝谁",
+  "syllables": [
+    "liang2",
+    "sui4",
+    "jun1",
+    "xia4",
+    "de5",
+    "quan2",
+    "shen1",
+    "yi2",
+    "zhen4",
+    "he4",
+    "shui2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

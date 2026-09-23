@@ -1,0 +1,37 @@
+{
+  "id": "train-00004-of-00008-00514",
+  "status": "rejected",
+  "hypothesis": "我在闭语喔",
+  "cer": 0.6,
+  "hanzi": "我在避雨哦",
+  "syllables": [
+    "wo3",
+    "zai4",
+    "bi4",
+    "yu3",
+    "o5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.600 exceeds 0.35"
+}

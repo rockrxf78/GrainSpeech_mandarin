@@ -1,0 +1,57 @@
+{
+  "id": "train-00000-of-00008-01100",
+  "status": "rejected",
+  "hypothesis": "黎鸣早吃撇下勒基尔",
+  "cer": 0.4444444444444444,
+  "hanzi": "黎明找吃撇下乐基儿",
+  "syllables": [
+    "li2",
+    "ming2",
+    "zhao3",
+    "chi1",
+    "pie1",
+    "xia4",
+    "le4",
+    "ji1",
+    "er5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.444 exceeds 0.35"
+}

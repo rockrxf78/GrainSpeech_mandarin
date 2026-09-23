@@ -1,0 +1,75 @@
+{
+  "model": "/home/ronren/GrainSpeech/outputs/grainspeech_a16w8.tflite",
+  "model_sha256": "27dc2b20ba12348e311db8cd784eb5e15b16633570a80051dca4edec19e96e7a",
+  "reference": "/home/ronren/GrainSpeech/outputs/grainspeech_fp32_reference.tflite",
+  "reference_sha256": "c9a87c6e27cac279a8af7e385ea10cf50d5797547f8980fbe4e9419693c0fab8",
+  "tensorflow": "2.20.0",
+  "a16w8_conv_linear_ops": 30,
+  "sampling_rate": 22050,
+  "hop_length": 256,
+  "mel_mae_note": "Unaligned common-frame MAE includes differences in phoneme timing.",
+  "cases": [
+    {
+      "id": "compact-speech",
+      "fp32_frames": 207,
+      "a16w8_frames": 208,
+      "common_frame_mel_mae": 0.19855359196662903,
+      "text": "Small models can give every word a voice."
+    },
+    {
+      "id": "morning-light",
+      "fp32_frames": 257,
+      "a16w8_frames": 257,
+      "common_frame_mel_mae": 0.20055799186229706,
+      "text": "The morning light falls softly on the quiet garden."
+    },
+    {
+      "id": "random-0",
+      "fp32_frames": 0,
+      "a16w8_frames": 0,
+      "common_frame_mel_mae": 0.0
+    },
+    {
+      "id": "random-1",
+      "fp32_frames": 22,
+      "a16w8_frames": 22,
+      "common_frame_mel_mae": 0.0482109859585762
+    },
+    {
+      "id": "random-2",
+      "fp32_frames": 24,
+      "a16w8_frames": 24,
+      "common_frame_mel_mae": 0.03292471542954445
+    },
+    {
+      "id": "random-8",
+      "fp32_frames": 94,
+      "a16w8_frames": 92,
+      "common_frame_mel_mae": 0.3905094861984253
+    },
+    {
+      "id": "random-32",
+      "fp32_frames": 289,
+      "a16w8_frames": 290,
+      "common_frame_mel_mae": 0.39932775497436523
+    },
+    {
+      "id": "random-64",
+      "fp32_frames": 512,
+      "a16w8_frames": 512,
+      "common_frame_mel_mae": 0.8460167050361633
+    },
+    {
+      "id": "random-128",
+      "fp32_frames": 512,
+      "a16w8_frames": 512,
+      "common_frame_mel_mae": 0.3907742500305176
+    },
+    {
+      "id": "all-symbols",
+      "fp32_frames": 512,
+      "a16w8_frames": 512,
+      "common_frame_mel_mae": 0.4511491656303406
+    }
+  ]
+}

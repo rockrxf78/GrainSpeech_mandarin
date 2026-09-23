@@ -1,0 +1,62 @@
+{
+  "id": "train-00000-of-00008-00105",
+  "status": "rejected",
+  "hypothesis": "矛吐开心碎两岸共赢春",
+  "cer": 0.5,
+  "hanzi": "卯兔开新岁两岸共迎春",
+  "syllables": [
+    "mao3",
+    "tu4",
+    "kai1",
+    "xin1",
+    "sui4",
+    "liang3",
+    "an4",
+    "gong4",
+    "ying2",
+    "chun1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "train-00001-of-00008-01027",
+  "status": "rejected",
+  "hypothesis": "镜者步屋不染野",
+  "cer": 0.5714285714285714,
+  "hanzi": "净者不污不染也",
+  "syllables": [
+    "jing4",
+    "zhe3",
+    "bu4",
+    "wu1",
+    "bu4",
+    "ran2",
+    "ye3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.571 exceeds 0.35"
+}

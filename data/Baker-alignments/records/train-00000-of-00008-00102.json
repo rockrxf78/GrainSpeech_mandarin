@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00102",
+  "status": "rejected",
+  "hypothesis": "贾元元托高越上楼",
+  "cer": 0.5,
+  "hanzi": "贾媛媛拖高岳上楼",
+  "syllables": [
+    "jia3",
+    "yuan2",
+    "yuan5",
+    "tuo1",
+    "gao1",
+    "yue4",
+    "shang4",
+    "lou2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

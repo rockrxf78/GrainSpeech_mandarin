@@ -1,0 +1,47 @@
+{
+  "id": "train-00002-of-00008-01087",
+  "status": "rejected",
+  "hypothesis": "混堂上的硬景盖",
+  "cer": 0.42857142857142855,
+  "hanzi": "混堂巷的窨井盖",
+  "syllables": [
+    "hun4",
+    "tang2",
+    "xiang4",
+    "de5",
+    "yin4",
+    "jing3",
+    "gai4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.78702947845805
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.78702947845805
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52246875
+			text = "tang1"
+		intervals [2]:
+			xmin = 0.52246875
+			xmax = 0.6924687500000001
+			text = "wen2"
+		intervals [3]:
+			xmin = 0.6924687500000001
+			xmax = 0.89246875
+			text = "yuan2"
+		intervals [4]:
+			xmin = 0.89246875
+			xmax = 1.35246875
+			text = "shuo1"
+		intervals [5]:
+			xmin = 1.35246875
+			xmax = 1.75246875
+			text = "lu2"
+		intervals [6]:
+			xmin = 1.75246875
+			xmax = 1.94246875
+			text = "jun4"
+		intervals [7]:
+			xmin = 1.94246875
+			xmax = 2.20246875
+			text = "qing1"
+		intervals [8]:
+			xmin = 2.20246875
+			xmax = 2.44246875
+			text = "dang1"
+		intervals [9]:
+			xmin = 2.44246875
+			xmax = 2.62246875
+			text = "shi2"
+		intervals [10]:
+			xmin = 2.62246875
+			xmax = 2.7724687500000003
+			text = "gong1"
+		intervals [11]:
+			xmin = 2.7724687500000003
+			xmax = 2.93246875
+			text = "zuo4"
+		intervals [12]:
+			xmin = 2.93246875
+			xmax = 3.13246875
+			text = "hen3"
+		intervals [13]:
+			xmin = 3.13246875
+			xmax = 3.36246875
+			text = "ji1"
+		intervals [14]:
+			xmin = 3.36246875
+			xmax = 3.72246875
+			text = "ji2"
+		intervals [15]:
+			xmin = 3.72246875
+			xmax = 4.06246875
+			text = "er2"
+		intervals [16]:
+			xmin = 4.06246875
+			xmax = 4.25246875
+			text = "qie2"
+		intervals [17]:
+			xmin = 4.25246875
+			xmax = 4.46246875
+			text = "hen3"
+		intervals [18]:
+			xmin = 4.46246875
+			xmax = 4.68246875
+			text = "hui4"
+		intervals [19]:
+			xmin = 4.68246875
+			xmax = 4.85246875
+			text = "ji1"
+		intervals [20]:
+			xmin = 4.85246875
+			xmax = 5.00246875
+			text = "zan3"
+		intervals [21]:
+			xmin = 5.00246875
+			xmax = 5.18246875
+			text = "ren2"
+		intervals [22]:
+			xmin = 5.18246875
+			xmax = 5.78702947845805
+			text = "mai4"

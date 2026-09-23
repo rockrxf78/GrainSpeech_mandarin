@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00284",
+  "status": "rejected",
+  "hypothesis": "由本起赠无本退潮",
+  "cer": 0.5,
+  "hanzi": "有本启奏无本退朝",
+  "syllables": [
+    "you2",
+    "ben2",
+    "qi3",
+    "zou4",
+    "wu2",
+    "ben3",
+    "tui4",
+    "chao2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

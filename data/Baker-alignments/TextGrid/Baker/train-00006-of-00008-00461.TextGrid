@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.256009070294785
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.256009070294785
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5624687500000001
+			text = "zai4"
+		intervals [2]:
+			xmin = 0.5624687500000001
+			xmax = 0.76246875
+			text = "jia1"
+		intervals [3]:
+			xmin = 0.76246875
+			xmax = 0.97246875
+			text = "shang4"
+		intervals [4]:
+			xmin = 0.97246875
+			xmax = 1.1524687500000002
+			text = "you3"
+		intervals [5]:
+			xmin = 1.1524687500000002
+			xmax = 1.3724687500000001
+			text = "du2"
+		intervals [6]:
+			xmin = 1.3724687500000001
+			xmax = 1.71246875
+			text = "yin3"
+		intervals [7]:
+			xmin = 1.71246875
+			xmax = 1.98246875
+			text = "nuo2"
+		intervals [8]:
+			xmin = 1.98246875
+			xmax = 2.12246875
+			text = "yong4"
+		intervals [9]:
+			xmin = 2.12246875
+			xmax = 2.3124687500000003
+			text = "gong1"
+		intervals [10]:
+			xmin = 2.3124687500000003
+			xmax = 2.5424687500000003
+			text = "kuan3"
+		intervals [11]:
+			xmin = 2.5424687500000003
+			xmax = 2.71246875
+			text = "qu4"
+		intervals [12]:
+			xmin = 2.71246875
+			xmax = 2.86246875
+			text = "du3"
+		intervals [13]:
+			xmin = 2.86246875
+			xmax = 3.20246875
+			text = "bo2"
+		intervals [14]:
+			xmin = 3.20246875
+			xmax = 3.53246875
+			text = "jie2"
+		intervals [15]:
+			xmin = 3.53246875
+			xmax = 3.72246875
+			text = "guo3"
+		intervals [16]:
+			xmin = 3.72246875
+			xmax = 3.93246875
+			text = "kui1"
+		intervals [17]:
+			xmin = 3.93246875
+			xmax = 4.13246875
+			text = "kong1"
+		intervals [18]:
+			xmin = 4.13246875
+			xmax = 4.30246875
+			text = "yue4"
+		intervals [19]:
+			xmin = 4.30246875
+			xmax = 4.45246875
+			text = "lai2"
+		intervals [20]:
+			xmin = 4.45246875
+			xmax = 4.612468750000001
+			text = "yue4"
+		intervals [21]:
+			xmin = 4.612468750000001
+			xmax = 5.256009070294785
+			text = "da4"

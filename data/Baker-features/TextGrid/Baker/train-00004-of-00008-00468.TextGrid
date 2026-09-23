@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.393015873015873
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.393015873015873
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.61246875
+			text = "sha1"
+		intervals [2]:
+			xmin = 0.61246875
+			xmax = 0.8024687500000001
+			text = "mou3"
+		intervals [3]:
+			xmin = 0.8024687500000001
+			xmax = 1.1124687500000001
+			text = "cheng1"
+		intervals [4]:
+			xmin = 1.1124687500000001
+			xmax = 1.43246875
+			text = "zheng1"
+		intervals [5]:
+			xmin = 1.43246875
+			xmax = 1.6224687500000001
+			text = "qu3"
+		intervals [6]:
+			xmin = 1.6224687500000001
+			xmax = 1.75246875
+			text = "yi2"
+		intervals [7]:
+			xmin = 1.75246875
+			xmax = 1.9124687500000002
+			text = "ge5"
+		intervals [8]:
+			xmin = 1.9124687500000002
+			xmax = 2.10246875
+			text = "jin4"
+		intervals [9]:
+			xmin = 2.10246875
+			xmax = 2.2924687500000003
+			text = "jun1"
+		intervals [10]:
+			xmin = 2.2924687500000003
+			xmax = 2.46246875
+			text = "xiao4"
+		intervals [11]:
+			xmin = 2.46246875
+			xmax = 2.62246875
+			text = "de5"
+		intervals [12]:
+			xmin = 2.62246875
+			xmax = 2.80246875
+			text = "ming2"
+		intervals [13]:
+			xmin = 2.80246875
+			xmax = 3.14246875
+			text = "e2"
+		intervals [14]:
+			xmin = 3.14246875
+			xmax = 3.51246875
+			text = "dan4"
+		intervals [15]:
+			xmin = 3.51246875
+			xmax = 3.67246875
+			text = "xu1"
+		intervals [16]:
+			xmin = 3.67246875
+			xmax = 3.78246875
+			text = "yao4"
+		intervals [17]:
+			xmin = 3.78246875
+			xmax = 3.93246875
+			text = "yi4"
+		intervals [18]:
+			xmin = 3.93246875
+			xmax = 4.11246875
+			text = "xie1"
+		intervals [19]:
+			xmin = 4.11246875
+			xmax = 4.29246875
+			text = "qian2"
+		intervals [20]:
+			xmin = 4.29246875
+			xmax = 4.47246875
+			text = "lai2"
+		intervals [21]:
+			xmin = 4.47246875
+			xmax = 4.69246875
+			text = "da2"
+		intervals [22]:
+			xmin = 4.69246875
+			xmax = 5.393015873015873
+			text = "dian3"

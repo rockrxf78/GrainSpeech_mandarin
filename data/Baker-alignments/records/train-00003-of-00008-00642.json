@@ -1,0 +1,67 @@
+{
+  "id": "train-00003-of-00008-00642",
+  "status": "rejected",
+  "hypothesis": "中午十分和面上车烟疗绕",
+  "cer": 0.36363636363636365,
+  "hanzi": "中午时分河面上炊烟缭绕",
+  "syllables": [
+    "zhong1",
+    "wu3",
+    "shi2",
+    "fen1",
+    "he2",
+    "mian4",
+    "shang4",
+    "chui1",
+    "yan1",
+    "liao2",
+    "rao4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

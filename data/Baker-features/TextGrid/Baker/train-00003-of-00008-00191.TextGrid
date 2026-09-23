@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.491020408163266
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.491020408163266
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52246875
+			text = "ta1"
+		intervals [2]:
+			xmin = 0.52246875
+			xmax = 0.6824687500000001
+			text = "men5"
+		intervals [3]:
+			xmin = 0.6824687500000001
+			xmax = 1.03246875
+			text = "cheng1"
+		intervals [4]:
+			xmin = 1.03246875
+			xmax = 1.4124687500000002
+			text = "yao4"
+		intervals [5]:
+			xmin = 1.4124687500000002
+			xmax = 1.6224687500000001
+			text = "li4"
+		intervals [6]:
+			xmin = 1.6224687500000001
+			xmax = 1.77246875
+			text = "ji2"
+		intervals [7]:
+			xmin = 1.77246875
+			xmax = 1.97246875
+			text = "dao2"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.26246875
+			text = "hui3"
+		intervals [9]:
+			xmin = 2.26246875
+			xmax = 2.49246875
+			text = "wu2"
+		intervals [10]:
+			xmin = 2.49246875
+			xmax = 2.69246875
+			text = "ru3"
+		intervals [11]:
+			xmin = 2.69246875
+			xmax = 2.90246875
+			text = "min2"
+		intervals [12]:
+			xmin = 2.90246875
+			xmax = 3.09246875
+			text = "zu2"
+		intervals [13]:
+			xmin = 3.09246875
+			xmax = 3.2724687500000003
+			text = "zui4"
+		intervals [14]:
+			xmin = 3.2724687500000003
+			xmax = 3.43246875
+			text = "gao1"
+		intervals [15]:
+			xmin = 3.43246875
+			xmax = 3.60246875
+			text = "zun1"
+		intervals [16]:
+			xmin = 3.60246875
+			xmax = 3.7724687500000003
+			text = "yan2"
+		intervals [17]:
+			xmin = 3.7724687500000003
+			xmax = 4.00246875
+			text = "de5"
+		intervals [18]:
+			xmin = 4.00246875
+			xmax = 4.22246875
+			text = "li3"
+		intervals [19]:
+			xmin = 4.22246875
+			xmax = 4.39246875
+			text = "ming2"
+		intervals [20]:
+			xmin = 4.39246875
+			xmax = 4.5724687500000005
+			text = "bo2"
+		intervals [21]:
+			xmin = 4.5724687500000005
+			xmax = 4.80246875
+			text = "zheng4"
+		intervals [22]:
+			xmin = 4.80246875
+			xmax = 5.491020408163266
+			text = "fu3"

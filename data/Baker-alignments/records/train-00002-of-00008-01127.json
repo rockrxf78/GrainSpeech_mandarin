@@ -1,0 +1,52 @@
+{
+  "id": "train-00002-of-00008-01127",
+  "status": "rejected",
+  "hypothesis": "旧焚翻亲后便豪华",
+  "cer": 0.375,
+  "hanzi": "旧坟翻新后变豪华",
+  "syllables": [
+    "jiu4",
+    "fen2",
+    "fan1",
+    "xin1",
+    "hou4",
+    "bian4",
+    "hao2",
+    "hua2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

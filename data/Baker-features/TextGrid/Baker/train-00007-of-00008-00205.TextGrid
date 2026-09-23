@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.919002267573696
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.919002267573696
+		intervals: size = 20
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.61246875
+			text = "shang4"
+		intervals [2]:
+			xmin = 0.61246875
+			xmax = 0.8224687500000001
+			text = "mian4"
+		intervals [3]:
+			xmin = 0.8224687500000001
+			xmax = 1.02246875
+			text = "xie2"
+		intervals [4]:
+			xmin = 1.02246875
+			xmax = 1.20246875
+			text = "you3"
+		intervals [5]:
+			xmin = 1.20246875
+			xmax = 1.4124687500000002
+			text = "ming2"
+		intervals [6]:
+			xmin = 1.4124687500000002
+			xmax = 1.70246875
+			text = "zi4"
+		intervals [7]:
+			xmin = 1.70246875
+			xmax = 1.97246875
+			text = "chu1"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.14246875
+			text = "sheng1"
+		intervals [9]:
+			xmin = 2.14246875
+			xmax = 2.32246875
+			text = "nian2"
+		intervals [10]:
+			xmin = 2.32246875
+			xmax = 2.4824687500000002
+			text = "yue4"
+		intervals [11]:
+			xmin = 2.4824687500000002
+			xmax = 2.67246875
+			text = "deng3"
+		intervals [12]:
+			xmin = 2.67246875
+			xmax = 2.89246875
+			text = "xin4"
+		intervals [13]:
+			xmin = 2.89246875
+			xmax = 3.17246875
+			text = "xi1"
+		intervals [14]:
+			xmin = 3.17246875
+			xmax = 3.46246875
+			text = "dan4"
+		intervals [15]:
+			xmin = 3.46246875
+			xmax = 3.65246875
+			text = "xian4"
+		intervals [16]:
+			xmin = 3.65246875
+			xmax = 3.82246875
+			text = "zai4"
+		intervals [17]:
+			xmin = 3.82246875
+			xmax = 3.9824687500000002
+			text = "dou1"
+		intervals [18]:
+			xmin = 3.9824687500000002
+			xmax = 4.16246875
+			text = "gao3"
+		intervals [19]:
+			xmin = 4.16246875
+			xmax = 4.37246875
+			text = "diu1"
+		intervals [20]:
+			xmin = 4.37246875
+			xmax = 4.919002267573696
+			text = "le5"

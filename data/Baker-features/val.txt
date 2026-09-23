@@ -1,0 +1,256 @@
+train-00007-of-00008-00863|Baker|{di4 san1 dian3 shi4 yun4 ying2 chu1 qi1 zhe4 li3 tou2 xue2 wen4 jiu4 bi3 jiao4 da4 hen2 you3 xuan2 ji1}|第三点是运营初期，这里头学问就比较大，很有玄机。
+train-00001-of-00008-01073|Baker|{ta1 zhao3 dao4 ge5 ti4 si2 gui3 mang2 shuo1 xie4 jing3 yuan1 ni3 wen4 qian2 rong2}|他找到个替死鬼，忙说：谢景渊，你问钱荣。
+train-00005-of-00008-00269|Baker|{xiang1 guan1 qing2 kuang4 qi2 lu2 wang3 jiang1 ji4 xu4 zhui1 zong1}|相关情况齐鲁网将继续追踪。
+train-00002-of-00008-00085|Baker|{er2 tong2 yan3 jing5 xiang1 dui4 cheng2 ren2 geng4 jia1 jiao1 nen4}|儿童眼睛相对成人更加娇嫩。
+train-00006-of-00008-00317|Baker|{jiu3 yang2 shen2 gong1 yi4 dian3 bu2 hui4}|九阳神功！一点不会！
+train-00006-of-00008-01180|Baker|{wang3 shang4 guo1 mei2 mei3 xuan4 fu4 zhao4}|网上郭美美炫富照。
+train-00006-of-00008-00866|Baker|{yuan2 yin1 shi4 gong1 zi1 di1 zhu4 fang2 zhai3}|原因是工资低，住房窄。
+train-00000-of-00008-00869|Baker|{zan2 men5 he2 bi4 zhi3 wei4 zan2 yi4 jia1 de5 er2 nv3 qian1 chang2 gua4 du4}|咱们何必只为咱一家的儿女牵肠挂肚？
+train-00004-of-00008-00232|Baker|{dan4 yu2 ci3 tong2 shi2 sao2 ma3 lu4 de5 gong1 zuo4 jing4 ran2 ye3 zao1 feng1 qiang3 jiu4 bu4 mian3 rang4 ren2 jing1 cha4}|但与此同时，“扫马路”的工作竟然也遭“疯抢”，就不免让人惊诧。
+train-00007-of-00008-00913|Baker|{bai2 pang4 gao1 bai2 er2 liang4 de5 lian3 dai4 ti4 le5 deng1 de5 gong1 neng2}|白胖高白而亮的脸，代替了灯的功能。
+train-00005-of-00008-00612|Baker|{yin1 wei4 you3 zi1 jin1 bu3 tie1 jia1 shang4 you3 nong2 ye4 tui1 guang3 zhao1 pai2 ta1 men5 zi4 ren4 wei2 zhan4 le5 pian2 yi5}|因为有资金补贴，加上有农业推广招牌，他们自认为占了便宜。
+train-00004-of-00008-00070|Baker|{ji4 zhe3 xiang4 yi2 wei4 fan4 zi5 xun2 wen4 shi4 fou3 neng2 mai3 dao4 mei2 xun1 guo4 liu2 huang2 de5 yao4 cai2}|记者向一位贩子询问，是否能买到没熏过硫磺的药材。
+train-00006-of-00008-01237|Baker|{ming2 tian1 bei3 jing1 shu3 qi4 zheng1 ren2 qing2}|明天（北京）暑气蒸人，（晴）。
+train-00000-of-00008-00598|Baker|{pu3 jing1 yu2 ka3 ba1 ye1 wa2}|普京与卡巴耶娃。
+train-00005-of-00008-01070|Baker|{si4 shi4 wo1 an4 chuan4 an4 duo1}|四是窝案串案多。
+train-00002-of-00008-00915|Baker|{nan2 zi3 men4 men4 bu2 le4 de5 li2 kai1}|男子闷闷不乐地离开。
+train-00007-of-00008-01109|Baker|{hong2 guang1 lu4 shang4 de5 qin2 e1 pang2 gong1 jing3 qu1 yi2 du4 rang4 ren2 men5 ren4 wei2 zhe4 li3 jiu4 shi4 e1 pang2 gong1}|红光路上的秦阿旁宫景区，一度让人们认为“这里就是阿旁宫”。
+train-00007-of-00008-00593|Baker|{xiang1 gang3 du4 sha1 fu1 ren2 la4 xiang4 guan3 wo3 qiang2 li4 tui1 jian4 o5}|香港杜莎夫人蜡像馆，我强力推荐哦。
+train-00001-of-00008-00829|Baker|{sui2 hou4 zou1 ying1 da3 kai1 ci4 wo4 fang2 men2}|随后，邹英打开次卧房门。
+train-00007-of-00008-00072|Baker|{er2 qie3 zi4 ji3 zuo4 de5 dong1 xi5 ji4 jian4 kang1 you4 shi2 zai4}|而且，自己做的东西既健康又实在。
+train-00003-of-00008-00697|Baker|{ke3 neng2 yong4 zai4 da4 mi3 zhi4 pin3 pi4 ru2 tang1 yuan2 mi2 fen2 deng3}|可能用在大米制品譬如汤圆、米粉等。
+train-00005-of-00008-00103|Baker|{yi4 xie1 zhuang1 zhe5 fang2 hu4 lan2 gan1 de5 chuang1 hu4 shang4 hai2 gua4 zhe5 wai1 lou2 de5 pai2 zi5}|一些装着防护栏杆的窗户上还挂着“歪楼”的牌子。
+train-00007-of-00008-00253|Baker|{wei4 shen2 me5 ji3 feng1 wu1 gao4 xin4 jiu4 you3 na4 me5 da4 de5 po4 huai4 li4}|为什么几封诬告信就有那么大的破坏力？
+train-00006-of-00008-00149|Baker|{tong2 shi2 song4 hai2 she4 xian2 mai3 mai4 ren2 kou3}|同时，宋还涉嫌买卖人口。
+train-00003-of-00008-00951|Baker|{an4 fang3 zhong1 hei1 zhong1 jie4 cheng1 yi4 ban1 tong1 guo4 ji1 yin1 shai1 cha2 lai2 que4 bao3 luan2 zi3 de5 an1 quan2 xing4}|暗访中，黑中介称一般通过基因筛查来确保卵子的安全性。
+train-00003-of-00008-00360|Baker|{zai4 qing1 dao3 bu4 fen5 ru2 qi3 yin1 jian3 ce4 yan2 ge2 er2 ting2 chan3}|在青岛部分乳企因检测严格而停产。
+train-00006-of-00008-01217|Baker|{hao3 de5 dian4 hua4 jie1 tong1 zhong1}|好的，电话接通中。
+train-00003-of-00008-00820|Baker|{kan4 bu4 qi3 zhe4 xie1 wei4 da2 mu4 di4 man2 zui2 huang3 yan2 de5 ren2}|看不起这些为达目的满嘴谎言的人。
+train-00001-of-00008-00312|Baker|{pai1 mai4 huo4 sheng4 zhe3 neng2 gou4 yu3 ba1 fei1 te4 gong4 jin4 wu3 can1}|拍卖获胜者能够与巴菲特共进午餐。
+train-00005-of-00008-00304|Baker|{zui4 huang1 tang2 de5 yi4 qi3 an4 li4 shi4 wei1 bo2 kai1 fang2 shi4 jian4}|最荒唐的一起案例是“微博开房”事件。
+train-00006-of-00008-00395|Baker|{zhi4 yu2 can2 si3 de5 lv2 guan3 dian4 zhu3 fu4 nv3 ye3 shi4 ta1 men5 you4 pian4 jin4 wu1 hou4 sha1 hai4 de5}|至于惨死的旅馆店主妇女，也是他们诱骗进屋后杀害的。
+train-00005-of-00008-00594|Baker|{zhong1 yu2 you3 ge4 mu4 you3 de5 le5}|终于有个木有的了。
+train-00003-of-00008-00786|Baker|{yi3 gu2 dian3 you1 ya3 wen2 ming2 shi4 jie4 de5 su1 zhou1 jin4 nian2 lai2 xiang1 cun1 lv3 you2 ye3 peng2 bo2 xing1 qi3}|以古典优雅闻名世界的苏州，近年来乡村旅游也蓬勃兴起。
+train-00004-of-00008-00608|Baker|{zui4 gao1 fa2 kuan3 er4 bai3 ba1 shi2 dian3 er4 san1 ba1 liu4 wan4 yuan2}|最高罚款二百八十点二三八六万元。
+train-00001-of-00008-00144|Baker|{yao4 bu5 yao4 gei2 ni3 fang4 shou3 cui1 mian2 qu3}|要不要给你放首催眠曲？
+train-00003-of-00008-00302|Baker|{er2 ru2 guo3 ming2 que4 biao3 shi4 wei4 tai2 wan1 chu1 bing1 ze2 ke3 neng2 hui4 song2 yong3 tai2 du2}|而如果明确表示为台湾出兵，则可能会怂恿“台独”。
+train-00003-of-00008-00804|Baker|{zhe4 ci4 kuai4 di4 hua4 zuo4 ta1 zhi3 shi4 jiang1 juan4 zhou2 zhi2 jie1 fang4 jin4 hua4 tong2 li3}|这次快递画作，他只是将卷轴直接放进画筒里。
+train-00001-of-00008-00032|Baker|{mei2 zheng1 mei2 qiang3 mei2 nao4 bie4 niu5}|没争没抢，没闹别扭。
+train-00000-of-00008-00171|Baker|{hu2 xing4 er2 sheng4 zhuang1 da3 ban4 yu3 liu2 qing1 yun2 xian4 shen1 wei1 ni2 si1 ying2 zhan3}|胡杏儿盛装打扮，与刘青云现身威尼斯影展。
+train-00002-of-00008-00056|Baker|{ran2 hou4 jiu4 ai2 dun4 da3 gui4 jian4 pan2 gui4 dao4 xian4 zai4}|然后，就挨顿打跪键盘跪到现在。
+train-00000-of-00008-00486|Baker|{bian2 mou3 bei4 ya1 xie4 hui2 wei4 nan2 wei4 nan2}|扁某被押解回渭南渭南。
+train-00005-of-00008-00882|Baker|{zui4 te4 bie2 de5 shi4 ji2 jiang1 guo4 sheng1 ri4 de5 huang2 ma1 ma5 ye3 xing4 yun4 ru4 xuan3}|最特别的是，即将过生日的黄妈妈也幸运入选。
+train-00007-of-00008-00503|Baker|{zhe4 ke3 shi4 kai1 tian1 pi4 di4 tou2 yi4 hui2}|这可是开天辟地头一回。
+train-00004-of-00008-00637|Baker|{gen1 ju4 zhi4 di4 wo3 men5 ke2 yi3 kan4 dao4 fen1 ruo4 gan1 ge4 pin2 zhong3}|根据质地我们可以看到分若干个品种。
+train-00004-of-00008-00510|Baker|{wei3 tuo1 zhi4 zuo4 de5 zuan4 shi2 zhen1 de5 shi4 yong4 gu3 hui1 huo4 mao2 fa4 zuo4 cheng2 ma5}|委托制作的钻石真的是用骨灰或毛发做成吗？
+train-00005-of-00008-00941|Baker|{wo3 zhe4 me5 guan1 xin1 ni3 ni3 hai2 shuo1 wo3 fan2}|我这么关心你你还说我烦。
+train-00003-of-00008-00165|Baker|{dui4 ci3 ci4 fang3 wen4 zhong1 mei3 shuang1 fang1 jun1 wei4 zuo4 shi4 xian1 yu4 bao4}|对此次访问，中美双方均未作事先预报。
+train-00002-of-00008-00655|Baker|{ya4 se4 xiao3 zi5 zao1 ge1 mi2 fei1 chuai4 mian4 bu4}|亚瑟小子遭歌迷飞踹面部。
+train-00002-of-00008-01050|Baker|{ru2 he2 mi2 ping2 shuang1 fang1 zhen4 ying2 de5 lie4 hen2 shang1 kou3}|如何弥平双方阵营的裂痕伤口？
+train-00000-of-00008-01245|Baker|{zui4 hou4 ta1 zhi2 hao3 kao4 wu2 dao3 yuan2 bian1 da3 pai1 zi5 bian1 zhai1 wu3}|最后，她只好靠舞蹈员边打拍子，边“斋舞”。
+train-00003-of-00008-01152|Baker|{li4 ru2 mei3 tian1 rang4 ta1 chuan1 zhe5 zang1 yi1 fu5 shang4 xue2 deng3}|例如，每天让她穿着脏衣服上学等。
+train-00007-of-00008-01064|Baker|{hua1 yuan2 kou2 yu3 jiang1 jun5 ba4 dao4 zheng4 zhou1 kan4 huang2 he2 bi4 ran2 xian1 dao4 hua1 yuan2 kou3}|花园口与将军坝：到郑州看黄河，必然先到花园口。
+train-00001-of-00008-00547|Baker|{ying2 pan2 lu4 xiang1 jiang1 sui4 dao4 si4 tiao2 za1 dao4 zong3 chang2 er4 dian3 liu4 wu2 jiu3 gong1 li3}|营盘路湘江隧道四条匝道总长二点六五九公里。
+train-00001-of-00008-00220|Baker|{ta1 cheng1 zheng4 zai4 zhun3 bei4 jiang2 yan2 gao3 bing4 xiang4 wang2 you3 men5 zheng1 qiu2 jian4 yi4}|她称正在准备讲演稿，并向网友们征求建议。
+train-00007-of-00008-00663|Baker|{li4 shi3 kao4 zun1 hua4 ren2 de5 re4 xue4 he2 han4 shui2 xie3 jiu4}|历史，靠遵化人的热血和汗水写就。
+train-00006-of-00008-01190|Baker|{zhe4 ge5 wai4 mian4 dai1 bu4 de2 le5}|这个外面呆不得了。
+train-00006-of-00008-00514|Baker|{guo1 bin1 yi2 kan4 ye4 bu4 mian2 de5 zhao1 pai5 jue2 de5 hao3 xiang4 jian4 dao4 guo4 xiang2 qi3 shi2 ba3 zi4 ji3 xia4 yi2 tiao4}|郭斌一看夜不眠的招牌，觉得好像见到过，想起时把自己吓一跳。
+train-00005-of-00008-00937|Baker|{tao2 bu4 liao3 na4 zhi3 neng2 wen3 zhu4 bang2 fei3}|逃不了，那只能稳住绑匪。
+train-00005-of-00008-00608|Baker|{yong4 hu2 luo2 bo5 zhi1 qin2 cai4 zhi1 bo1 cai4 zhi1 jia1 ru4 ji1 dan4 he2 mian4 mian4 tiao2 ye2 hen3 jin1 dao4}|用胡萝卜汁、芹菜汁、菠菜汁加入鸡蛋和面，面条也很筋道。
+train-00002-of-00008-00760|Baker|{dan4 wo3 men5 de5 sun3 shi1 you2 shui2 lai2 bu3}|但我们的损失由谁来补？
+train-00004-of-00008-01045|Baker|{man4 you1 you1 de5 yi2 ju4 hua4 shi1 ren2 de5 rui4 qi4 bei4 mo2 diao4 da4 ban4}|慢悠悠的一句话，诗人的锐气被磨掉大半。
+train-00005-of-00008-00992|Baker|{wei4 shen2 me5 yao4 ao4 jiao1}|为什么要傲娇？
+train-00006-of-00008-00706|Baker|{cang1 wei4 pu3 bian4 pian1 di1 de5 ji1 jin1 dong4 xiang4 ru2 he2}|仓位普遍偏低的基金动向如何？
+train-00003-of-00008-01162|Baker|{zen3 me5 bu4 gai2 gai2 you3 xie1 ren2 yan3 hong2 de5 xin1 tai4 ne5}|怎么不改改有些人眼红的心态呢！
+train-00003-of-00008-00243|Baker|{pan1 ji1 wen2 qiang2 diao4 shuo1 ren2 kou3 de5 zeng1 zhang2 shi3 que1 shui3 qing2 kuang4 ri4 yi4 e4 hua4 qi4 hou4 bian4 hua4 ye3 shi4 ru2 ci3}|潘基文强调说：“人口的增长使缺水情况日益恶化，气候变化也是如此。
+train-00007-of-00008-01200|Baker|{zeng1 bao3 yi2 zai4 jie2 mu4 lu4 zhi4 xian4 chang3 da4 bao4 guan1 zhong4 qiu3 shi4}|曾宝仪在节目录制现场大爆观众糗事。
+train-00005-of-00008-00277|Baker|{zhe4 hai2 bu4 jian3 dan1 ma5 dai4 zhe5 nv2 you3 mai2 mai2 mai3}|这还不简单嘛，带着女友买买买！
+train-00006-of-00008-00891|Baker|{zai4 tai4 kong1 zhong1 fei1 chuan2 neng2 yi1 kao4 de5 zhi2 you3 tai4 yang2 neng2 yu3 he2 neng2}|在太空中，飞船能依靠的只有太阳能与核能。
+train-00000-of-00008-01180|Baker|{kai1 zhan2 tie3 ying1 xing2 dong4 wei2 jiao3 zhan4 che1 liu2 cuan4 fan4 zui4}|开展“铁鹰”行动，围剿站车流窜犯罪。
+train-00002-of-00008-00264|Baker|{xia4 yi4 miao3 jiu4 yun1 guo4 qu4 le5}|下一秒就晕过去了。
+train-00005-of-00008-00282|Baker|{xin1 zheng4 shi2 shi1 hou4 ao4 sai4 huo4 jiang2 zhe3 ye3 yao4 can1 jia1 gao1 kao3 tian2 bao4 zhi4 yuan4}|新政实施后，奥赛获奖者也要参加高考、填报志愿。
+train-00005-of-00008-01031|Baker|{yang2 zi2 wan3 bao4 ji4 zhe3 yi3 zi4 ji3 de5 qing2 kuang4 ce4 shi4 le5 yi4 fan1}|扬子晚报记者以自己的情况测试了一番。
+train-00001-of-00008-01180|Baker|{yi3 qian2 you3 luo2 bo5 zhao1 pin4 xian4 zai4 you4 you3 lan2 qiu2 zhao1 pin4}|以前有萝卜招聘，现在又有篮球招聘。
+train-00002-of-00008-00639|Baker|{jie2 zhi3 yi1 yue4 er4 shi2 wu3 ri4 jie1 ru4 dian4 hua4 yi2 wan4 liu4 qian1 yu2 ge4}|截止一月二十五日，接入电话一万六千余个。
+train-00002-of-00008-00437|Baker|{wo3 yi4 ting1 shuo1 yao4 zhao3 qi2 ta1 ren2 qu4 yan3 shi2 jiu4 an4 shuang3 le5 shuang2 si3 le5 tai4 hao3 le5}|我一听说要找其他人去演时，就暗爽了，爽死了，太好了。
+train-00005-of-00008-00811|Baker|{liang3 ge4 kan4 huo4 de5 ke4 ren2 zhong1 yi2 ge4 shi4 you4 lian3 gua1 shang1 yi2 ge4 shi4 zuo2 jiao3 da4 tui3 ceng4 po4 le5}|两个看货的客人中，一个是右脸刮伤，一个是左脚大腿蹭破了。
+train-00001-of-00008-00370|Baker|{ao4 di4 li4 zong2 tong3 fei1 she4 er3 he2 fu1 ren5 pei2 tong2 can1 guan1}|奥地利总统菲舍尔和夫人陪同参观。
+train-00000-of-00008-00474|Baker|{er2 yang3 yu2 hu4 que4 zhi3 neng2 gan1 chou3 zhe5}|而养鱼户却只能干瞅着。
+train-00007-of-00008-00141|Baker|{zuo2 ri4 xiao1 fang2 yuan2 cha2 kan4 huo2 chang3}|昨日，消防员察看火场。
+train-00001-of-00008-00873|Baker|{xin1 lang2 chi2 yi2 le5 xia4 rang4 niao4 bie1 de5}|新郎迟疑了下：“让尿憋的。
+train-00000-of-00008-00466|Baker|{xie4 an1 qi2 gen1 nei4 di4 ge1 shou3 xu2 zi2 wai3 yi4 qi3 ren4 da4 yun4 hui4 biao2 yan3 jia1 bin1}|谢安琪跟内地歌手徐子崴一起任“大运会”表演嘉宾。
+train-00000-of-00008-00480|Baker|{bi4 xu1 pei4 yi2 ge5 tao4 pen2}|必须配一个套盆。
+train-00003-of-00008-00443|Baker|{chun1 tian1 wan4 wu4 fu4 su1 sheng1 ji1 ang4 ran2 shi4 ren2 men5 tiao2 yang3 shen1 xin1 de5 hao3 shi2 ji1}|春天万物复苏，生机盎然，是人们调养身心的好时机。
+train-00004-of-00008-00709|Baker|{nan2 zi3 ji4 xu4 bai3 nong4 ji1 mu4 shou2 fa2 yu3 shang4 ci4 wan2 quan2 yi2 yang4}|男子继续摆弄积木，手法与上次完全一样。
+train-00006-of-00008-00051|Baker|{wo3 hai2 bu2 hui4 tiao4 wu3 liao2 tian1 wo3 shi4 zhuan1 ye4 xuan2 shou3 ya5}|我还不会跳舞，聊天我是专业选手呀。
+train-00007-of-00008-01091|Baker|{zhong1 ri4 guan1 xi5 yue4 lai2 yue4 mi4 qie4 xue2 xi2 han4 yu3 de5 ri4 ben3 ren2 yi4 bu2 ji4 qi2 shu4}|中日关系越来越密切，学习汉语的日本人亦不计其数。
+train-00006-of-00008-00621|Baker|{ci3 qian2 ou1 yang1 hang2 he2 yin4 du4 yang1 hang2 yi3 jing1 xuan1 bu4 jiang4 di1 li4 lv4}|此前，欧央行和印度央行已经宣布降低利率。
+train-00002-of-00008-00432|Baker|{luo2 mu3 ni2 zai4 ye1 lu4 sa1 leng3 fa1 biao2 yan3 shuo1}|罗姆尼在耶路撒冷发表演说。
+train-00001-of-00008-00568|Baker|{zhe4 ge4 yue4 yao4 yang3 huo2 zi4 ji3 you2 dian3 nan2}|这个月要养活自己有点难。
+train-00000-of-00008-00745|Baker|{yi4 kai1 shi3 ban4 an4 min2 jing3 ye3 zhuo1 mo1 bu2 tou4}|一开始办案民警也捉摸不透。
+train-00004-of-00008-00785|Baker|{dang1 lu4 ren2 gao1 han3 nian2 si3 ren2 le5 shi2 gai1 che1 cai2 che4 di3 ting2 xia4}|当路人高喊“碾死人了”时，该车才彻底停下。
+train-00004-of-00008-00065|Baker|{jie2 guo3 ji1 qi4 chu1 le5 gu4 zhang4 qian2 bei4 tun1 le5 que4 mei2 da3 yin4 cun2 dan1}|结果机器出了故障，钱被吞了却没打印存单。
+train-00004-of-00008-00884|Baker|{shi2 ge2 liang3 nian2 yu2 ba4 juan2 tu3 chong2 lai2}|时隔两年，“鱼霸”卷土重来。
+train-00000-of-00008-00516|Baker|{you3 suan1 zhong4 du2 zhe3 ke3 yong4 tan4 suan1 qing1 na4}|有酸中毒者，可用碳酸氢钠。
+train-00001-of-00008-00700|Baker|{zhe4 jiang1 hui4 xiao1 chu2 zhong1 wen2 dian4 nao2 ruan3 jian4 yu3 wai4 wen2 ruan3 jian4 hu4 bu4 jian1 rong2 de5 zhang4 ai4}|这将会消除中文电脑软件与外文软件互不兼容的障碍。
+train-00004-of-00008-00482|Baker|{si4 shi4 bu4 fen5 ye4 wu4 cun2 zai4 shou3 xu4 xia2 ci1}|四是部分业务存在手续瑕疵。
+train-00001-of-00008-00201|Baker|{san1 yao4 jian1 chi2 dang2 wei3 tong2 lan3 de5 yuan2 ze2}|三要坚持党委统揽的原则。
+train-00002-of-00008-00918|Baker|{ran2 hou4 wo3 men5 jiu4 wang3 lou2 ding2 pao3 zai4 lou2 ding3 xiang4 xia4 hu1 jiu4}|然后我们就往楼顶跑，在楼顶向下呼救。
+train-00007-of-00008-00822|Baker|{ju1 min2 shuo1 zhe4 xie1 liu2 lang4 er2 si4 hu1 tu1 ran2 xiao1 shi1 le5 bu4 zhi1 qian2 wang3 he2 chu4}|居民说，这些流浪儿似乎突然消失了，不知前往何处。
+train-00001-of-00008-01074|Baker|{ta1 de5 mei3 wen2 shi4 di4 ba1 pian1 di4 li3 wei4 zhi5 ju1 zhong1}|他的美文是第八篇，地理位置居中。
+train-00005-of-00008-00604|Baker|{xie4 jia1 ge2 yan2 mei3 tian1 sheng1 ri4}|谢家格言，每天生日。
+train-00005-of-00008-00959|Baker|{jia1 su4 zhe4 yi2 fan4 zui4 tuan2 huo3 mie4 wang2 de5 jing4 shi4 yi2 ge5 xiao2 xiao3 de5 wang2 tie3}|加速这一犯罪团伙灭亡的，竟是一个小小的网帖。
+train-00007-of-00008-01007|Baker|{ka3 mei2 lun2 biao3 shi4 gan3 xie4 bing4 qing2 zhuan3 da2 dui4 wen1 jia1 bao3 zong2 li3 de5 wen4 hou4}|卡梅伦表示感谢并请转达对温家宝总理的问候。
+train-00006-of-00008-00889|Baker|{hou4 lai2 you3 peng2 you3 shuo1 he2 huo3 kai1 xiao2 jiu3 ba1 wo3 lian2 kou3 dou1 mei2 gan3 kai1 lao3 hanr4 geng4 bu4 zhun3}|后来有朋友说合伙开小酒吧，我连口都没敢开，老汉儿更不准。
+train-00000-of-00008-00985|Baker|{ge3 you1 xian4 shen1 zhong1 wang3 yu2 li3 na4 he2 ying3}|葛优现身中网与李娜合影。
+train-00003-of-00008-00712|Baker|{xue2 xiao4 bei4 tui1 le5 shi2 ji2 mi2 yuan3}|学校被推了十几米远。
+train-00002-of-00008-01176|Baker|{suo3 wei4 ren2 min2 bi4 beng1 pan2 shuo1 chun2 cui4 shi4 yi4 zhong3 wei1 yan2 song3 ting1}|所谓“人民币崩盘说”纯粹是一种危言耸听。
+train-00002-of-00008-00387|Baker|{fang2 zhu3 yao1 qiu2 hong3 zhe4 xie1 xiao3 hai2 jin3 kuai4 ru4 shui4}|房主要求哄这些小孩尽快入睡。
+train-00007-of-00008-00754|Baker|{huo4 de2 yi2 ding4 fen1 shu4 de5 wai4 ji2 ren2 shi4 jiang1 bei4 shi4 wei2 gao1 ji2 ren2 cai2}|获得一定分数的外籍人士将被视为“高级人才”。
+train-00005-of-00008-00991|Baker|{shi4 yin1 wei4 wo3 hai2 shi4 dan1 shen1 suo2 yi3 hui4 you3 zhe4 me5 duo1 yao2 yan2 ba5}|是因为我还是单身所以会有这么多谣言吧。
+train-00000-of-00008-00774|Baker|{ta1 ye3 yi2 yue4 cheng2 wei2 qian1 wan4 fu4 weng1}|他也一跃成为千万富翁。
+train-00001-of-00008-00920|Baker|{kan4 na4 teng2 kong1 er2 qi3 de5 tiao4 ban3}|看那腾空而起的跳板。
+train-00002-of-00008-01075|Baker|{sui2 hou4 hu2 mou3 chai2 xiang4 hu2 bin1 suo3 bao4 jing3}|随后，胡某柴向湖滨所报警。
+train-00000-of-00008-01172|Baker|{deng4 chao1 hai2 tou4 lu4 dang4 tian1 qia4 feng2 er2 man3 yue4 zhi2 xiang3 zao2 dian3 hui2 jia1}|邓超还透露，当天恰逢儿满月，只想早点回家。
+train-00005-of-00008-01223|Baker|{zhe4 yuan4 jing3 da4 gai4 zhi1 cheng1 qi3 ta1 de5 zi4 xin4}|这愿景大概支撑起他的自信。
+train-00003-of-00008-00790|Baker|{nai3 nai5 tou2 fa5 yi3 jing1 hua1 bai2 shen1 shang4 chuan1 zhe5 yi2 jian4 mian2 ao3}|奶奶头发已经花白，身上穿着一件棉袄。
+train-00007-of-00008-01048|Baker|{yu2 xiong2 shi4 ge4 shao3 yan2 de5 ren2 yi4 xin1 yi2 yi4 zai4 chi1 mian4}|余雄是个少言的人，一心一意在吃面。
+train-00001-of-00008-01118|Baker|{yin1 wei4 ta1 zai4 yan1 de5 wai4 bao1 zhuang1 zuo4 guo4 ji4 hao4 yi3 fang2 zhi2 you3 ren2 na2 jia3 yan1 qiao1 zha4}|因为他在烟的外包装做过记号，以防止有人拿假烟敲诈。
+train-00007-of-00008-00013|Baker|{jiu4 zai4 zhe4 shi2 ta1 bei4 peng2 you5 po1 le5 leng2 shui3}|就在这时，她被朋友泼了冷水。
+train-00001-of-00008-01042|Baker|{you4 po4 you4 ai3 de5 wa3 fang2 bian4 cheng2 xin1 lou2 yi4 yu4 qing1 he2 hai2 zi5 men5 dun4 shi2 kan4 dao4 le5 xi1 wang4}|又破又矮的瓦房变成新楼，易玉清和孩子们顿时看到了希望。
+train-00006-of-00008-00870|Baker|{bu4 hao3 yi4 si5 wo3 hai2 mei2 you3 wan2 guo4}|不好意思，我还没有玩过。
+train-00007-of-00008-00989|Baker|{bi3 ru2 da4 zha2 xie4 shang4 shi4 le5 jiu4 fa1 pang2 xie4 quan4}|比如大闸蟹上市了，就发螃蟹券。
+train-00003-of-00008-00739|Baker|{yin4 du4 ni2 xi1 ya4 de5 a1 er2 bi3 he2 rui4 dian3 de5 sun1 xiao3 qing1 fen1 lie4 nan2 nv3 qiu2 yuan2 bang2 shou3}|印度尼西亚的阿尔比和瑞典的孙小青分列男、女球员榜首。
+train-00003-of-00008-00332|Baker|{tu1 ran2 bei4 ji4 zhe3 wei2 du3 hu4 er2 xin1 qie4 de5 jiang1 wen2 yong4 shou3 tui1 sang3 jing4 tou2}|突然被记者围堵，护儿心切的姜文用手推搡镜头。
+train-00002-of-00008-00145|Baker|{jin4 zhi2 yi3 wai1 qu1 bian2 sun2 deng3 fang1 shi4 shi3 yong4 fei1 wu4 zhi4 wen2 hua4 yi2 chan3}|禁止以歪曲、贬损等方式使用非物质文化遗产。
+train-00001-of-00008-00811|Baker|{hao3 yi2 pai4 xiao1 shu1 cang1 liang2 de5 jing3 se4}|好一派萧疏苍凉的景色。
+train-00007-of-00008-01165|Baker|{sui2 zhe5 tian1 qi4 zhuan3 re4 ge4 di4 de5 you2 yong3 chang2 suo3 kai1 shi3 ren2 tou2 cuan2 dong4}|随着天气转热，各地的游泳场所开始人头攒动。
+train-00004-of-00008-00402|Baker|{zui4 zhong1 an1 dong1 ni2 yi3 qi1 bi3 yi1 de5 ju4 da4 you1 shi4 na2 dao4 guan4 jun1}|最终，安东尼以七比一的巨大优势拿到冠军。
+train-00005-of-00008-01212|Baker|{nan2 zi3 yi4 zhi2 gen1 zai4 lv3 gu1 niang5 hou4 mian4}|男子一直跟在吕姑娘后面。
+train-00001-of-00008-00957|Baker|{dui4 na4 xie1 guang1 shua2 zui3 pi2 zi5 guang1 zhuo2 mo5 ren2 bu4 zhuo2 mo5 shi4 de5 jian1 jue2 bu2 yong4}|对那些光耍嘴皮子、光琢磨人不琢磨事的坚决不用。
+train-00003-of-00008-00091|Baker|{wo3 ken2 qing2 guang3 da4 fu4 mu3 rang4 hai2 zi5 shu2 du2 di4 zi3 gui1 xiao4 jing4 fu4 mu2 bai3 shan4 xiao4 wei2 xian1}|我恳请广大父母让孩子熟读“弟子规”孝敬父母，百善孝为先。
+train-00003-of-00008-00342|Baker|{wei4 le5 bi4 mian3 ma2 fan5 he2 zheng1 yi4 xu3 duo1 ren2 ning4 yuan4 shi3 yong4 si1 jia1 che1}|为了避免麻烦和争议，许多人宁愿使用私家车。
+train-00007-of-00008-00376|Baker|{wo3 bu2 yao4 fen3 si1 le5 zhi1 chi2 wo3 jiu4 duo1 zhuan3 fa1 ci2 tie3}|我不要粉丝了，支持我就多转发此帖。
+train-00005-of-00008-00873|Baker|{lou2 fang2 zhi1 jian1 de5 da4 pian4 cao3 ping2 sa2 man3 jin1 guang1 shan2 shan3 de5 pu2 gong1 ying1 hua1 duo3}|楼房之间的大片草坪，洒满金光闪闪的蒲公英花朵。
+train-00002-of-00008-01139|Baker|{yu2 shi4 ta1 chen4 er2 zi5 zai4 wo4 shi4 wan2 dian4 nao3 zhi1 ji1 jiang1 er2 zi5 qia1 si3}|于是，他趁儿子在卧室玩电脑之机，将儿子掐死。
+train-00007-of-00008-00935|Baker|{di4 er4 nian2 sheng1 le5 ge5 da4 pang4 xiao3 zi5}|第二年，生了个大胖小子。
+train-00005-of-00008-00111|Baker|{ji3 fen1 zhong1 hou4 ku4 fang2 cuan1 chu1 shu4 mi3 gao1 de5 huo3 miao2 duo1 liang4 xiao1 fang2 che1 gan3 lai2 mie4 huo3}|几分钟后，库房蹿出数米高的火苗，多辆消防车赶来灭火。
+train-00005-of-00008-00554|Baker|{yi2 ge4 ren2 cao1 chi2 jia1 wu4 xi3 yi1 zhu3 fan4}|一个人操持家务洗衣煮饭。
+train-00005-of-00008-00972|Baker|{hou4 lai2 xiao3 mao2 yi4 zhi2 mei2 ba3 qian1 hao3 de5 he2 tong5 na2 gei3 wang2 xian1 sheng5}|后来，小毛一直没把签好的合同拿给王先生。
+train-00007-of-00008-00262|Baker|{dui4 yu2 wu2 li4 ke3 tu2 de5 ke4 hu4 qu2 dao4 ye2 ba3 ta1 men5 qia1 duan4 le5}|对于无利可图的客户渠道，也把它们掐断了。
+train-00000-of-00008-00956|Baker|{mu4 qian2 yi1 yuan4 yi3 jing1 wei4 wang2 jing4 chou1 qu3 le5 gu2 sui3 jin4 xing2 hua4 yan4}|目前医院已经为王静抽取了骨髓进行化验。
+train-00003-of-00008-00590|Baker|{gan3 jue2 wo3 ti2 chu1 shen2 me5 shi4 lao3 hanr4 dou1 bu4 da1 ying4}|感觉我提出什么事，老汉儿都不答应。
+train-00001-of-00008-00225|Baker|{bu4 fen5 nai2 fen2 qi3 ye4 mao2 li4 lv4}|部分奶粉企业毛利率。
+train-00003-of-00008-01181|Baker|{hu1 yu4 duo1 nian2 de5 san1 wang3 he2 yi1 wen4 ti2 wei4 he2 chang2 qi1 xuan2 er2 wei4 jue2}|呼吁多年的三网合一问题为何长期悬而未决？
+train-00002-of-00008-00431|Baker|{xue2 sheng1 yong4 li4 zuan4 xiao3 ya1 zi5 de5 shen1 ti3}|学生用力攥小鸭子的身体。
+train-00005-of-00008-00263|Baker|{dan4 ta1 shang1 kou3 de5 teng2 tong4 yi1 jiu4 bu4 shi2 fa1 chu1 heng1 heng5 sheng1}|但她伤口的疼痛依旧，不时发出哼哼声。
+train-00007-of-00008-01028|Baker|{si1 di3 xia4 ye3 bu4 ceng2 jian4 mian4 guo4}|私底下也不曾见面过。
+train-00000-of-00008-00316|Baker|{en1 cha1 cha1 quan1 quan1 shi4 shen2 me5}|恩？叉叉圈圈是什么？
+train-00002-of-00008-00014|Baker|{ta1 de5 cao2 fa3 ji2 wei2 yan2 zheng3 bu2 luan4 fang1 cun4}|他的草法极为严整，不乱方寸。
+train-00005-of-00008-00787|Baker|{bu4 shao3 kai1 dian4 dong4 che1 de5 shi4 min2 you2 yu2 yu3 xia4 de5 tai4 da4 zhi3 neng2 zai4 qiao2 xia4 duo2 yu3}|不少开电动车的市民由于雨下得太大，只能在桥下躲雨。
+train-00001-of-00008-00036|Baker|{dang1 shi2 wo2 lia2 qi3 le5 fen1 qi2}|当时我俩起了分歧。
+train-00002-of-00008-00776|Baker|{jiao1 jing3 bei4 dian1 xia4 che1 shuai1 zai4 ma3 lu4 shang4}|交警被颠下车摔在马路上。
+train-00001-of-00008-00629|Baker|{geng4 he2 shi4 bing1 kou3 wei4 de5 shi4 ying2 she4 yi3 hou4 ke2 yi3 gua4 mei2 nv3 tu2 pian4}|更合士兵口味的是，营舍以后可以挂美女图片。
+train-00001-of-00008-00980|Baker|{liang4 hua4 kao3 he2 xin1 chou2 yu3 ye4 ji4 gua4 gou1 de5 ji1 zhi4}|量化考核、薪酬与业绩挂钩的机制。
+train-00000-of-00008-00199|Baker|{ci3 wen2 jing1 zhai1 bian1 biao1 ti2 wei2 bian1 zhe3 zhi4 zuo4}|此文经摘编，标题为编者制作。
+train-00002-of-00008-00473|Baker|{shou1 fei4 ting2 de5 zi4 dong4 lan2 gan1 yi3 bei4 xie4 xia4}|收费亭的自动栏杆已被卸下。
+train-00007-of-00008-00459|Baker|{wo3 lve4 dong3 dan4 shi4 hai2 bu2 tai4 hui4}|我略懂。但是还不太会！
+train-00001-of-00008-00602|Baker|{wang2 yu4 shan1 bu2 guo4 shi4 yi1 ke4 zhao1 meng2 zhi4 sha1 gong1 chen2 zhong1 de5 yi4 ming2}|王玉珊不过是伊克昭盟治沙功臣中的一名。
+train-00006-of-00008-00474|Baker|{san1 jian1 zhuan1 qi4 de5 wa3 fang2 li3 mian4 la1 ji1 bian4 di4 xian3 de5 shi2 fen1 ang1 zang1}|三间砖砌的瓦房，里面垃圾遍地，显得十分肮脏。
+train-00005-of-00008-00041|Baker|{yi3 zhi4 yu2 qu1 yu4 guo4 fen4 ji2 zhong1 ye4 wu4 fan4 wei2 tai4 guo4 zhai2 xiao3 gong1 si1 quan2 li4 que1 fa2 zhi4 heng2}|以至于区域过分集中、业务范围太过窄小、公司权利缺乏制衡。
+train-00005-of-00008-01145|Baker|{suan4 le5 ni3 shuo1 zen3 yang4 jiu4 zen3 yang4 ba5 wo3 wu2 suo3 wei4 le5}|算了，你说怎样就怎样吧，我无所谓了。
+train-00007-of-00008-00778|Baker|{yi3 shang4 kuan3 wu4 zhe2 he2 ren2 min2 bi4 si4 shi2 si4 dian3 si4 liu4 si4 san1 wan4 yuan2}|以上款物折合人民币四十四点四六四三万元。
+train-00005-of-00008-00694|Baker|{dang1 nv3 ren2 rong2 yi4 ma5 xia4 tian1 chuan1 ge4 qun2 zi5 hai2 dei3 zai4 chuan1 ge5 an1 quan2 ku4}|当女人容易吗，夏天穿个裙子还得再穿个安全裤！
+train-00003-of-00008-00881|Baker|{fang2 zi5 zu1 chu1 qu4 le5 kong2 mou3 que4 reng2 yao4 pei2 qian2}|房子租出去了，孔某却仍要赔钱。
+train-00007-of-00008-00628|Baker|{nan2 tou2 xian4 ri4 yue4 tan2 lan3 che1 quan2 bu4 zan4 ting2 mu4 qian2 zheng4 zai4 shu1 san4 you2 ke4}|南投县日月潭缆车全部暂停，目前正在疏散游客。
+train-00002-of-00008-01161|Baker|{bi4 mian3 yin1 xue2 sheng1 shang4 xue2 nan2 du4 zeng1 jia1 zao4 cheng2 guo4 zao3 chuo4 xue2}|避免因学生上学难度增加造成过早辍学。
+train-00001-of-00008-00517|Baker|{ling2 san1 nian2 liu2 yu4 quan2 xue4 ai2 li2 shi4 bao3 zhu1 ye2 you3 chu1 xi2 sang1 li3}|零三年刘玉权血癌离世，宝珠也有出席丧礼。
+train-00004-of-00008-01085|Baker|{si1 ji1 xu2 mou3 meng2 cai3 you2 men2 shuai3 kai1 fang1 mou3 dai4 zhe5 qian2 kai1 zou3 le5}|司机许某猛踩油门，甩开方某，带着钱开走了。
+train-00004-of-00008-00090|Baker|{mei2 you3 ren2 zhi1 dao4 bai2 er4 shao2 qi3 le5 duo1 shao3 zuo4 yong4}|没有人知道白二少起了多少作用。
+train-00001-of-00008-00406|Baker|{jing1 cheng2 yin2 hang2 fang2 dai4 zheng4 ce4 zai4 gua1 jin3 feng1}|京城银行房贷政策再刮“紧”风。
+train-00004-of-00008-01198|Baker|{mei2 deng3 ta1 fan3 ying4 guo4 lai5 yi3 bei4 chuang3 ru4 zhe3 en4 dao3}|没等他反应过来，已被闯入者摁倒。
+train-00001-of-00008-00511|Baker|{xi3 che1 hang2 li3 wu2 fa1 bing1 zheng4 zuan4 zhe5 gao1 ya1 shui3 qiang1 xi3 che1}|洗车行里，吴发兵正攥着高压水枪洗车。
+train-00007-of-00008-00908|Baker|{zai4 li4 shan1 lu4 yi4 jia1 chao1 shi4 yi2 wei4 xiao1 fei4 zhe3 zheng4 zi3 xi4 duan1 xiang2 cheng2 fen4 biao3}|在历山路一家超市，一位消费者正仔细端详成分表。
+train-00004-of-00008-00104|Baker|{teng2 xun4 wei1 bo2 chu1 le5 yi2 ge5 gong1 neng2 chui1 yi4 chui1}|腾讯微博出了一个功能吹一吹。
+train-00007-of-00008-00728|Baker|{wo3 gan2 jin3 fan1 qian2 bao1 wan2 le5 jiu4 sheng4 wu3 mao2 le5 bao4 jing3 ba5 shou3 ji1 ne5}|我赶紧翻钱包，完了，就剩五毛了，报警吧，手机呢？
+train-00005-of-00008-00726|Baker|{dai4 dao4 jiu2 dian3 si4 ge5 ren2 gai1 shuo1 de5 hua4 dou1 shuo1 wan2 le5 hun1 ran2 yu4 shui4}|待到九点，四个人该说的话都说完了，昏然欲睡。
+train-00003-of-00008-00978|Baker|{jia1 qiang2 bi4 ye4 sheng1 jiu4 ye4 zhi2 dao3 jiu4 ye4 fu2 wu4 he2 jiu4 ye4 yuan2 zhu4}|加强毕业生就业指导、就业服务和就业援助。
+train-00001-of-00008-00973|Baker|{yi2 shi4 shang4 fei4 sen1 you2 si1 ka2 bi3 ji2 tuan2 yu3 sheng1 wu4 yi1 yao4 yuan2 qian1 shu3 he2 zuo4 xie2 yi4}|仪式上，费森尤斯卡比集团与生物医药园签署合作协议。
+train-00003-of-00008-00005|Baker|{pao1 shi1 di4 dian3 jiao4 wei2 pian1 pi4 fu4 jin4 shao3 ren2 ju1 zhu4}|抛尸地点较为偏僻，附近少人居住。
+train-00002-of-00008-00740|Baker|{gong1 si1 zhao1 pin4 ying4 pin4 zhe3 yao4 tian2 biao3 xie3 zi4 ji3 de5 ji1 ben3 xin4 xi1}|公司招聘，应聘者要填表写自己的基本信息。
+train-00005-of-00008-00224|Baker|{dan4 zhu4 le5 jin3 ban4 nian2 ge1 ge5 you4 yin1 feng1 shui3 wen4 ti2 ban1 li2 qian1 hui2 jia1 duo1 li4 shan1 jiu4 ju1}|但住了仅半年，哥哥又因风水问题搬离，迁回加多利山旧居。
+train-00001-of-00008-00708|Baker|{ci3 wai4 yi1 wan4 nuo4 fu1 hai2 zhang3 kong4 zhe5 duo1 jia1 du2 chang3}|此外，伊万诺夫还掌控着多家赌场。
+train-00001-of-00008-00827|Baker|{you3 xie1 gou4 wu4 wang3 zhan4 hai2 zhuan1 men2 chu1 shou4 jun1 yong4 nei4 yi1 he2 wa4 zi5}|有些购物网站还专门出售军用内衣和袜子。
+train-00002-of-00008-00538|Baker|{xuan3 ba2 kao3 shi4 men2 kan3 gao1 nei4 rong2 nan2}|选拔考试门槛高、内容难。
+train-00007-of-00008-00137|Baker|{er2 jiang1 chi2 ka3 ren2 duo1 xiang4 zhong4 yao4 xin4 xi1 chi4 luo2 luo3 bao4 guang1 de5 nong2 hang2 shang4 shu2 shou3 jia1}|而将持卡人多项重要信息“赤裸裸”曝光的，农行尚属首家。
+train-00000-of-00008-01000|Baker|{cai4 shao4 fen1 pai1 tuo1 ye3 bu2 ren4 la5}|蔡少芬拍拖也不认啦！
+train-00000-of-00008-00162|Baker|{zui4 hou4 mo3 diao4 kou2 jiao3 tuo4 mo5 zuo4 niao3 shou4 san4}|最后抹掉口角唾沫，作鸟兽散。
+train-00000-of-00008-00837|Baker|{ju4 ti3 shi2 jian1 yi3 diao4 du4 ming4 ling4 wei2 zhun3}|具体时间以调度命令为准。
+train-00002-of-00008-01017|Baker|{mi2 xue3 jian4 dao4 ji4 zhe3 shi2 yi4 lian3 jing1 ya4 ji2 hou4 ji2 qiang2 yan2 huan1 xiao4}|米雪见到记者时一脸惊讶，及后即强颜欢笑。
+train-00005-of-00008-00455|Baker|{xiang1 guan1 qing2 kuang4 dou1 zai4 ta1 men5 nar4 ni3 ying1 gai1 tong1 guo4 sheng3 yao4 jian1 ju2 liao2 jie3 yi2 xia4 qing2 kuang4}|相关情况都在他们那儿，你应该通过省药监局了解一下情况。
+train-00001-of-00008-00575|Baker|{li3 zhong1 duo3 gei3 gong1 gong5 wei4 fan4}|李中朵给公公喂饭。
+train-00005-of-00008-00845|Baker|{wo3 cai1 zhong4 le5 zhe4 kai1 tou2 que4 cai1 bu2 zhong4 zhe4 jie2 ju2}|我猜中了这开头，却猜不中这结局。
+train-00001-of-00008-00507|Baker|{zhe4 zhao4 xiang4 yao4 deng3 shou2 zhang3 zai4 nar4 zhan4 zhe5}|这照相要等首长，在那儿站着。
+train-00006-of-00008-00216|Baker|{na4 me5 bi3 tai4 yang5 da4 shi2 bei4 de5 heng2 xing1 ne5}|那么比太阳大十倍的恒星呢？
+train-00003-of-00008-01158|Baker|{meng4 mou3 tu1 ran2 lou3 zhu4 si1 si1 ran2 hou4 qin1 wen3 ta1}|孟某突然搂住丝丝，然后亲吻她。
+train-00007-of-00008-00814|Baker|{ta1 shuo1 dang1 shi2 zai4 pian4 chang3 huo4 bo2 ji1 hu1 gen1 suo2 you3 ren2 gan4 guo4 jia4}|他说，当时在片场，霍伯几乎跟所有人干过架。
+train-00003-of-00008-00674|Baker|{ta1 zai4 dai4 biao3 lv4 shi1 wen4 hua4 xia4 jiao1 dai4 jie1 shou4 nv3 bing1 pan2 wen4 de5 jing1 li4}|他在代表律师问话下，交代接受女兵盘问的经历。
+train-00001-of-00008-00803|Baker|{nan2 lv3 ke4 mian4 dui4 mao2 wei4 dong1 de5 dang1 chang3 pan2 wen4 shi3 zhong1 duo2 duo3 shan2 shan3 ji2 yu2 tuo1 shen1}|男旅客面对毛卫东的当场盘问，始终躲躲闪闪，急于脱身。
+train-00006-of-00008-00413|Baker|{er2 dang1 shi2 de5 li3 you2 ye3 shi4 yuan2 cai2 liao4 shang4 zhang3 guo4 kuai4}|而当时的理由也是原材料上涨过快。
+train-00006-of-00008-00147|Baker|{ju4 xi1 da4 huo3 zao4 cheng2 de5 zhi2 jie1 cai2 chan2 sun3 shi1 wei2 san1 wan4 ling2 wu2 bai3 qi1 shi2 yuan2}|据悉，大火造成的直接财产损失为三万零五百七十元。
+train-00005-of-00008-01221|Baker|{zhe4 ge4 ling2 chuang1 kou3 you4 shi4 ru2 he2 xuan3 ze2 de5}|这个“零窗口”又是如何选择的？
+train-00004-of-00008-00443|Baker|{ni3 yi2 ding4 shi4 nong4 cuo4 le5 bu2 shi4 wo3 jiao4 de5 wai4 mai4}|你一定是弄错了，不是我叫的外卖。
+train-00000-of-00008-00350|Baker|{zai4 jian1 ce4 zhan4 pang2 you3 yi4 jia1 shun4 lu4 fa1 lv2 rou4 kuai4 can1 dian4}|在监测站旁有一家顺路发驴肉快餐店。
+train-00007-of-00008-00323|Baker|{zhi3 shi4 san1 yi1 fang1 mian4 ku3 yu2 mei2 you3 que4 zao2 zheng4 ju4}|只是三一方面苦于没有确凿证据。
+train-00004-of-00008-00421|Baker|{nv2 zi3 jing1 kong3 wan4 fen1 lian2 sheng1 qiu2 rao2}|女子惊恐万分，连声求饶。
+train-00007-of-00008-00655|Baker|{cong2 ci3 ge1 dong3 de2 le5 yi2 ge5 dao4 li3 zuo4 ren2 yao4 cheng2 shi2}|从此哥懂得了一个道理，做人要诚实。
+train-00001-of-00008-00585|Baker|{zhi3 yao4 gou3 yi2 jiao4 geng3 su4 lin2 jiu4 dei2 qi3 lai2 chou2 chou3 kan4 shi4 bu2 shi4 lai2 le5 wai4 ren2}|只要狗一叫，耿素林就得起来瞅瞅，看是不是来了外人。
+train-00000-of-00008-01238|Baker|{long2 juan3 feng1 jiang1 gong1 chang3 wu1 ding3 dou1 juan2 zou3 le5}|龙卷风将工厂屋顶都卷走了。
+train-00006-of-00008-01141|Baker|{gang1 kan4 jian4 ge5 da2 ti2 ka3 wo2 ye3 shuo1 ge5}|刚看见个答题卡，我也说个。
+train-00007-of-00008-00081|Baker|{shu4 ci4 xun2 wen4 yi1 sheng1 lu2 mou3 que4 hui2 fu4 mei2 you3 da4 ai4}|数次询问医生鲁某，却回复没有大碍。
+train-00001-of-00008-00463|Baker|{yan4 de2 xia4 ze2 ma4 kang2 de2 zhu4 ya1 zha4}|咽得下责骂，扛得住压榨。
+train-00004-of-00008-00042|Baker|{en1 ge2 er3 xi4 shu4 shi4 shi2 pin3 zhi1 chu1 zong3 e2 zhan4 ge4 ren2 xiao1 fei4 zhi1 chu1 zong3 e2 de5 bi3 zhong4}|恩格尔系数是食品支出总额占个人消费支出总额的比重。
+train-00000-of-00008-00849|Baker|{ta1 yao1 qiu2 yao4 ren4 zhen1 xi1 qu3 jiao4 xun4 cha2 zhao3 yuan2 yin1}|他要求要认真吸取教训，查找原因。
+train-00007-of-00008-00661|Baker|{dian4 yuan2 cong2 lai2 mei2 zhuang1 guo4 du2 pin3 xiao1 de5 shen2 me5 du2}|店员：“从来没装过毒品，消的什么毒！
+train-00007-of-00008-00773|Baker|{dan4 shi4 wei4 lai2 ji3 nian2 nei4 da4 xue2 sheng1 jiu4 ye4 xing2 shi4 yi1 ran2 yan2 jun4}|但是未来几年内，大学生就业形势依然严峻。
+train-00002-of-00008-00761|Baker|{chen2 tie3 dai4 zhe5 liu2 ying2 pao3 dao4 ha1 er3 bin1 xiang3 zai4 nar4 duo2 ji3 tian1}|陈铁带着刘影跑到哈尔滨，想在那儿躲几天。
+train-00002-of-00008-01197|Baker|{sui1 ran2 sheng1 huo2 zhong1 ai4 shua2 bao3 xun4 qi3 lian4 lai2 feng2 zhe2 que4 yi4 dian2 ye3 bu4 han2 hu5}|虽然生活中爱耍宝，训起练来冯哲却一点也不含糊。
+train-00000-of-00008-00418|Baker|{mian4 dui4 qi2 rong3 chang2 fa1 yan2 huang2 wen2 zai2 wei3 yuan2 ren3 wu2 ke2 ren3 ji1 fen4 zhi4 zhi3}|面对其冗长发言，黄文仔委员忍无可忍，激愤制止。
+train-00003-of-00008-00874|Baker|{ke3 jian4 ai4 de5 guo4 cheng2 shi4 duan3 zan4 de5 er2 ai4 de5 hui2 yi4 shi4 wu2 qiong2 de5}|可见爱的过程是短暂的，而爱的回忆是无穷的。
+train-00003-of-00008-00638|Baker|{zong3 zhi1 hen3 piao4 liang5 jiu4 dui4 la5}|总之很漂亮就对啦。
+train-00002-of-00008-01205|Baker|{jin4 qi1 you3 wai4 mei2 chuai3 ce4 qi2 zai4 wei4 di4 san1 ci4 he2 shi4 yan4 zuo4 zhun3 bei4}|近期，有外媒揣测其在为第三次核试验做准备。
+train-00001-of-00008-00232|Baker|{dui4 yu2 dang1 qian2 xu1 yao4 zhuo2 zhong4 yan2 jiu1 de5 ke4 ti2 wu3 shao4 zu3 ye3 zuo4 le5 xiang2 jin4 chan3 shu4}|对于当前需要着重研究的课题，伍绍祖也作了详尽阐述。
+train-00000-of-00008-00589|Baker|{xia4 men2 xiang2 an1 hai2 di3 sui4 dao4 you4 xian4 dong4 kou3 wai4 jing3}|厦门翔安海底隧道右线洞口外景。
+train-00000-of-00008-00805|Baker|{er2 wai4 di4 wu4 gong1 huan2 jing4 jiu1 jing4 za3 yang4 guang1 kan4 zhao1 gong1 guang3 gao4 mei2 yong4}|而外地务工环境究竟咋样，光看招工广告没用。
+train-00001-of-00008-00260|Baker|{re3 ji2 le5 yi4 ren2 yi4 ba3 dao1 yi2 ge4 gui1 ke2 ke4 jia2 gu3 wen2}|惹急了一人一把刀一个龟壳，刻甲骨文。
+train-00005-of-00008-00482|Baker|{dai4 fu5 zai4 wei4 li3 xiu4 ying1 jian3 cha2 er3 duo5}|大夫在为李秀英检查耳朵。
+train-00007-of-00008-00770|Baker|{ge3 xiao2 jie3 de5 ma1 ma5 wang2 nv3 shi4 zhi4 jin1 reng2 ran2 yi3 lei4 xi3 mian4}|葛小姐的妈妈王女士至今仍然以泪洗面。
+train-00001-of-00008-00389|Baker|{shen1 du4 wei2 yi4 bai3 yi1 shi5 er4 qian1 mi3}|深度为一百一十二千米。
+train-00002-of-00008-00985|Baker|{chu1 rang4 zong3 jin1 e2 wei2 san1 shi5 qi1 dian3 er4 qi1 qi1 yi4 yuan2}|出让总金额为三十七点二七七亿元。
+train-00003-of-00008-00962|Baker|{yi2 qie4 an1 dun4 tuo3 dang4 hou4 ta1 he2 tong2 shi4 you4 hui2 dao4 xia2 qu1 shang4 ban1}|一切安顿妥当后，他和同事又回到辖区上班。
+train-00007-of-00008-01061|Baker|{duo2 mu4 cui3 can4 de5 deng1 guang1 jiao1 zhi1 zhe5 ji1 qing2 peng2 pai4 de5 yin1 yue4}|夺目璀璨的灯光、交织着激情澎湃的音乐。
+train-00000-of-00008-00526|Baker|{wei4 sha2 zi5 yao4 yun1 ya5}|为啥子要晕呀。
+train-00005-of-00008-00984|Baker|{bu4 liao2 jie2 wo3 men5 de5 ren2 zhi2 you3 man2 nao3 dai5 lang4 man4 de5 xiang3 xiang4}|不了解我们的人，只有满脑袋浪漫的想象。
+train-00006-of-00008-00179|Baker|{mei2 you3 yong4 hu4 shi4 yuan4 yi4 zu2 dang3 zhe4 xie1 zheng4 chang2 nei4 rong2 de5}|没有用户是愿意阻挡这些正常内容的。
+train-00000-of-00008-01212|Baker|{bie2 ya5 ou3 gei2 ni3 zuo4 ren2 gong1 hu1 xi1 ba5}|别呀偶给你做人工呼吸吧。
+train-00002-of-00008-01144|Baker|{ke2 lao3 shi1 gao4 su5 ta1 pin2 kun4 sheng1 ke2 yi3 shen1 qing2 mian3 xue2 fei4}|可老师告诉她，贫困生可以申请免学费。
+train-00001-of-00008-00192|Baker|{ji4 zhe3 qin1 yan3 jian4 dao4 yi4 zhi1 lao2 shu3 cuan1 guo4 di4 mian4}|记者亲眼见到一只老鼠蹿过地面。
+train-00003-of-00008-00613|Baker|{tu2 wei2 shou4 biao3 zhang1 de5 ai4 guo2 shou2 fa3 xian1 jin4 seng1 ni2 dai4 biao3}|图为受表彰的爱国守法先进僧尼代表。
+train-00004-of-00008-01187|Baker|{jiu3 er4 nian2 chu1 sheng1 de5 liang2 wen2 hao2 jin4 nian2 lai2 cuan4 shen1 shi4 tou2 fei1 chang2 xun4 meng3}|九二年出生的梁文豪，近年来窜身势头非常迅猛。
+train-00002-of-00008-00554|Baker|{liang3 ren2 dang1 nian2 yin1 xi4 sheng1 qing2 xun4 su4 duo4 ru4 ai4 he2}|两人当年因戏生情，迅速堕入爱河。
+train-00007-of-00008-00544|Baker|{zou3 ba5 dai4 shang4 wo3 pa2 shan1 qu4}|走吧，带上我爬山去。
+train-00001-of-00008-00469|Baker|{ci3 hou4 wang2 zai3 ying1 jing1 chang2 pao3 dao4 a1 bing3 jia1 song2 yong3 ta1 men5 tou2 zi1}|此后王仔英经常跑到阿炳家，怂恿他们投资。
+train-00000-of-00008-00504|Baker|{qian2 yao4 hua1 zai4 dao1 renr4 shang4}|钱要花在刀刃儿上。
+train-00003-of-00008-00090|Baker|{zhen1 de5 shi4 yu3 ren2 huo4 jiong3 ran2 you3 bie2 liang3 bu5 xiang1 gan1 ma5}|真的是与人祸迥然有别、两不相干吗？
+train-00004-of-00008-00829|Baker|{zao3 zai4 yi1 jiu2 jiu3 si4 nian2 pi2 lin2 de5 e2 le4 gang3 zhou1 yi3 jing1 pi1 zhun3 bing4 zhong4 de5 bing4 ren2 an1 le4 si3}|早在一九九四年，毗邻的俄勒岗州已经批准病重的病人安乐死。
+train-00007-of-00008-00897|Baker|{ke4 tang2 shang4 ting1 bu4 dong3 xia4 ke4 jiu4 xiang4 ge1 ge5 jie3 jie5 wen4}|课堂上听不懂，下课就向哥哥姐姐问。
+train-00004-of-00008-00369|Baker|{rang4 wo3 men5 jiu4 ba3 nei4 rong2 fang4 zai4 nar4 ba5}|让我们就把内容放在那儿吧。
+train-00005-of-00008-01176|Baker|{bu2 guo4 xing1 jian4 lei2 da2 de5 gao1 ang2 fei4 yong4 ye2 yin3 fa1 zheng1 yi4}|不过，兴建雷达的高昂费用也引发争议。
+train-00001-of-00008-00470|Baker|{tong2 shi2 kuang4 shan1 ying4 ji2 jiu4 yuan2 de5 zong4 xiang4 ti3 xi4 ye3 ri4 qu1 wan2 shan4}|同时，矿山应急救援的纵向体系也日趋完善。
+train-00000-of-00008-00214|Baker|{jun1 jian3 dui4 rao2 hong2 wei3 qiu2 chu2 si3 xing2}|军检对饶宏伟求处死刑。
+train-00002-of-00008-00159|Baker|{gen1 wo3 liao2 tian1 zen3 me5 hui4 wu2 yu3 ne5}|跟我聊天怎么会无语呢？
+train-00000-of-00008-00718|Baker|{zha2 kua1 wei1 ye3 shi4 ku4 da2 ma3 fu1 fu4 hun1 yin1 de5 jie4 shao4 ren2}|札夸威也是库达玛夫妇婚姻的介绍人。
+train-00000-of-00008-00084|Baker|{xian4 zai4 shi4 daor4 yue4 zou3 yue4 kuan1 ren2 qi4 yue4 gao3 yue4 wang4}|现在是道儿越走越宽，人气越搞越旺。
+train-00003-of-00008-00795|Baker|{qi2 zhong1 yi4 nan2 zi3 yong4 mu4 gun4 qiao1 da3 hu2 bian1 lan2 gan1 jiao4 zhang1 mou3 chu1 lai5}|其中一男子用木棍敲打湖边栏杆，叫张某出来。
+train-00001-of-00008-00783|Baker|{gai1 pei4 he2 ni2 yan3 chu1 de5 wo2 yan3 shi4 er2 bu2 jian4}|该配合你演出的我演视而不见。
+train-00007-of-00008-00361|Baker|{yuan2 lai2 ta1 duo2 qi3 lai2 wan2 wei1 bo2 yu2 you3 ren2 da4 tan2 xing1 zuo4}|原来她躲起来玩微博，与友人大谈星座。

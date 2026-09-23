@@ -1,0 +1,52 @@
+{
+  "id": "train-00005-of-00008-00101",
+  "status": "rejected",
+  "hypothesis": "吃离可以指可认废",
+  "cer": 0.625,
+  "hanzi": "吃梨可以止咳润肺",
+  "syllables": [
+    "chi1",
+    "li2",
+    "ke2",
+    "yi2",
+    "zhi3",
+    "ke2",
+    "run4",
+    "fei4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.625 exceeds 0.35"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "train-00000-of-00008-00333",
+  "status": "rejected",
+  "hypothesis": "名以时为天量架乃百架之机",
+  "cer": 0.5,
+  "hanzi": "民以食为天粮价乃百价之基",
+  "syllables": [
+    "min2",
+    "yi3",
+    "shi2",
+    "wei2",
+    "tian1",
+    "liang2",
+    "jia4",
+    "nai2",
+    "bai3",
+    "jia4",
+    "zhi1",
+    "ji1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

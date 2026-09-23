@@ -1,0 +1,42 @@
+{
+  "id": "train-00000-of-00008-00152",
+  "status": "rejected",
+  "hypothesis": "烧花鸭烧除针",
+  "cer": 0.42857142857142855,
+  "hanzi": "烧花鸭烧雏鸡儿",
+  "syllables": [
+    "shao1",
+    "hua1",
+    "ya1",
+    "shao1",
+    "chu2",
+    "jir1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

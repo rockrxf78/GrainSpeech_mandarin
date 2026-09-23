@@ -1,0 +1,62 @@
+{
+  "id": "train-00003-of-00008-00272",
+  "status": "rejected",
+  "hypothesis": "新娘司地芬一白夫金发",
+  "cer": 0.4,
+  "hanzi": "新娘斯蒂芬妮白肤金发",
+  "syllables": [
+    "xin1",
+    "niang2",
+    "si1",
+    "di4",
+    "fen1",
+    "ni1",
+    "bai2",
+    "fu1",
+    "jin1",
+    "fa4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

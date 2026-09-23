@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.6670294784580495
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.6670294784580495
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.6724687500000001
+			text = "qi2"
+		intervals [2]:
+			xmin = 0.6724687500000001
+			xmax = 0.89246875
+			text = "zao3"
+		intervals [3]:
+			xmin = 0.89246875
+			xmax = 1.10246875
+			text = "nian2"
+		intervals [4]:
+			xmin = 1.10246875
+			xmax = 1.33246875
+			text = "sang4"
+		intervals [5]:
+			xmin = 1.33246875
+			xmax = 1.74246875
+			text = "fu4"
+		intervals [6]:
+			xmin = 1.74246875
+			xmax = 2.13246875
+			text = "mu3"
+		intervals [7]:
+			xmin = 2.13246875
+			xmax = 2.3124687500000003
+			text = "qin1"
+		intervals [8]:
+			xmin = 2.3124687500000003
+			xmax = 2.47246875
+			text = "yi4"
+		intervals [9]:
+			xmin = 2.47246875
+			xmax = 2.71246875
+			text = "ren2"
+		intervals [10]:
+			xmin = 2.71246875
+			xmax = 2.97246875
+			text = "xin1"
+		intervals [11]:
+			xmin = 2.97246875
+			xmax = 3.18246875
+			text = "ku3"
+		intervals [12]:
+			xmin = 3.18246875
+			xmax = 3.38246875
+			text = "jiang1"
+		intervals [13]:
+			xmin = 3.38246875
+			xmax = 3.5424687500000003
+			text = "ta1"
+		intervals [14]:
+			xmin = 3.5424687500000003
+			xmax = 3.72246875
+			text = "la1"
+		intervals [15]:
+			xmin = 3.72246875
+			xmax = 3.92246875
+			text = "che3"
+		intervals [16]:
+			xmin = 3.92246875
+			xmax = 4.26246875
+			text = "da4"
+		intervals [17]:
+			xmin = 4.26246875
+			xmax = 4.60246875
+			text = "mei2"
+		intervals [18]:
+			xmin = 4.60246875
+			xmax = 4.79246875
+			text = "xiang3"
+		intervals [19]:
+			xmin = 4.79246875
+			xmax = 5.05246875
+			text = "dao4"
+		intervals [20]:
+			xmin = 5.05246875
+			xmax = 5.3224687500000005
+			text = "jing4"
+		intervals [21]:
+			xmin = 5.3224687500000005
+			xmax = 5.52246875
+			text = "ying1"
+		intervals [22]:
+			xmin = 5.52246875
+			xmax = 5.71246875
+			text = "nian2"
+		intervals [23]:
+			xmin = 5.71246875
+			xmax = 5.9924687500000005
+			text = "zao3"
+		intervals [24]:
+			xmin = 5.9924687500000005
+			xmax = 6.6670294784580495
+			text = "shi4"

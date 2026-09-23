@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.111020408163266
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.111020408163266
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "peng4"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.7024687500000001
+			text = "dao4"
+		intervals [3]:
+			xmin = 0.7024687500000001
+			xmax = 0.88246875
+			text = "yi4"
+		intervals [4]:
+			xmin = 0.88246875
+			xmax = 1.04246875
+			text = "xie1"
+		intervals [5]:
+			xmin = 1.04246875
+			xmax = 1.25246875
+			text = "lai4"
+		intervals [6]:
+			xmin = 1.25246875
+			xmax = 1.44246875
+			text = "pi2"
+		intervals [7]:
+			xmin = 1.44246875
+			xmax = 1.58246875
+			text = "de5"
+		intervals [8]:
+			xmin = 1.58246875
+			xmax = 1.9224687500000002
+			text = "zhu3"
+		intervals [9]:
+			xmin = 1.9224687500000002
+			xmax = 2.28246875
+			text = "ying4"
+		intervals [10]:
+			xmin = 2.28246875
+			xmax = 2.45246875
+			text = "shi4"
+		intervals [11]:
+			xmin = 2.45246875
+			xmax = 2.60246875
+			text = "ba3"
+		intervals [12]:
+			xmin = 2.60246875
+			xmax = 2.7924687500000003
+			text = "dong1"
+		intervals [13]:
+			xmin = 2.7924687500000003
+			xmax = 2.96246875
+			text = "xi5"
+		intervals [14]:
+			xmin = 2.96246875
+			xmax = 3.12246875
+			text = "reng1"
+		intervals [15]:
+			xmin = 3.12246875
+			xmax = 3.2924687500000003
+			text = "xia4"
+		intervals [16]:
+			xmin = 3.2924687500000003
+			xmax = 3.4824687500000002
+			text = "jiu4"
+		intervals [17]:
+			xmin = 3.4824687500000002
+			xmax = 3.7924687500000003
+			text = "pao3"
+		intervals [18]:
+			xmin = 3.7924687500000003
+			xmax = 4.06246875
+			text = "ta1"
+		intervals [19]:
+			xmin = 4.06246875
+			xmax = 4.20246875
+			text = "ye3"
+		intervals [20]:
+			xmin = 4.20246875
+			xmax = 4.38246875
+			text = "mei2"
+		intervals [21]:
+			xmin = 4.38246875
+			xmax = 5.111020408163266
+			text = "zhe2"

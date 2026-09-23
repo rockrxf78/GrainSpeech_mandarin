@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.1230385487528345
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.1230385487528345
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5824687500000001
+			text = "ku4"
+		intervals [2]:
+			xmin = 0.5824687500000001
+			xmax = 0.78246875
+			text = "ni2"
+		intervals [3]:
+			xmin = 0.78246875
+			xmax = 1.03246875
+			text = "si1"
+		intervals [4]:
+			xmin = 1.03246875
+			xmax = 1.28246875
+			text = "shen1"
+		intervals [5]:
+			xmin = 1.28246875
+			xmax = 1.50246875
+			text = "shou2"
+		intervals [6]:
+			xmin = 1.50246875
+			xmax = 1.74246875
+			text = "ba3"
+		intervals [7]:
+			xmin = 1.74246875
+			xmax = 1.97246875
+			text = "ku4"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.13246875
+			text = "che4"
+		intervals [9]:
+			xmin = 2.13246875
+			xmax = 2.2724687500000003
+			text = "de5"
+		intervals [10]:
+			xmin = 2.2724687500000003
+			xmax = 2.46246875
+			text = "tou2"
+		intervals [11]:
+			xmin = 2.46246875
+			xmax = 2.66246875
+			text = "lou3"
+		intervals [12]:
+			xmin = 2.66246875
+			xmax = 2.86246875
+			text = "jin4"
+		intervals [13]:
+			xmin = 2.86246875
+			xmax = 3.0824687500000003
+			text = "huai2"
+		intervals [14]:
+			xmin = 3.0824687500000003
+			xmax = 3.45246875
+			text = "li3"
+		intervals [15]:
+			xmin = 3.45246875
+			xmax = 3.80246875
+			text = "shen4"
+		intervals [16]:
+			xmin = 3.80246875
+			xmax = 3.9824687500000002
+			text = "zhi4"
+		intervals [17]:
+			xmin = 3.9824687500000002
+			xmax = 4.18246875
+			text = "dang1"
+		intervals [18]:
+			xmin = 4.18246875
+			xmax = 4.39246875
+			text = "zhong4"
+		intervals [19]:
+			xmin = 4.39246875
+			xmax = 4.58246875
+			text = "jie1"
+		intervals [20]:
+			xmin = 4.58246875
+			xmax = 4.862468750000001
+			text = "wen3"
+		intervals [21]:
+			xmin = 4.862468750000001
+			xmax = 5.12246875
+			text = "xiang1"
+		intervals [22]:
+			xmin = 5.12246875
+			xmax = 5.31246875
+			text = "dang1"
+		intervals [23]:
+			xmin = 5.31246875
+			xmax = 5.52246875
+			text = "qin1"
+		intervals [24]:
+			xmin = 5.52246875
+			xmax = 6.1230385487528345
+			text = "mi4"

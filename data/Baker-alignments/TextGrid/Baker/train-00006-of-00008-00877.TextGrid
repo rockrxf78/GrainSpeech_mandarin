@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.916009070294785
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.916009070294785
+		intervals: size = 27
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.60246875
+			text = "hao3"
+		intervals [2]:
+			xmin = 0.60246875
+			xmax = 0.85246875
+			text = "tian1"
+		intervals [3]:
+			xmin = 0.85246875
+			xmax = 1.1424687500000001
+			text = "qi4"
+		intervals [4]:
+			xmin = 1.1424687500000001
+			xmax = 1.3824687500000001
+			text = "jiu4"
+		intervals [5]:
+			xmin = 1.3824687500000001
+			xmax = 1.51246875
+			text = "shi4"
+		intervals [6]:
+			xmin = 1.51246875
+			xmax = 1.6524687500000002
+			text = "yao4"
+		intervals [7]:
+			xmin = 1.6524687500000002
+			xmax = 1.81246875
+			text = "chu1"
+		intervals [8]:
+			xmin = 1.81246875
+			xmax = 1.96246875
+			text = "lai2"
+		intervals [9]:
+			xmin = 1.96246875
+			xmax = 2.36246875
+			text = "guang4"
+		intervals [10]:
+			xmin = 2.36246875
+			xmax = 2.7524687500000002
+			text = "you2"
+		intervals [11]:
+			xmin = 2.7524687500000002
+			xmax = 2.89246875
+			text = "gou3"
+		intervals [12]:
+			xmin = 2.89246875
+			xmax = 3.03246875
+			text = "de5"
+		intervals [13]:
+			xmin = 3.03246875
+			xmax = 3.20246875
+			text = "liu4"
+		intervals [14]:
+			xmin = 3.20246875
+			xmax = 3.5224687500000003
+			text = "gou3"
+		intervals [15]:
+			xmin = 3.5224687500000003
+			xmax = 3.8324687500000003
+			text = "you3"
+		intervals [16]:
+			xmin = 3.8324687500000003
+			xmax = 3.99246875
+			text = "wa2"
+		intervals [17]:
+			xmin = 3.99246875
+			xmax = 4.13246875
+			text = "de5"
+		intervals [18]:
+			xmin = 4.13246875
+			xmax = 4.29246875
+			text = "bao4"
+		intervals [19]:
+			xmin = 4.29246875
+			xmax = 4.64246875
+			text = "wa2"
+		intervals [20]:
+			xmin = 4.64246875
+			xmax = 4.98246875
+			text = "dou1"
+		intervals [21]:
+			xmin = 4.98246875
+			xmax = 5.15246875
+			text = "mei2"
+		intervals [22]:
+			xmin = 5.15246875
+			xmax = 5.3224687500000005
+			text = "you3"
+		intervals [23]:
+			xmin = 5.3224687500000005
+			xmax = 5.612468750000001
+			text = "de5"
+		intervals [24]:
+			xmin = 5.612468750000001
+			xmax = 5.88246875
+			text = "ni3"
+		intervals [25]:
+			xmin = 5.88246875
+			xmax = 6.05246875
+			text = "bao4"
+		intervals [26]:
+			xmin = 6.05246875
+			xmax = 6.26246875
+			text = "wo3"
+		intervals [27]:
+			xmin = 6.26246875
+			xmax = 6.916009070294785
+			text = "ba5"

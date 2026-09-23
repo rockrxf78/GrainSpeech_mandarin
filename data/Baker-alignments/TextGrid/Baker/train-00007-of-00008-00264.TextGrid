@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.8
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.8
+		intervals: size = 19
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "er2"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.78246875
+			text = "yi2"
+		intervals [3]:
+			xmin = 0.78246875
+			xmax = 1.03246875
+			text = "min2"
+		intervals [4]:
+			xmin = 1.03246875
+			xmax = 1.25246875
+			text = "yu3"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.45246875
+			text = "guan1"
+		intervals [6]:
+			xmin = 1.45246875
+			xmax = 1.70246875
+			text = "qia3"
+		intervals [7]:
+			xmin = 1.70246875
+			xmax = 1.99246875
+			text = "ju2"
+		intervals [8]:
+			xmin = 1.99246875
+			xmax = 2.2524687500000002
+			text = "yi2"
+		intervals [9]:
+			xmin = 2.2524687500000002
+			xmax = 2.45246875
+			text = "zhan3"
+		intervals [10]:
+			xmin = 2.45246875
+			xmax = 2.64246875
+			text = "kai1"
+		intervals [11]:
+			xmin = 2.64246875
+			xmax = 2.86246875
+			text = "diao4"
+		intervals [12]:
+			xmin = 2.86246875
+			xmax = 3.18246875
+			text = "cha2"
+		intervals [13]:
+			xmin = 3.18246875
+			xmax = 3.46246875
+			text = "zhang3"
+		intervals [14]:
+			xmin = 3.46246875
+			xmax = 3.62246875
+			text = "wo4"
+		intervals [15]:
+			xmin = 3.62246875
+			xmax = 3.7924687500000003
+			text = "liang3"
+		intervals [16]:
+			xmin = 3.7924687500000003
+			xmax = 3.94246875
+			text = "ren2"
+		intervals [17]:
+			xmin = 3.94246875
+			xmax = 4.0724687500000005
+			text = "de5"
+		intervals [18]:
+			xmin = 4.0724687500000005
+			xmax = 4.26246875
+			text = "zui4"
+		intervals [19]:
+			xmin = 4.26246875
+			xmax = 4.8
+			text = "zheng4"

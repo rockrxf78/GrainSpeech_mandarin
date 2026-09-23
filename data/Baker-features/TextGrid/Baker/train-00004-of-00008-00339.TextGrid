@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.598004535147393
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.598004535147393
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "qi2"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.8024687500000001
+			text = "zhong1"
+		intervals [3]:
+			xmin = 0.8024687500000001
+			xmax = 1.08246875
+			text = "zhu4"
+		intervals [4]:
+			xmin = 1.08246875
+			xmax = 1.24246875
+			text = "zhai2"
+		intervals [5]:
+			xmin = 1.24246875
+			xmax = 1.4124687500000002
+			text = "lei4"
+		intervals [6]:
+			xmin = 1.4124687500000002
+			xmax = 1.60246875
+			text = "tu3"
+		intervals [7]:
+			xmin = 1.60246875
+			xmax = 1.81246875
+			text = "di4"
+		intervals [8]:
+			xmin = 1.81246875
+			xmax = 2.01246875
+			text = "cheng2"
+		intervals [9]:
+			xmin = 2.01246875
+			xmax = 2.20246875
+			text = "jiao1"
+		intervals [10]:
+			xmin = 2.20246875
+			xmax = 2.47246875
+			text = "e2"
+		intervals [11]:
+			xmin = 2.47246875
+			xmax = 2.74246875
+			text = "huan2"
+		intervals [12]:
+			xmin = 2.74246875
+			xmax = 2.97246875
+			text = "bi3"
+		intervals [13]:
+			xmin = 2.97246875
+			xmax = 3.20246875
+			text = "da4"
+		intervals [14]:
+			xmin = 3.20246875
+			xmax = 3.43246875
+			text = "zhang2"
+		intervals [15]:
+			xmin = 3.43246875
+			xmax = 3.64246875
+			text = "bai3"
+		intervals [16]:
+			xmin = 3.64246875
+			xmax = 3.82246875
+			text = "fen1"
+		intervals [17]:
+			xmin = 3.82246875
+			xmax = 4.05246875
+			text = "zhi1"
+		intervals [18]:
+			xmin = 4.05246875
+			xmax = 4.26246875
+			text = "yi4"
+		intervals [19]:
+			xmin = 4.26246875
+			xmax = 4.42246875
+			text = "bai3"
+		intervals [20]:
+			xmin = 4.42246875
+			xmax = 4.60246875
+			text = "ling2"
+		intervals [21]:
+			xmin = 4.60246875
+			xmax = 4.76246875
+			text = "yi1"
+		intervals [22]:
+			xmin = 4.76246875
+			xmax = 4.96246875
+			text = "dian3"
+		intervals [23]:
+			xmin = 4.96246875
+			xmax = 5.598004535147393
+			text = "yi1"

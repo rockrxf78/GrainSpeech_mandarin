@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.809024943310658
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.809024943310658
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.63246875
+			text = "si1"
+		intervals [2]:
+			xmin = 0.63246875
+			xmax = 0.86246875
+			text = "cong1"
+		intervals [3]:
+			xmin = 0.86246875
+			xmax = 1.08246875
+			text = "xun2"
+		intervals [4]:
+			xmin = 1.08246875
+			xmax = 1.23246875
+			text = "liang4"
+		intervals [5]:
+			xmin = 1.23246875
+			xmax = 1.44246875
+			text = "er2"
+		intervals [6]:
+			xmin = 1.44246875
+			xmax = 1.80246875
+			text = "qu4"
+		intervals [7]:
+			xmin = 1.80246875
+			xmax = 2.11246875
+			text = "he2"
+		intervals [8]:
+			xmin = 2.11246875
+			xmax = 2.2924687500000003
+			text = "bai2"
+		intervals [9]:
+			xmin = 2.2924687500000003
+			xmax = 2.51246875
+			text = "pang4"
+		intervals [10]:
+			xmin = 2.51246875
+			xmax = 2.7524687500000002
+			text = "gao1"
+		intervals [11]:
+			xmin = 2.7524687500000002
+			xmax = 2.96246875
+			text = "re4"
+		intervals [12]:
+			xmin = 2.96246875
+			xmax = 3.15246875
+			text = "qing2"
+		intervals [13]:
+			xmin = 3.15246875
+			xmax = 3.35246875
+			text = "qie1"
+		intervals [14]:
+			xmin = 3.35246875
+			xmax = 3.82246875
+			text = "cuo1"
+		intervals [15]:
+			xmin = 3.82246875
+			xmax = 4.2824687500000005
+			text = "nin2"
+		intervals [16]:
+			xmin = 4.2824687500000005
+			xmax = 4.51246875
+			text = "jiu4"
+		intervals [17]:
+			xmin = 4.51246875
+			xmax = 4.91246875
+			text = "shi4"
+		intervals [18]:
+			xmin = 4.91246875
+			xmax = 5.27246875
+			text = "ni3"
+		intervals [19]:
+			xmin = 5.27246875
+			xmax = 5.4924687500000005
+			text = "shi4"
+		intervals [20]:
+			xmin = 5.4924687500000005
+			xmax = 5.69246875
+			text = "lu2"
+		intervals [21]:
+			xmin = 5.69246875
+			xmax = 5.862468750000001
+			text = "si1"
+		intervals [22]:
+			xmin = 5.862468750000001
+			xmax = 6.0724687500000005
+			text = "cong1"
+		intervals [23]:
+			xmin = 6.0724687500000005
+			xmax = 6.809024943310658
+			text = "ba5"

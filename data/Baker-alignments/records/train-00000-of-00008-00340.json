@@ -1,0 +1,67 @@
+{
+  "id": "train-00000-of-00008-00340",
+  "status": "rejected",
+  "hypothesis": "杨圣忠与经济分相互搀扶",
+  "cer": 0.36363636363636365,
+  "hanzi": "杨胜忠与金继芬相互搀扶",
+  "syllables": [
+    "yang2",
+    "sheng4",
+    "zhong1",
+    "yu3",
+    "jin1",
+    "ji4",
+    "fen1",
+    "xiang1",
+    "hu4",
+    "chan1",
+    "fu2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

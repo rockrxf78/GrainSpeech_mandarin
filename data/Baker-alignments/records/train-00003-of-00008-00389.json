@@ -1,0 +1,52 @@
+{
+  "id": "train-00003-of-00008-00389",
+  "status": "rejected",
+  "hypothesis": "为墙栅览秀济斑斑",
+  "cer": 0.5,
+  "hanzi": "围墙栅栏锈迹斑斑",
+  "syllables": [
+    "wei2",
+    "qiang2",
+    "zha4",
+    "lan5",
+    "xiu4",
+    "ji4",
+    "ban1",
+    "ban1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

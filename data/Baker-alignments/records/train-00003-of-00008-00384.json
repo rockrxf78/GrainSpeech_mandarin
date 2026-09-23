@@ -1,0 +1,52 @@
+{
+  "id": "train-00003-of-00008-00384",
+  "status": "rejected",
+  "hypothesis": "村明院中的大哭拢",
+  "cer": 0.375,
+  "hanzi": "村民院中的大窟窿",
+  "syllables": [
+    "cun1",
+    "min2",
+    "yuan4",
+    "zhong1",
+    "de5",
+    "da4",
+    "ku1",
+    "long5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

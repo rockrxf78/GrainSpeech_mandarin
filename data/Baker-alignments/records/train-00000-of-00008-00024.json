@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00024",
+  "status": "rejected",
+  "hypothesis": "陈于落宴毕月修花",
+  "cer": 0.625,
+  "hanzi": "沉鱼落雁闭月羞花",
+  "syllables": [
+    "chen2",
+    "yu2",
+    "luo4",
+    "yan4",
+    "bi4",
+    "yue4",
+    "xiu1",
+    "hua1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.625 exceeds 0.35"
+}

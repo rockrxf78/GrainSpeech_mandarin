@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00662",
+  "status": "rejected",
+  "hypothesis": "百折不能国太明安",
+  "cer": 0.375,
+  "hanzi": "百折不挠国泰民安",
+  "syllables": [
+    "bai3",
+    "zhe2",
+    "bu4",
+    "nao2",
+    "guo2",
+    "tai4",
+    "min2",
+    "an1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

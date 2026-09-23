@@ -1,0 +1,67 @@
+{
+  "id": "train-00004-of-00008-00376",
+  "status": "rejected",
+  "hypothesis": "黄胜一受宠若精策手不及",
+  "cer": 0.36363636363636365,
+  "hanzi": "黄圣依受宠若惊措手不及",
+  "syllables": [
+    "huang2",
+    "sheng4",
+    "yi1",
+    "shou4",
+    "chong3",
+    "ruo4",
+    "jing1",
+    "cuo4",
+    "shou3",
+    "bu4",
+    "ji2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

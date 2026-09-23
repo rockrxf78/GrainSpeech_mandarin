@@ -1,0 +1,47 @@
+{
+  "id": "train-00005-of-00008-00990",
+  "status": "rejected",
+  "hypothesis": "铁力瓦尔的土讯",
+  "cer": 0.42857142857142855,
+  "hanzi": "铁力瓦尔地吐逊",
+  "syllables": [
+    "tie3",
+    "li4",
+    "wa2",
+    "er3",
+    "de5",
+    "tu3",
+    "xun4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

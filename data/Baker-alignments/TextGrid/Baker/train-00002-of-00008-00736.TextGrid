@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.075011337868481
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.075011337868481
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "huang2"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.76246875
+			text = "qi3"
+		intervals [3]:
+			xmin = 0.76246875
+			xmax = 0.9224687500000001
+			text = "si1"
+		intervals [4]:
+			xmin = 0.9224687500000001
+			xmax = 1.08246875
+			text = "yi4"
+		intervals [5]:
+			xmin = 1.08246875
+			xmax = 1.3624687500000001
+			text = "jia1"
+		intervals [6]:
+			xmin = 1.3624687500000001
+			xmax = 1.6424687500000001
+			text = "ru2"
+		intervals [7]:
+			xmin = 1.6424687500000001
+			xmax = 1.83246875
+			text = "jin1"
+		intervals [8]:
+			xmin = 1.83246875
+			xmax = 2.03246875
+			text = "yong4"
+		intervals [9]:
+			xmin = 2.03246875
+			xmax = 2.19246875
+			text = "shang4"
+		intervals [10]:
+			xmin = 2.19246875
+			xmax = 2.35246875
+			text = "le5"
+		intervals [11]:
+			xmin = 2.35246875
+			xmax = 2.5024687500000002
+			text = "zi4"
+		intervals [12]:
+			xmin = 2.5024687500000002
+			xmax = 2.68246875
+			text = "lai2"
+		intervals [13]:
+			xmin = 2.68246875
+			xmax = 3.0824687500000003
+			text = "shui3"
+		intervals [14]:
+			xmin = 3.0824687500000003
+			xmax = 3.42246875
+			text = "zai4"
+		intervals [15]:
+			xmin = 3.42246875
+			xmax = 3.5624687500000003
+			text = "ye3"
+		intervals [16]:
+			xmin = 3.5624687500000003
+			xmax = 3.70246875
+			text = "bu2"
+		intervals [17]:
+			xmin = 3.70246875
+			xmax = 3.87246875
+			text = "yong4"
+		intervals [18]:
+			xmin = 3.87246875
+			xmax = 4.06246875
+			text = "wai4"
+		intervals [19]:
+			xmin = 4.06246875
+			xmax = 4.25246875
+			text = "chu1"
+		intervals [20]:
+			xmin = 4.25246875
+			xmax = 4.45246875
+			text = "tiao1"
+		intervals [21]:
+			xmin = 4.45246875
+			xmax = 5.075011337868481
+			text = "shui3"

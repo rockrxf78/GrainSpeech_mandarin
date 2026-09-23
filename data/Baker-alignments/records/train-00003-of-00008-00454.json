@@ -1,0 +1,67 @@
+{
+  "id": "train-00003-of-00008-00454",
+  "status": "rejected",
+  "hypothesis": "俗话说官材李深守死要钱",
+  "cer": 0.36363636363636365,
+  "hanzi": "俗话说棺材里伸手死要钱",
+  "syllables": [
+    "su2",
+    "hua4",
+    "shuo1",
+    "guan1",
+    "cai5",
+    "li5",
+    "shen1",
+    "shou2",
+    "si3",
+    "yao4",
+    "qian2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

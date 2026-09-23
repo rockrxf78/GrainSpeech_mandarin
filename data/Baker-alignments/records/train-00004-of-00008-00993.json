@@ -1,0 +1,52 @@
+{
+  "id": "train-00004-of-00008-00993",
+  "status": "rejected",
+  "hypothesis": "苍鼎充时减税会眠",
+  "cer": 0.625,
+  "hanzi": "仓廪充实减税惠民",
+  "syllables": [
+    "cang1",
+    "lin3",
+    "chong1",
+    "shi2",
+    "jian3",
+    "shui4",
+    "hui4",
+    "min2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.625 exceeds 0.35"
+}

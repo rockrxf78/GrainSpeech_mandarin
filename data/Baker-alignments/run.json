@@ -1,0 +1,15 @@
+{
+  "manifest_sha256": "0a8a66b0f8fe52b6aa58c65e5e88a30f774b2daac4959f5b45a6e6a095dc5f34",
+  "model": "wbbbbb/wav2vec2-large-chinese-zh-cn",
+  "revision": "b654b5f3df69725df32808de454a1b865c829e4c",
+  "limit": null,
+  "max_cer": 0.35,
+  "min_confidence": 0.01,
+  "sample_size": null,
+  "seed": 1234,
+  "safetensors": true,
+  "method": "pretrained_mandarin_ctc_pinyin_syllables_v1",
+  "boundary_policy": "midpoint_between_CTC_spans; outer_edges_at_recording_bounds",
+  "ctc_sampling_rate": 16000,
+  "ctc_seconds_per_frame": 0.02
+}

@@ -1,0 +1,62 @@
+{
+  "id": "train-00000-of-00008-00914",
+  "status": "rejected",
+  "hypothesis": "东京樱花然景即也出开",
+  "cer": 0.5,
+  "hanzi": "东京樱花染井吉野初开",
+  "syllables": [
+    "dong1",
+    "jing1",
+    "ying1",
+    "hua1",
+    "ran2",
+    "jing3",
+    "ji2",
+    "ye3",
+    "chu1",
+    "kai1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

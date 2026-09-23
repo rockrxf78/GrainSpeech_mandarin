@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.151020408163265
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.151020408163265
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "yin1"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.88246875
+			text = "ci3"
+		intervals [3]:
+			xmin = 0.88246875
+			xmax = 1.17246875
+			text = "hai2"
+		intervals [4]:
+			xmin = 1.17246875
+			xmax = 1.33246875
+			text = "dei3"
+		intervals [5]:
+			xmin = 1.33246875
+			xmax = 1.49246875
+			text = "zhu4"
+		intervals [6]:
+			xmin = 1.49246875
+			xmax = 1.6624687500000002
+			text = "yi4"
+		intervals [7]:
+			xmin = 1.6624687500000002
+			xmax = 1.8624687500000001
+			text = "fang2"
+		intervals [8]:
+			xmin = 1.8624687500000001
+			xmax = 2.07246875
+			text = "yu4"
+		intervals [9]:
+			xmin = 2.07246875
+			xmax = 2.2924687500000003
+			text = "lei2"
+		intervals [10]:
+			xmin = 2.2924687500000003
+			xmax = 2.5624687500000003
+			text = "dian4"
+		intervals [11]:
+			xmin = 2.5624687500000003
+			xmax = 2.7924687500000003
+			text = "he2"
+		intervals [12]:
+			xmin = 2.7924687500000003
+			xmax = 2.95246875
+			text = "lei2"
+		intervals [13]:
+			xmin = 2.95246875
+			xmax = 3.11246875
+			text = "yu3"
+		intervals [14]:
+			xmin = 3.11246875
+			xmax = 3.3124687500000003
+			text = "da4"
+		intervals [15]:
+			xmin = 3.3124687500000003
+			xmax = 3.5424687500000003
+			text = "feng1"
+		intervals [16]:
+			xmin = 3.5424687500000003
+			xmax = 3.78246875
+			text = "deng3"
+		intervals [17]:
+			xmin = 3.78246875
+			xmax = 3.9824687500000002
+			text = "qiang2"
+		intervals [18]:
+			xmin = 3.9824687500000002
+			xmax = 4.15246875
+			text = "dui4"
+		intervals [19]:
+			xmin = 4.15246875
+			xmax = 4.33246875
+			text = "liu2"
+		intervals [20]:
+			xmin = 4.33246875
+			xmax = 4.54246875
+			text = "tian1"
+		intervals [21]:
+			xmin = 4.54246875
+			xmax = 5.151020408163265
+			text = "qi4"

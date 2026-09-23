@@ -1,0 +1,55 @@
+{
+  "id": "train-00006-of-00008-01223",
+  "status": "rejected",
+  "hypothesis": "敷面膜了",
+  "cer": 0.25,
+  "hanzi": "敷面膜喽",
+  "syllables": [
+    "fu1",
+    "mian4",
+    "mo2",
+    "lou5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "character_ctc_spans": [
+    [
+      21,
+      21,
+      0.9807490110397339
+    ],
+    [
+      28,
+      28,
+      0.7574102878570557
+    ],
+    [
+      38,
+      38,
+      0.9783682823181152
+    ],
+    [
+      49,
+      49,
+      3.7353456718847156e-06
+    ]
+  ],
+  "min_character_confidence": 3.7353456718847156e-06,
+  "reason": "Minimum character confidence 0.00000 too low"
+}

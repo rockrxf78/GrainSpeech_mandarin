@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.731020408163265
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.731020408163265
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.49246875
+			text = "da4"
+		intervals [2]:
+			xmin = 0.49246875
+			xmax = 0.7124687500000001
+			text = "kou3"
+		intervals [3]:
+			xmin = 0.7124687500000001
+			xmax = 0.90246875
+			text = "qin1"
+		intervals [4]:
+			xmin = 0.90246875
+			xmax = 1.09246875
+			text = "cun1"
+		intervals [5]:
+			xmin = 1.09246875
+			xmax = 1.30246875
+			text = "cun1"
+		intervals [6]:
+			xmin = 1.30246875
+			xmax = 1.50246875
+			text = "min2"
+		intervals [7]:
+			xmin = 1.50246875
+			xmax = 1.69246875
+			text = "wang2"
+		intervals [8]:
+			xmin = 1.69246875
+			xmax = 1.8924687500000001
+			text = "guo2"
+		intervals [9]:
+			xmin = 1.8924687500000001
+			xmax = 2.22246875
+			text = "rong2"
+		intervals [10]:
+			xmin = 2.22246875
+			xmax = 2.60246875
+			text = "huan4"
+		intervals [11]:
+			xmin = 2.60246875
+			xmax = 2.86246875
+			text = "gu2"
+		intervals [12]:
+			xmin = 2.86246875
+			xmax = 3.0624687500000003
+			text = "gu3"
+		intervals [13]:
+			xmin = 3.0624687500000003
+			xmax = 3.2524687500000002
+			text = "tou5"
+		intervals [14]:
+			xmin = 3.2524687500000002
+			xmax = 3.49246875
+			text = "huai4"
+		intervals [15]:
+			xmin = 3.49246875
+			xmax = 3.91246875
+			text = "si3"
+		intervals [16]:
+			xmin = 3.91246875
+			xmax = 4.29246875
+			text = "jia1"
+		intervals [17]:
+			xmin = 4.29246875
+			xmax = 4.5324687500000005
+			text = "li3"
+		intervals [18]:
+			xmin = 4.5324687500000005
+			xmax = 4.7424687500000005
+			text = "ji2"
+		intervals [19]:
+			xmin = 4.7424687500000005
+			xmax = 4.92246875
+			text = "wei2"
+		intervals [20]:
+			xmin = 4.92246875
+			xmax = 5.12246875
+			text = "pin2"
+		intervals [21]:
+			xmin = 5.12246875
+			xmax = 5.731020408163265
+			text = "kun4"

@@ -1,0 +1,47 @@
+{
+  "id": "train-00003-of-00008-00856",
+  "status": "rejected",
+  "hypothesis": "恩啊偶也在看了",
+  "cer": 0.42857142857142855,
+  "hanzi": "嗯嗯偶也在看呢",
+  "syllables": [
+    "en4",
+    "en4",
+    "ou2",
+    "ye3",
+    "zai4",
+    "kan4",
+    "ne5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

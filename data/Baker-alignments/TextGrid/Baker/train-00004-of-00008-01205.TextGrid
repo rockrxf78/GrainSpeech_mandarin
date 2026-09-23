@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.8310204081632655
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.8310204081632655
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "gai1"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.7024687500000001
+			text = "gao1"
+		intervals [3]:
+			xmin = 0.7024687500000001
+			xmax = 0.88246875
+			text = "guan3"
+		intervals [4]:
+			xmin = 0.88246875
+			xmax = 1.09246875
+			text = "tou4"
+		intervals [5]:
+			xmin = 1.09246875
+			xmax = 1.45246875
+			text = "lu4"
+		intervals [6]:
+			xmin = 1.45246875
+			xmax = 1.78246875
+			text = "zhi1"
+		intervals [7]:
+			xmin = 1.78246875
+			xmax = 1.93246875
+			text = "suo2"
+		intervals [8]:
+			xmin = 1.93246875
+			xmax = 2.12246875
+			text = "yi3"
+		intervals [9]:
+			xmin = 2.12246875
+			xmax = 2.36246875
+			text = "guan1"
+		intervals [10]:
+			xmin = 2.36246875
+			xmax = 2.59246875
+			text = "ting2"
+		intervals [11]:
+			xmin = 2.59246875
+			xmax = 2.80246875
+			text = "gao1"
+		intervals [12]:
+			xmin = 2.80246875
+			xmax = 2.99246875
+			text = "tie3"
+		intervals [13]:
+			xmin = 2.99246875
+			xmax = 3.15246875
+			text = "dai4"
+		intervals [14]:
+			xmin = 3.15246875
+			xmax = 3.32246875
+			text = "gou4"
+		intervals [15]:
+			xmin = 3.32246875
+			xmax = 3.49246875
+			text = "ye4"
+		intervals [16]:
+			xmin = 3.49246875
+			xmax = 3.82246875
+			text = "wu4"
+		intervals [17]:
+			xmin = 3.82246875
+			xmax = 4.15246875
+			text = "shi4"
+		intervals [18]:
+			xmin = 4.15246875
+			xmax = 4.31246875
+			text = "chu1"
+		intervals [19]:
+			xmin = 4.31246875
+			xmax = 4.52246875
+			text = "yu2"
+		intervals [20]:
+			xmin = 4.52246875
+			xmax = 4.75246875
+			text = "wen2"
+		intervals [21]:
+			xmin = 4.75246875
+			xmax = 4.92246875
+			text = "tuo3"
+		intervals [22]:
+			xmin = 4.92246875
+			xmax = 5.0724687500000005
+			text = "de5"
+		intervals [23]:
+			xmin = 5.0724687500000005
+			xmax = 5.26246875
+			text = "kao3"
+		intervals [24]:
+			xmin = 5.26246875
+			xmax = 5.8310204081632655
+			text = "lv4"

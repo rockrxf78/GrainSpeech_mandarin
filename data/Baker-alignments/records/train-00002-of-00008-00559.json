@@ -1,0 +1,67 @@
+{
+  "id": "train-00002-of-00008-00559",
+  "status": "rejected",
+  "hypothesis": "包括烟花报主需绕行身圳",
+  "cer": 0.36363636363636365,
+  "hanzi": "包括烟花爆竹须绕行深圳",
+  "syllables": [
+    "bao1",
+    "kuo4",
+    "yan1",
+    "hua1",
+    "bao4",
+    "zhu2",
+    "xu1",
+    "rao4",
+    "xing2",
+    "shen1",
+    "zhen4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

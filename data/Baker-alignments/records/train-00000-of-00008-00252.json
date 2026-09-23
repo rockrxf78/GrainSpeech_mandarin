@@ -1,0 +1,62 @@
+{
+  "id": "train-00000-of-00008-00252",
+  "status": "rejected",
+  "hypothesis": "他当即尴尬眼嘴接领头",
+  "cer": 0.4,
+  "hanzi": "她当即尴尬掩嘴兼拧头",
+  "syllables": [
+    "ta1",
+    "dang1",
+    "ji2",
+    "gan1",
+    "ga4",
+    "yan2",
+    "zui3",
+    "jian1",
+    "ning3",
+    "tou2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

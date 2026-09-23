@@ -1,0 +1,62 @@
+{
+  "id": "train-00000-of-00008-00321",
+  "status": "rejected",
+  "hypothesis": "村眠不绝小处出蚊子咬",
+  "cer": 0.4,
+  "hanzi": "春眠不觉晓处处蚊子咬",
+  "syllables": [
+    "chun1",
+    "mian2",
+    "bu4",
+    "jue2",
+    "xiao3",
+    "chu4",
+    "chu4",
+    "wen2",
+    "zi5",
+    "yao3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

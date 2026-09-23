@@ -1,0 +1,62 @@
+{
+  "id": "train-00001-of-00008-00988",
+  "status": "rejected",
+  "hypothesis": "正景暂底我还得切模呢",
+  "cer": 0.4,
+  "hanzi": "正经攒底我还得且磨呢",
+  "syllables": [
+    "zheng4",
+    "jing3",
+    "zan2",
+    "di3",
+    "wo3",
+    "hai2",
+    "dei2",
+    "qie3",
+    "mo2",
+    "ne5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

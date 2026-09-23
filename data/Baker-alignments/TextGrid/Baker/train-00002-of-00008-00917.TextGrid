@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.24
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.24
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5824687500000001
+			text = "xian4"
+		intervals [2]:
+			xmin = 0.5824687500000001
+			xmax = 0.79246875
+			text = "zai4"
+		intervals [3]:
+			xmin = 0.79246875
+			xmax = 1.02246875
+			text = "xiang2"
+		intervals [4]:
+			xmin = 1.02246875
+			xmax = 1.4024687500000002
+			text = "xiang3"
+		intervals [5]:
+			xmin = 1.4024687500000002
+			xmax = 1.80246875
+			text = "diu1"
+		intervals [6]:
+			xmin = 1.80246875
+			xmax = 2.05246875
+			text = "le5"
+		intervals [7]:
+			xmin = 2.05246875
+			xmax = 2.2724687500000003
+			text = "hao3"
+		intervals [8]:
+			xmin = 2.2724687500000003
+			xmax = 2.45246875
+			text = "xiang4"
+		intervals [9]:
+			xmin = 2.45246875
+			xmax = 2.62246875
+			text = "ye2"
+		intervals [10]:
+			xmin = 2.62246875
+			xmax = 2.8124687500000003
+			text = "hen3"
+		intervals [11]:
+			xmin = 2.8124687500000003
+			xmax = 3.0224687500000003
+			text = "zheng4"
+		intervals [12]:
+			xmin = 3.0224687500000003
+			xmax = 3.46246875
+			text = "chang2"
+		intervals [13]:
+			xmin = 3.46246875
+			xmax = 3.90246875
+			text = "shua2"
+		intervals [14]:
+			xmin = 3.90246875
+			xmax = 4.10246875
+			text = "shou3"
+		intervals [15]:
+			xmin = 4.10246875
+			xmax = 4.362468750000001
+			text = "wan4"
+		intervals [16]:
+			xmin = 4.362468750000001
+			xmax = 4.64246875
+			text = "wo2"
+		intervals [17]:
+			xmin = 4.64246875
+			xmax = 4.87246875
+			text = "shua3"
+		intervals [18]:
+			xmin = 4.87246875
+			xmax = 5.05246875
+			text = "bu2"
+		intervals [19]:
+			xmin = 5.05246875
+			xmax = 5.23246875
+			text = "guo4"
+		intervals [20]:
+			xmin = 5.23246875
+			xmax = 5.41246875
+			text = "qi2"
+		intervals [21]:
+			xmin = 5.41246875
+			xmax = 5.59246875
+			text = "ta1"
+		intervals [22]:
+			xmin = 5.59246875
+			xmax = 6.24
+			text = "ren2"

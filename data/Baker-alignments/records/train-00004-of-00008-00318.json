@@ -1,0 +1,47 @@
+{
+  "id": "train-00004-of-00008-00318",
+  "status": "rejected",
+  "hypothesis": "联小腿长哭生想",
+  "cer": 0.42857142857142855,
+  "hanzi": "脸小腿长哭声响",
+  "syllables": [
+    "lian2",
+    "xiao2",
+    "tui3",
+    "chang2",
+    "ku1",
+    "sheng1",
+    "xiang3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

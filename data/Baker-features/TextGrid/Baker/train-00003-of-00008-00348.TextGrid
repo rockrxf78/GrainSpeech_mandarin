@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.88
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.88
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52246875
+			text = "chen2"
+		intervals [2]:
+			xmin = 0.52246875
+			xmax = 0.74246875
+			text = "mou3"
+		intervals [3]:
+			xmin = 0.74246875
+			xmax = 0.98246875
+			text = "da4"
+		intervals [4]:
+			xmin = 0.98246875
+			xmax = 1.3924687500000001
+			text = "nu4"
+		intervals [5]:
+			xmin = 1.3924687500000001
+			xmax = 1.81246875
+			text = "cheng1"
+		intervals [6]:
+			xmin = 1.81246875
+			xmax = 2.03246875
+			text = "da4"
+		intervals [7]:
+			xmin = 2.03246875
+			xmax = 2.16246875
+			text = "bu5"
+		intervals [8]:
+			xmin = 2.16246875
+			xmax = 2.3124687500000003
+			text = "liao3"
+		intervals [9]:
+			xmin = 2.3124687500000003
+			xmax = 2.5224687500000003
+			text = "yu2"
+		intervals [10]:
+			xmin = 2.5224687500000003
+			xmax = 2.70246875
+			text = "si2"
+		intervals [11]:
+			xmin = 2.70246875
+			xmax = 2.90246875
+			text = "wang3"
+		intervals [12]:
+			xmin = 2.90246875
+			xmax = 3.3324687500000003
+			text = "po4"
+		intervals [13]:
+			xmin = 3.3324687500000003
+			xmax = 3.70246875
+			text = "ran2"
+		intervals [14]:
+			xmin = 3.70246875
+			xmax = 3.84246875
+			text = "hou4"
+		intervals [15]:
+			xmin = 3.84246875
+			xmax = 4.02246875
+			text = "er4"
+		intervals [16]:
+			xmin = 4.02246875
+			xmax = 4.2824687500000005
+			text = "ren2"
+		intervals [17]:
+			xmin = 4.2824687500000005
+			xmax = 4.5324687500000005
+			text = "kai1"
+		intervals [18]:
+			xmin = 4.5324687500000005
+			xmax = 4.70246875
+			text = "shi3"
+		intervals [19]:
+			xmin = 4.70246875
+			xmax = 4.89246875
+			text = "zheng1"
+		intervals [20]:
+			xmin = 4.89246875
+			xmax = 5.14246875
+			text = "chao2"
+		intervals [21]:
+			xmin = 5.14246875
+			xmax = 5.3224687500000005
+			text = "qi3"
+		intervals [22]:
+			xmin = 5.3224687500000005
+			xmax = 5.88
+			text = "lai2"

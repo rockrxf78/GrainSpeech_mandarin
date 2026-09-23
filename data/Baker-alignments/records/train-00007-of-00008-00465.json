@@ -1,0 +1,57 @@
+{
+  "id": "train-00007-of-00008-00465",
+  "status": "rejected",
+  "hypothesis": "春蕾亨一生说财富的",
+  "cer": 0.5555555555555556,
+  "hanzi": "春磊哼一声说才副的",
+  "syllables": [
+    "chun1",
+    "lei3",
+    "heng1",
+    "yi4",
+    "sheng1",
+    "shuo1",
+    "cai2",
+    "fu4",
+    "de5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.556 exceeds 0.35"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "train-00001-of-00008-00644",
+  "status": "rejected",
+  "hypothesis": "南京机名寺钥施塔起火",
+  "cer": 0.4,
+  "hanzi": "南京鸡鸣寺药师塔起火",
+  "syllables": [
+    "nan2",
+    "jing1",
+    "ji1",
+    "ming2",
+    "si4",
+    "yao4",
+    "shi1",
+    "ta3",
+    "qi2",
+    "huo3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

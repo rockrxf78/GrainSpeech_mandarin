@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.349024943310658
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.349024943310658
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.6724687500000001
+			text = "qiang3"
+		intervals [2]:
+			xmin = 0.6724687500000001
+			xmax = 0.91246875
+			text = "tong1"
+		intervals [3]:
+			xmin = 0.91246875
+			xmax = 1.1524687500000002
+			text = "wen4"
+		intervals [4]:
+			xmin = 1.1524687500000002
+			xmax = 1.3924687500000001
+			text = "chuan1"
+		intervals [5]:
+			xmin = 1.3924687500000001
+			xmax = 1.60246875
+			text = "yu3"
+		intervals [6]:
+			xmin = 1.60246875
+			xmax = 1.80246875
+			text = "wai4"
+		intervals [7]:
+			xmin = 1.80246875
+			xmax = 1.97246875
+			text = "jie4"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.10246875
+			text = "de5"
+		intervals [9]:
+			xmin = 2.10246875
+			xmax = 2.24246875
+			text = "gong1"
+		intervals [10]:
+			xmin = 2.24246875
+			xmax = 2.40246875
+			text = "lu4"
+		intervals [11]:
+			xmin = 2.40246875
+			xmax = 2.58246875
+			text = "tong1"
+		intervals [12]:
+			xmin = 2.58246875
+			xmax = 2.97246875
+			text = "dao4"
+		intervals [13]:
+			xmin = 2.97246875
+			xmax = 3.36246875
+			text = "qian1"
+		intervals [14]:
+			xmin = 3.36246875
+			xmax = 3.5624687500000003
+			text = "dong4"
+		intervals [15]:
+			xmin = 3.5624687500000003
+			xmax = 3.7924687500000003
+			text = "zhe5"
+		intervals [16]:
+			xmin = 3.7924687500000003
+			xmax = 3.99246875
+			text = "quan2"
+		intervals [17]:
+			xmin = 3.99246875
+			xmax = 4.17246875
+			text = "guo2"
+		intervals [18]:
+			xmin = 4.17246875
+			xmax = 4.35246875
+			text = "ren2"
+		intervals [19]:
+			xmin = 4.35246875
+			xmax = 4.4924687500000005
+			text = "min2"
+		intervals [20]:
+			xmin = 4.4924687500000005
+			xmax = 4.65246875
+			text = "de5"
+		intervals [21]:
+			xmin = 4.65246875
+			xmax = 5.349024943310658
+			text = "xin1"

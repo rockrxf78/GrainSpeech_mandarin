@@ -1,0 +1,52 @@
+{
+  "id": "train-00002-of-00008-00263",
+  "status": "rejected",
+  "hypothesis": "在累了久迷一小会",
+  "cer": 0.375,
+  "hanzi": "再累了就眯一小会",
+  "syllables": [
+    "zai4",
+    "lei4",
+    "le5",
+    "jiu4",
+    "mi1",
+    "yi4",
+    "xiao3",
+    "hui4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

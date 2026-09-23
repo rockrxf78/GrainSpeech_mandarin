@@ -1,0 +1,114 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.54
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.54
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.46246875
+			text = "dan4"
+		intervals [2]:
+			xmin = 0.46246875
+			xmax = 0.6924687500000001
+			text = "gai1"
+		intervals [3]:
+			xmin = 0.6924687500000001
+			xmax = 0.87246875
+			text = "ming2"
+		intervals [4]:
+			xmin = 0.87246875
+			xmax = 1.05246875
+			text = "xue2"
+		intervals [5]:
+			xmin = 1.05246875
+			xmax = 1.30246875
+			text = "sheng1"
+		intervals [6]:
+			xmin = 1.30246875
+			xmax = 1.54246875
+			text = "ci4"
+		intervals [7]:
+			xmin = 1.54246875
+			xmax = 1.76246875
+			text = "ri4"
+		intervals [8]:
+			xmin = 1.76246875
+			xmax = 2.00246875
+			text = "chen4"
+		intervals [9]:
+			xmin = 2.00246875
+			xmax = 2.19246875
+			text = "wu2"
+		intervals [10]:
+			xmin = 2.19246875
+			xmax = 2.43246875
+			text = "ren2"
+		intervals [11]:
+			xmin = 2.43246875
+			xmax = 2.82246875
+			text = "shi2"
+		intervals [12]:
+			xmin = 2.82246875
+			xmax = 3.16246875
+			text = "yi2"
+		intervals [13]:
+			xmin = 3.16246875
+			xmax = 3.38246875
+			text = "zhi3"
+		intervals [14]:
+			xmin = 3.38246875
+			xmax = 3.63246875
+			text = "jia5"
+		intervals [15]:
+			xmin = 3.63246875
+			xmax = 3.89246875
+			text = "tong3"
+		intervals [16]:
+			xmin = 3.89246875
+			xmax = 4.12246875
+			text = "po4"
+		intervals [17]:
+			xmin = 4.12246875
+			xmax = 4.3224687500000005
+			text = "kun2"
+		intervals [18]:
+			xmin = 4.3224687500000005
+			xmax = 4.51246875
+			text = "bang3"
+		intervals [19]:
+			xmin = 4.51246875
+			xmax = 4.70246875
+			text = "jiao1"
+		intervals [20]:
+			xmin = 4.70246875
+			xmax = 4.98246875
+			text = "dai4"
+		intervals [21]:
+			xmin = 4.98246875
+			xmax = 5.3224687500000005
+			text = "er2"
+		intervals [22]:
+			xmin = 5.3224687500000005
+			xmax = 5.55246875
+			text = "cheng2"
+		intervals [23]:
+			xmin = 5.55246875
+			xmax = 5.73246875
+			text = "gong1"
+		intervals [24]:
+			xmin = 5.73246875
+			xmax = 5.95246875
+			text = "tao2"
+		intervals [25]:
+			xmin = 5.95246875
+			xmax = 6.54
+			text = "tuo1"

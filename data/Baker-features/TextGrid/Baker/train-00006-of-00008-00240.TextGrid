@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.863038548752835
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.863038548752835
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.60246875
+			text = "dang1"
+		intervals [2]:
+			xmin = 0.60246875
+			xmax = 0.9524687500000001
+			text = "shi2"
+		intervals [3]:
+			xmin = 0.9524687500000001
+			xmax = 1.25246875
+			text = "zhang1"
+		intervals [4]:
+			xmin = 1.25246875
+			xmax = 1.44246875
+			text = "jian4"
+		intervals [5]:
+			xmin = 1.44246875
+			xmax = 1.6724687500000002
+			text = "guo2"
+		intervals [6]:
+			xmin = 1.6724687500000002
+			xmax = 1.9124687500000002
+			text = "sheng1"
+		intervals [7]:
+			xmin = 1.9124687500000002
+			xmax = 2.12246875
+			text = "cheng1"
+		intervals [8]:
+			xmin = 2.12246875
+			xmax = 2.35246875
+			text = "yao4"
+		intervals [9]:
+			xmin = 2.35246875
+			xmax = 2.55246875
+			text = "he2"
+		intervals [10]:
+			xmin = 2.55246875
+			xmax = 2.70246875
+			text = "di4"
+		intervals [11]:
+			xmin = 2.70246875
+			xmax = 2.85246875
+			text = "di5"
+		intervals [12]:
+			xmin = 2.85246875
+			xmax = 3.03246875
+			text = "zuo4"
+		intervals [13]:
+			xmin = 3.03246875
+			xmax = 3.26246875
+			text = "you2"
+		intervals [14]:
+			xmin = 3.26246875
+			xmax = 3.64246875
+			text = "xi4"
+		intervals [15]:
+			xmin = 3.64246875
+			xmax = 3.9824687500000002
+			text = "bing4"
+		intervals [16]:
+			xmin = 3.9824687500000002
+			xmax = 4.18246875
+			text = "ba3"
+		intervals [17]:
+			xmin = 4.18246875
+			xmax = 4.35246875
+			text = "di4"
+		intervals [18]:
+			xmin = 4.35246875
+			xmax = 4.46246875
+			text = "di5"
+		intervals [19]:
+			xmin = 4.46246875
+			xmax = 4.60246875
+			text = "de5"
+		intervals [20]:
+			xmin = 4.60246875
+			xmax = 4.85246875
+			text = "tui2"
+		intervals [21]:
+			xmin = 4.85246875
+			xmax = 5.16246875
+			text = "kun3"
+		intervals [22]:
+			xmin = 5.16246875
+			xmax = 5.863038548752835
+			text = "shang4"

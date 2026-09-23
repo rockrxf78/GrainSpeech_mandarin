@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.453015873015873
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.453015873015873
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "guo4"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.86246875
+			text = "qu4"
+		intervals [3]:
+			xmin = 0.86246875
+			xmax = 1.1124687500000001
+			text = "gai1"
+		intervals [4]:
+			xmin = 1.1124687500000001
+			xmax = 1.31246875
+			text = "gong1"
+		intervals [5]:
+			xmin = 1.31246875
+			xmax = 1.54246875
+			text = "si1"
+		intervals [6]:
+			xmin = 1.54246875
+			xmax = 1.73246875
+			text = "shi4"
+		intervals [7]:
+			xmin = 1.73246875
+			xmax = 1.8724687500000001
+			text = "yi2"
+		intervals [8]:
+			xmin = 1.8724687500000001
+			xmax = 2.07246875
+			text = "ge4"
+		intervals [9]:
+			xmin = 2.07246875
+			xmax = 2.2924687500000003
+			text = "mo4"
+		intervals [10]:
+			xmin = 2.2924687500000003
+			xmax = 2.46246875
+			text = "mo4"
+		intervals [11]:
+			xmin = 2.46246875
+			xmax = 2.62246875
+			text = "wu2"
+		intervals [12]:
+			xmin = 2.62246875
+			xmax = 2.78246875
+			text = "wen2"
+		intervals [13]:
+			xmin = 2.78246875
+			xmax = 2.99246875
+			text = "de5"
+		intervals [14]:
+			xmin = 2.99246875
+			xmax = 3.22246875
+			text = "zuo1"
+		intervals [15]:
+			xmin = 3.22246875
+			xmax = 3.47246875
+			text = "fang5"
+		intervals [16]:
+			xmin = 3.47246875
+			xmax = 3.72246875
+			text = "shi4"
+		intervals [17]:
+			xmin = 3.72246875
+			xmax = 3.92246875
+			text = "zhong1"
+		intervals [18]:
+			xmin = 3.92246875
+			xmax = 4.13246875
+			text = "yao4"
+		intervals [19]:
+			xmin = 4.13246875
+			xmax = 4.35246875
+			text = "sheng1"
+		intervals [20]:
+			xmin = 4.35246875
+			xmax = 4.55246875
+			text = "chan3"
+		intervals [21]:
+			xmin = 4.55246875
+			xmax = 4.7824687500000005
+			text = "xiao2"
+		intervals [22]:
+			xmin = 4.7824687500000005
+			xmax = 5.453015873015873
+			text = "chang3"

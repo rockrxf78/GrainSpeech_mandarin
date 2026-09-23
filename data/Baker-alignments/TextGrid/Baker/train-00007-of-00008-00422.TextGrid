@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.54
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.54
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.51246875
+			text = "zhuan3"
+		intervals [2]:
+			xmin = 0.51246875
+			xmax = 0.77246875
+			text = "nian4"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 1.00246875
+			text = "xiang3"
+		intervals [4]:
+			xmin = 1.00246875
+			xmax = 1.1524687500000002
+			text = "zhe4"
+		intervals [5]:
+			xmin = 1.1524687500000002
+			xmax = 1.31246875
+			text = "zhong3"
+		intervals [6]:
+			xmin = 1.31246875
+			xmax = 1.54246875
+			text = "xiang2"
+		intervals [7]:
+			xmin = 1.54246875
+			xmax = 1.81246875
+			text = "fa3"
+		intervals [8]:
+			xmin = 1.81246875
+			xmax = 2.0424687500000003
+			text = "bu4"
+		intervals [9]:
+			xmin = 2.0424687500000003
+			xmax = 2.24246875
+			text = "mian3"
+		intervals [10]:
+			xmin = 2.24246875
+			xmax = 2.49246875
+			text = "pian1"
+		intervals [11]:
+			xmin = 2.49246875
+			xmax = 2.94246875
+			text = "ji1"
+		intervals [12]:
+			xmin = 2.94246875
+			xmax = 3.35246875
+			text = "shang4"
+		intervals [13]:
+			xmin = 3.35246875
+			xmax = 3.5224687500000003
+			text = "hai3"
+		intervals [14]:
+			xmin = 3.5224687500000003
+			xmax = 3.66246875
+			text = "de5"
+		intervals [15]:
+			xmin = 3.66246875
+			xmax = 3.84246875
+			text = "jiao4"
+		intervals [16]:
+			xmin = 3.84246875
+			xmax = 4.08246875
+			text = "yu4"
+		intervals [17]:
+			xmin = 4.08246875
+			xmax = 4.29246875
+			text = "bu2"
+		intervals [18]:
+			xmin = 4.29246875
+			xmax = 4.45246875
+			text = "dai4"
+		intervals [19]:
+			xmin = 4.45246875
+			xmax = 4.63246875
+			text = "biao3"
+		intervals [20]:
+			xmin = 4.63246875
+			xmax = 4.84246875
+			text = "zhong1"
+		intervals [21]:
+			xmin = 4.84246875
+			xmax = 5.05246875
+			text = "guo2"
+		intervals [22]:
+			xmin = 5.05246875
+			xmax = 5.54
+			text = "de5"

@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.60702947845805
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.60702947845805
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "ji2"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.75246875
+			text = "bian4"
+		intervals [3]:
+			xmin = 0.75246875
+			xmax = 0.9524687500000001
+			text = "shi4"
+		intervals [4]:
+			xmin = 0.9524687500000001
+			xmax = 1.10246875
+			text = "wei2"
+		intervals [5]:
+			xmin = 1.10246875
+			xmax = 1.30246875
+			text = "fa3"
+		intervals [6]:
+			xmin = 1.30246875
+			xmax = 1.52246875
+			text = "jian4"
+		intervals [7]:
+			xmin = 1.52246875
+			xmax = 1.8624687500000001
+			text = "zhu4"
+		intervals [8]:
+			xmin = 1.8624687500000001
+			xmax = 2.11246875
+			text = "ni2"
+		intervals [9]:
+			xmin = 2.11246875
+			xmax = 2.22246875
+			text = "ye2"
+		intervals [10]:
+			xmin = 2.22246875
+			xmax = 2.37246875
+			text = "dei3"
+		intervals [11]:
+			xmin = 2.37246875
+			xmax = 2.60246875
+			text = "gao4"
+		intervals [12]:
+			xmin = 2.60246875
+			xmax = 2.7724687500000003
+			text = "su4"
+		intervals [13]:
+			xmin = 2.7724687500000003
+			xmax = 3.0024687500000002
+			text = "wo2"
+		intervals [14]:
+			xmin = 3.0024687500000002
+			xmax = 3.28246875
+			text = "na3"
+		intervals [15]:
+			xmin = 3.28246875
+			xmax = 3.44246875
+			text = "ge5"
+		intervals [16]:
+			xmin = 3.44246875
+			xmax = 3.59246875
+			text = "di4"
+		intervals [17]:
+			xmin = 3.59246875
+			xmax = 3.7524687500000002
+			text = "fang1"
+		intervals [18]:
+			xmin = 3.7524687500000002
+			xmax = 3.93246875
+			text = "wei2"
+		intervals [19]:
+			xmin = 3.93246875
+			xmax = 4.25246875
+			text = "fa3"
+		intervals [20]:
+			xmin = 4.25246875
+			xmax = 4.5724687500000005
+			text = "za3"
+		intervals [21]:
+			xmin = 4.5724687500000005
+			xmax = 4.77246875
+			text = "wei2"
+		intervals [22]:
+			xmin = 4.77246875
+			xmax = 4.9924687500000005
+			text = "fa3"
+		intervals [23]:
+			xmin = 4.9924687500000005
+			xmax = 5.60702947845805
+			text = "le5"

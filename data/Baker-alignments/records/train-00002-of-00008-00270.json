@@ -1,0 +1,67 @@
+{
+  "id": "train-00002-of-00008-00270",
+  "status": "rejected",
+  "hypothesis": "中丽提遭中年男子捏遇守",
+  "cer": 0.36363636363636365,
+  "hanzi": "钟丽缇遭中年男子捏玉手",
+  "syllables": [
+    "zhong1",
+    "li4",
+    "ti2",
+    "zao1",
+    "zhong1",
+    "nian2",
+    "nan2",
+    "zi3",
+    "nie1",
+    "yu4",
+    "shou3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

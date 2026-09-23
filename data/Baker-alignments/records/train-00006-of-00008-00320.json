@@ -1,0 +1,52 @@
+{
+  "id": "train-00006-of-00008-00320",
+  "status": "rejected",
+  "hypothesis": "百盘星细贵美先嫩",
+  "cer": 0.5,
+  "hanzi": "摆盘精细味美鲜嫩",
+  "syllables": [
+    "bai3",
+    "pan2",
+    "jing1",
+    "xi4",
+    "wei4",
+    "mei3",
+    "xian1",
+    "nen4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

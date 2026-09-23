@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.410022675736961
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.410022675736961
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.59246875
+			text = "shen1"
+		intervals [2]:
+			xmin = 0.59246875
+			xmax = 0.77246875
+			text = "bian1"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 1.00246875
+			text = "yao4"
+		intervals [4]:
+			xmin = 1.00246875
+			xmax = 1.22246875
+			text = "hao3"
+		intervals [5]:
+			xmin = 1.22246875
+			xmax = 1.4024687500000002
+			text = "de5"
+		intervals [6]:
+			xmin = 1.4024687500000002
+			xmax = 1.6124687500000001
+			text = "peng2"
+		intervals [7]:
+			xmin = 1.6124687500000001
+			xmax = 1.83246875
+			text = "you5"
+		intervals [8]:
+			xmin = 1.83246875
+			xmax = 2.0224687500000003
+			text = "he2"
+		intervals [9]:
+			xmin = 2.0224687500000003
+			xmax = 2.2524687500000002
+			text = "tong2"
+		intervals [10]:
+			xmin = 2.2524687500000002
+			xmax = 2.62246875
+			text = "shi4"
+		intervals [11]:
+			xmin = 2.62246875
+			xmax = 2.94246875
+			text = "huo4"
+		intervals [12]:
+			xmin = 2.94246875
+			xmax = 3.09246875
+			text = "xu3"
+		intervals [13]:
+			xmin = 3.09246875
+			xmax = 3.24246875
+			text = "neng2"
+		intervals [14]:
+			xmin = 3.24246875
+			xmax = 3.43246875
+			text = "dai4"
+		intervals [15]:
+			xmin = 3.43246875
+			xmax = 3.65246875
+			text = "lai2"
+		intervals [16]:
+			xmin = 3.65246875
+			xmax = 3.86246875
+			text = "yi4"
+		intervals [17]:
+			xmin = 3.86246875
+			xmax = 4.04246875
+			text = "xiang3"
+		intervals [18]:
+			xmin = 4.04246875
+			xmax = 4.20246875
+			text = "bu2"
+		intervals [19]:
+			xmin = 4.20246875
+			xmax = 4.35246875
+			text = "dao4"
+		intervals [20]:
+			xmin = 4.35246875
+			xmax = 4.51246875
+			text = "de5"
+		intervals [21]:
+			xmin = 4.51246875
+			xmax = 4.71246875
+			text = "jing1"
+		intervals [22]:
+			xmin = 4.71246875
+			xmax = 5.410022675736961
+			text = "xi3"

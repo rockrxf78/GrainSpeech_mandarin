@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.6020408163265305
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.6020408163265305
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "you3"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.78246875
+			text = "ci4"
+		intervals [3]:
+			xmin = 0.78246875
+			xmax = 0.9324687500000001
+			text = "qi1"
+		intervals [4]:
+			xmin = 0.9324687500000001
+			xmax = 1.07246875
+			text = "mo4"
+		intervals [5]:
+			xmin = 1.07246875
+			xmax = 1.30246875
+			text = "kao3"
+		intervals [6]:
+			xmin = 1.30246875
+			xmax = 1.6724687500000002
+			text = "shi4"
+		intervals [7]:
+			xmin = 1.6724687500000002
+			xmax = 1.97246875
+			text = "you3"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.12246875
+			text = "ge5"
+		intervals [9]:
+			xmin = 2.12246875
+			xmax = 2.3124687500000003
+			text = "tian2"
+		intervals [10]:
+			xmin = 2.3124687500000003
+			xmax = 2.5424687500000003
+			text = "kong4"
+		intervals [11]:
+			xmin = 2.5424687500000003
+			xmax = 2.94246875
+			text = "ti2"
+		intervals [12]:
+			xmin = 2.94246875
+			xmax = 3.35246875
+			text = "wen4"
+		intervals [13]:
+			xmin = 3.35246875
+			xmax = 3.59246875
+			text = "li3"
+		intervals [14]:
+			xmin = 3.59246875
+			xmax = 3.7924687500000003
+			text = "qing1"
+		intervals [15]:
+			xmin = 3.7924687500000003
+			xmax = 4.0324687500000005
+			text = "zhao4"
+		intervals [16]:
+			xmin = 4.0324687500000005
+			xmax = 4.26246875
+			text = "shi4"
+		intervals [17]:
+			xmin = 4.26246875
+			xmax = 4.42246875
+			text = "shen2"
+		intervals [18]:
+			xmin = 4.42246875
+			xmax = 4.58246875
+			text = "me5"
+		intervals [19]:
+			xmin = 4.58246875
+			xmax = 4.77246875
+			text = "pai4"
+		intervals [20]:
+			xmin = 4.77246875
+			xmax = 4.95246875
+			text = "de5"
+		intervals [21]:
+			xmin = 4.95246875
+			xmax = 5.6020408163265305
+			text = "ren2"

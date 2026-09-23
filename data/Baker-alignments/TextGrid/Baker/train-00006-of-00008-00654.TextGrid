@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.803038548752834
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.803038548752834
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5824687500000001
+			text = "ru2"
+		intervals [2]:
+			xmin = 0.5824687500000001
+			xmax = 0.8224687500000001
+			text = "guo3"
+		intervals [3]:
+			xmin = 0.8224687500000001
+			xmax = 1.09246875
+			text = "yi1"
+		intervals [4]:
+			xmin = 1.09246875
+			xmax = 1.28246875
+			text = "sheng1"
+		intervals [5]:
+			xmin = 1.28246875
+			xmax = 1.45246875
+			text = "duo1"
+		intervals [6]:
+			xmin = 1.45246875
+			xmax = 1.6524687500000002
+			text = "dian3"
+		intervals [7]:
+			xmin = 1.6524687500000002
+			xmax = 1.85246875
+			text = "zhi2"
+		intervals [8]:
+			xmin = 1.85246875
+			xmax = 2.03246875
+			text = "ye4"
+		intervals [9]:
+			xmin = 2.03246875
+			xmax = 2.26246875
+			text = "sheng4"
+		intervals [10]:
+			xmin = 2.26246875
+			xmax = 2.74246875
+			text = "xing2"
+		intervals [11]:
+			xmin = 2.74246875
+			xmax = 3.19246875
+			text = "na4"
+		intervals [12]:
+			xmin = 3.19246875
+			xmax = 3.37246875
+			text = "zha1"
+		intervals [13]:
+			xmin = 3.37246875
+			xmax = 3.65246875
+			text = "duir1"
+		intervals [14]:
+			xmin = 3.65246875
+			xmax = 3.84246875
+			text = "kan4"
+		intervals [15]:
+			xmin = 3.84246875
+			xmax = 3.99246875
+			text = "bing4"
+		intervals [16]:
+			xmin = 3.99246875
+			xmax = 4.14246875
+			text = "de5"
+		intervals [17]:
+			xmin = 4.14246875
+			xmax = 4.33246875
+			text = "xian4"
+		intervals [18]:
+			xmin = 4.33246875
+			xmax = 4.58246875
+			text = "xiang4"
+		intervals [19]:
+			xmin = 4.58246875
+			xmax = 4.80246875
+			text = "ye3"
+		intervals [20]:
+			xmin = 4.80246875
+			xmax = 4.97246875
+			text = "jiang1"
+		intervals [21]:
+			xmin = 4.97246875
+			xmax = 5.16246875
+			text = "zeng1"
+		intervals [22]:
+			xmin = 5.16246875
+			xmax = 5.803038548752834
+			text = "duo1"

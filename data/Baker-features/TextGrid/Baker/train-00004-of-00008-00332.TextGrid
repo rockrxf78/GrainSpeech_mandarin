@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.717006802721088
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.717006802721088
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "ta1"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.77246875
+			text = "jiao4"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 1.02246875
+			text = "zhou1"
+		intervals [4]:
+			xmin = 1.02246875
+			xmax = 1.24246875
+			text = "ke4"
+		intervals [5]:
+			xmin = 1.24246875
+			xmax = 1.6324687500000001
+			text = "yun2"
+		intervals [6]:
+			xmin = 1.6324687500000001
+			xmax = 1.99246875
+			text = "shi4"
+		intervals [7]:
+			xmin = 1.99246875
+			xmax = 2.19246875
+			text = "mou2"
+		intervals [8]:
+			xmin = 2.19246875
+			xmax = 2.47246875
+			text = "lv3"
+		intervals [9]:
+			xmin = 2.47246875
+			xmax = 2.71246875
+			text = "san1"
+		intervals [10]:
+			xmin = 2.71246875
+			xmax = 2.87246875
+			text = "ji2"
+		intervals [11]:
+			xmin = 2.87246875
+			xmax = 3.0224687500000003
+			text = "shi4"
+		intervals [12]:
+			xmin = 3.0224687500000003
+			xmax = 3.22246875
+			text = "guan1"
+		intervals [13]:
+			xmin = 3.22246875
+			xmax = 3.43246875
+			text = "liu2"
+		intervals [14]:
+			xmin = 3.43246875
+			xmax = 3.59246875
+			text = "yong3"
+		intervals [15]:
+			xmin = 3.59246875
+			xmax = 3.78246875
+			text = "de5"
+		intervals [16]:
+			xmin = 3.78246875
+			xmax = 3.97246875
+			text = "qi1"
+		intervals [17]:
+			xmin = 3.97246875
+			xmax = 4.23246875
+			text = "zi3"
+		intervals [18]:
+			xmin = 4.23246875
+			xmax = 4.52246875
+			text = "huai2"
+		intervals [19]:
+			xmin = 4.52246875
+			xmax = 4.72246875
+			text = "yun4"
+		intervals [20]:
+			xmin = 4.72246875
+			xmax = 4.91246875
+			text = "wu3"
+		intervals [21]:
+			xmin = 4.91246875
+			xmax = 5.13246875
+			text = "ge5"
+		intervals [22]:
+			xmin = 5.13246875
+			xmax = 5.717006802721088
+			text = "yue4"

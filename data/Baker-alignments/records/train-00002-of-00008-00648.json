@@ -1,0 +1,62 @@
+{
+  "id": "train-00002-of-00008-00648",
+  "status": "rejected",
+  "hypothesis": "一把辛酸类满平荒堂聚",
+  "cer": 0.4,
+  "hanzi": "一把辛酸泪满屏荒唐句",
+  "syllables": [
+    "yi4",
+    "ba3",
+    "xin1",
+    "suan1",
+    "lei4",
+    "man3",
+    "ping2",
+    "huang1",
+    "tang2",
+    "ju4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

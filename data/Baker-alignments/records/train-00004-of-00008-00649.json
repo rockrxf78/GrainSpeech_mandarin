@@ -1,0 +1,62 @@
+{
+  "id": "train-00004-of-00008-00649",
+  "status": "rejected",
+  "hypothesis": "你平说这是受牢牢影响",
+  "cer": 0.4,
+  "hanzi": "倪萍说这是受姥姥影响",
+  "syllables": [
+    "ni2",
+    "ping2",
+    "shuo1",
+    "zhe4",
+    "shi4",
+    "shou4",
+    "lao3",
+    "lao5",
+    "ying2",
+    "xiang3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

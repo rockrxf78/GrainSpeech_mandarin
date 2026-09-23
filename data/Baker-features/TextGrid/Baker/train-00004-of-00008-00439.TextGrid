@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.313015873015873
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.313015873015873
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "dang1"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.77246875
+			text = "ta1"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 1.00246875
+			text = "tuo1"
+		intervals [4]:
+			xmin = 1.00246875
+			xmax = 1.17246875
+			text = "qu4"
+		intervals [5]:
+			xmin = 1.17246875
+			xmax = 1.3724687500000001
+			text = "wai4"
+		intervals [6]:
+			xmin = 1.3724687500000001
+			xmax = 1.71246875
+			text = "yi1"
+		intervals [7]:
+			xmin = 1.71246875
+			xmax = 2.00246875
+			text = "ji4"
+		intervals [8]:
+			xmin = 2.00246875
+			xmax = 2.16246875
+			text = "zhe3"
+		intervals [9]:
+			xmin = 2.16246875
+			xmax = 2.33246875
+			text = "cai2"
+		intervals [10]:
+			xmin = 2.33246875
+			xmax = 2.5224687500000003
+			text = "fa1"
+		intervals [11]:
+			xmin = 2.5224687500000003
+			xmax = 2.7924687500000003
+			text = "xian4"
+		intervals [12]:
+			xmin = 2.7924687500000003
+			xmax = 3.0424687500000003
+			text = "ta1"
+		intervals [13]:
+			xmin = 3.0424687500000003
+			xmax = 3.22246875
+			text = "you4"
+		intervals [14]:
+			xmin = 3.22246875
+			xmax = 3.40246875
+			text = "bi4"
+		intervals [15]:
+			xmin = 3.40246875
+			xmax = 3.59246875
+			text = "zhou3"
+		intervals [16]:
+			xmin = 3.59246875
+			xmax = 3.78246875
+			text = "guan1"
+		intervals [17]:
+			xmin = 3.78246875
+			xmax = 3.94246875
+			text = "jie2"
+		intervals [18]:
+			xmin = 3.94246875
+			xmax = 4.09246875
+			text = "yi3"
+		intervals [19]:
+			xmin = 4.09246875
+			xmax = 4.30246875
+			text = "xia4"
+		intervals [20]:
+			xmin = 4.30246875
+			xmax = 4.56246875
+			text = "can2"
+		intervals [21]:
+			xmin = 4.56246875
+			xmax = 4.7824687500000005
+			text = "ji2"
+		intervals [22]:
+			xmin = 4.7824687500000005
+			xmax = 5.313015873015873
+			text = "le5"

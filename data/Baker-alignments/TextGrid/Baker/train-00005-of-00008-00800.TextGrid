@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.882040816326531
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.882040816326531
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "ju4"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.90246875
+			text = "xi1"
+		intervals [3]:
+			xmin = 0.90246875
+			xmax = 1.25246875
+			text = "ling2"
+		intervals [4]:
+			xmin = 1.25246875
+			xmax = 1.51246875
+			text = "guan3"
+		intervals [5]:
+			xmin = 1.51246875
+			xmax = 1.79246875
+			text = "mian4"
+		intervals [6]:
+			xmin = 1.79246875
+			xmax = 1.97246875
+			text = "chao2"
+		intervals [7]:
+			xmin = 1.97246875
+			xmax = 2.14246875
+			text = "yi4"
+		intervals [8]:
+			xmin = 2.14246875
+			xmax = 2.35246875
+			text = "tiao2"
+		intervals [9]:
+			xmin = 2.35246875
+			xmax = 2.5424687500000003
+			text = "jiao4"
+		intervals [10]:
+			xmin = 2.5424687500000003
+			xmax = 2.71246875
+			text = "zhai3"
+		intervals [11]:
+			xmin = 2.71246875
+			xmax = 2.87246875
+			text = "de5"
+		intervals [12]:
+			xmin = 2.87246875
+			xmax = 3.0624687500000003
+			text = "ma3"
+		intervals [13]:
+			xmin = 3.0624687500000003
+			xmax = 3.45246875
+			text = "lu4"
+		intervals [14]:
+			xmin = 3.45246875
+			xmax = 3.82246875
+			text = "ye4"
+		intervals [15]:
+			xmin = 3.82246875
+			xmax = 4.06246875
+			text = "jian1"
+		intervals [16]:
+			xmin = 4.06246875
+			xmax = 4.31246875
+			text = "hen2"
+		intervals [17]:
+			xmin = 4.31246875
+			xmax = 4.4924687500000005
+			text = "shao2"
+		intervals [18]:
+			xmin = 4.4924687500000005
+			xmax = 4.67246875
+			text = "you3"
+		intervals [19]:
+			xmin = 4.67246875
+			xmax = 4.85246875
+			text = "xing2"
+		intervals [20]:
+			xmin = 4.85246875
+			xmax = 5.04246875
+			text = "ren2"
+		intervals [21]:
+			xmin = 5.04246875
+			xmax = 5.2424687500000005
+			text = "jing1"
+		intervals [22]:
+			xmin = 5.2424687500000005
+			xmax = 5.882040816326531
+			text = "guo4"

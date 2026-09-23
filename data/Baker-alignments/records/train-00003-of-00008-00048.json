@@ -1,0 +1,52 @@
+{
+  "id": "train-00003-of-00008-00048",
+  "status": "rejected",
+  "hypothesis": "羡慕极度汗吞口水",
+  "cer": 0.375,
+  "hanzi": "羡慕嫉妒恨吞口水",
+  "syllables": [
+    "xian4",
+    "mu4",
+    "ji2",
+    "du4",
+    "hen4",
+    "tun1",
+    "kou2",
+    "shui3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

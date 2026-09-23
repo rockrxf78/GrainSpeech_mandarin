@@ -1,0 +1,52 @@
+{
+  "id": "train-00002-of-00008-00893",
+  "status": "rejected",
+  "hypothesis": "得到多注是到寡注",
+  "cer": 0.625,
+  "hanzi": "得道多助失道寡助",
+  "syllables": [
+    "de2",
+    "dao4",
+    "duo1",
+    "zhu4",
+    "shi1",
+    "dao4",
+    "gua3",
+    "zhu4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.625 exceeds 0.35"
+}

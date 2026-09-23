@@ -1,0 +1,42 @@
+{
+  "id": "train-00001-of-00008-00133",
+  "status": "rejected",
+  "hypothesis": "拟比无意凡帅",
+  "cer": 0.5,
+  "hanzi": "你比吴亦凡帅",
+  "syllables": [
+    "ni2",
+    "bi3",
+    "wu2",
+    "yi4",
+    "fan2",
+    "shuai4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

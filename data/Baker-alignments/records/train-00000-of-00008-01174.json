@@ -1,0 +1,72 @@
+{
+  "id": "train-00000-of-00008-01174",
+  "status": "rejected",
+  "hypothesis": "银行已形成零超存队长耿组",
+  "cer": 0.4166666666666667,
+  "hanzi": "银行已形成零钞存兑肠梗阻",
+  "syllables": [
+    "yin2",
+    "hang2",
+    "yi3",
+    "xing2",
+    "cheng2",
+    "ling2",
+    "chao1",
+    "cun2",
+    "dui4",
+    "chang2",
+    "geng2",
+    "zu3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.417 exceeds 0.35"
+}

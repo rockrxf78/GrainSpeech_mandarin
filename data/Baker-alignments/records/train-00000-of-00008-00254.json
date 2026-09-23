@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00254",
+  "status": "rejected",
+  "hypothesis": "大量土风涌进全社",
+  "cer": 0.375,
+  "hanzi": "大量土方涌进犬舍",
+  "syllables": [
+    "da4",
+    "liang4",
+    "tu3",
+    "fang1",
+    "yong3",
+    "jin4",
+    "quan3",
+    "she4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

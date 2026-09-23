@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.50702947845805
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.50702947845805
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "cai2"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.72246875
+			text = "fang3"
+		intervals [3]:
+			xmin = 0.72246875
+			xmax = 1.03246875
+			text = "zhong1"
+		intervals [4]:
+			xmin = 1.03246875
+			xmax = 1.35246875
+			text = "xiao2"
+		intervals [5]:
+			xmin = 1.35246875
+			xmax = 1.56246875
+			text = "yu3"
+		intervals [6]:
+			xmin = 1.56246875
+			xmax = 1.79246875
+			text = "bu4"
+		intervals [7]:
+			xmin = 1.79246875
+			xmax = 1.98246875
+			text = "ting2"
+		intervals [8]:
+			xmin = 1.98246875
+			xmax = 2.15246875
+			text = "de5"
+		intervals [9]:
+			xmin = 2.15246875
+			xmax = 2.30246875
+			text = "si1"
+		intervals [10]:
+			xmin = 2.30246875
+			xmax = 2.45246875
+			text = "yao3"
+		intervals [11]:
+			xmin = 2.45246875
+			xmax = 2.64246875
+			text = "zhe5"
+		intervals [12]:
+			xmin = 2.64246875
+			xmax = 2.82246875
+			text = "yi1"
+		intervals [13]:
+			xmin = 2.82246875
+			xmax = 3.18246875
+			text = "fu5"
+		intervals [14]:
+			xmin = 3.18246875
+			xmax = 3.57246875
+			text = "shen4"
+		intervals [15]:
+			xmin = 3.57246875
+			xmax = 3.7924687500000003
+			text = "zhi4"
+		intervals [16]:
+			xmin = 3.7924687500000003
+			xmax = 4.00246875
+			text = "hai2"
+		intervals [17]:
+			xmin = 4.00246875
+			xmax = 4.19246875
+			text = "yao2"
+		intervals [18]:
+			xmin = 4.19246875
+			xmax = 4.34246875
+			text = "qi3"
+		intervals [19]:
+			xmin = 4.34246875
+			xmax = 4.46246875
+			text = "le5"
+		intervals [20]:
+			xmin = 4.46246875
+			xmax = 4.63246875
+			text = "la1"
+		intervals [21]:
+			xmin = 4.63246875
+			xmax = 4.8224687500000005
+			text = "ji1"
+		intervals [22]:
+			xmin = 4.8224687500000005
+			xmax = 5.50702947845805
+			text = "tong3"

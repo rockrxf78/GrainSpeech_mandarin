@@ -1,0 +1,52 @@
+{
+  "id": "train-00001-of-00008-00649",
+  "status": "rejected",
+  "hypothesis": "人家是大致入鱼嘛",
+  "cer": 0.375,
+  "hanzi": "人家是大智若愚嘛",
+  "syllables": [
+    "ren2",
+    "jia1",
+    "shi4",
+    "da4",
+    "zhi4",
+    "ruo4",
+    "yu2",
+    "ma5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

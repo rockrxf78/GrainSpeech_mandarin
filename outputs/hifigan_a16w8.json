@@ -1,0 +1,56 @@
+{
+  "format": "tflite",
+  "model": "HiFi-GAN",
+  "quantization": "A16W8 with builtin CPU fallback",
+  "input": {
+    "name": "mel",
+    "shape": [
+      1,
+      64,
+      80
+    ],
+    "dtype": "float32",
+    "representation": "natural-log Mel amplitude; no additional normalization"
+  },
+  "output": {
+    "name": "audio",
+    "shape": [
+      1,
+      16384
+    ],
+    "dtype": "float32",
+    "range": [
+      -1.0,
+      1.0
+    ]
+  },
+  "sampling_rate": 22050,
+  "hop_length": 256,
+  "context_frames": {
+    "left": 13,
+    "right": 13
+  },
+  "checkpoint_sha256": "3fac378c5918fb2c102733f21eeaa8e9a4ca6cda24dbfddc55bbb947c78d562f",
+  "config_sha256": "fb61019b59922086dc4149ede63332ab21a5deb0aa5b51edc79f9995fc4c9736",
+  "tflite_sha256": "7ea6d1442c8657a76d6e84dd96fcb8307615962f7e795320e88b8bce1eb6b847",
+  "tensorflow": "2.20.0",
+  "calibration": {
+    "samples": 64,
+    "files": [
+      "outputs/a16w8_comparison/compact-speech_a16w8.npy",
+      "outputs/a16w8_comparison/compact-speech_fp32.npy",
+      "outputs/a16w8_comparison/morning-light_a16w8.npy",
+      "outputs/a16w8_comparison/morning-light_fp32.npy"
+    ]
+  },
+  "convolution_operators": {
+    "CONV_2D int16/int8": 74,
+    "TRANSPOSE_CONV int16/int8": 4
+  },
+  "first_window_comparison": {
+    "tensorflow_vs_pytorch_max_abs": 2.6240944862365723e-05,
+    "tflite_vs_pytorch_mae": 0.014461330051320748,
+    "tflite_vs_pytorch_max_abs": 0.21218980848789215
+  },
+  "deployment_note": "No real-time or MCU SRAM guarantee. Compile with the target Vela configuration and confirm CPU kernels, especially transpose convolutions, on the device."
+}

@@ -1,0 +1,45 @@
+{
+  "acoustic_fp32_sha256": "a50374b4a797fc17570fc1f983ebded2572442e977f33f94c7a4aecbbaca2460",
+  "acoustic_a16w8_sha256": "e101218a63247facd1d644052bf8a6dbb6a91bc1c0ceadbd18fe4b8c216418f2",
+  "a16w8_operators": {
+    "CONV_2D": 16,
+    "FULLY_CONNECTED": 7,
+    "DEPTHWISE_CONV_2D": 7
+  },
+  "samples": [
+    {
+      "id": "welcome",
+      "pinyin": "ni2 hao3 huan1 ying2 shi3 yong4 zhong1 wen2 yu3 yin1 he2 cheng2",
+      "fp32_frames": 252,
+      "a16w8_frames": 252,
+      "common_frame_mel_mae": 0.034418899565935135,
+      "audio": {
+        "fp32": "/home/ronren/GrainSpeech/outputs/baker_a16w8_audio/welcome_fp32.wav",
+        "a16w8": "/home/ronren/GrainSpeech/outputs/baker_a16w8_audio/welcome_a16w8.wav"
+      }
+    },
+    {
+      "id": "weather",
+      "pinyin": "jin1 tian1 de5 tian1 qi4 hen2 hao3",
+      "fp32_frames": 147,
+      "a16w8_frames": 147,
+      "common_frame_mel_mae": 0.07213760912418365,
+      "audio": {
+        "fp32": "/home/ronren/GrainSpeech/outputs/baker_a16w8_audio/weather_fp32.wav",
+        "a16w8": "/home/ronren/GrainSpeech/outputs/baker_a16w8_audio/weather_a16w8.wav"
+      }
+    },
+    {
+      "id": "training",
+      "pinyin": "wo3 men5 zheng4 zai4 xun4 lian4 yi2 ge4 xiao3 xing2 zhong1 wen2 yu3 yin1 mo2 xing2",
+      "fp32_frames": 336,
+      "a16w8_frames": 336,
+      "common_frame_mel_mae": 0.051045745611190796,
+      "audio": {
+        "fp32": "/home/ronren/GrainSpeech/outputs/baker_a16w8_audio/training_fp32.wav",
+        "a16w8": "/home/ronren/GrainSpeech/outputs/baker_a16w8_audio/training_a16w8.wav"
+      }
+    }
+  ],
+  "vocoder": "A16W8 HiFi-GAN for both comparisons"
+}

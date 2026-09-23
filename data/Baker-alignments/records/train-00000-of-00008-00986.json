@@ -1,0 +1,47 @@
+{
+  "id": "train-00000-of-00008-00986",
+  "status": "rejected",
+  "hypothesis": "风清对政字远行",
+  "cer": 0.5714285714285714,
+  "hanzi": "风清舵正自远航",
+  "syllables": [
+    "feng1",
+    "qing1",
+    "duo4",
+    "zheng4",
+    "zi4",
+    "yuan3",
+    "hang2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.571 exceeds 0.35"
+}

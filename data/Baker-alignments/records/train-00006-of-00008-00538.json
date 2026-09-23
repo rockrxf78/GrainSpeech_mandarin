@@ -1,0 +1,67 @@
+{
+  "id": "train-00006-of-00008-00538",
+  "status": "rejected",
+  "hypothesis": "从未调取豪铎为商天害礼",
+  "cer": 0.45454545454545453,
+  "hanzi": "从未巧取豪夺未伤天害理",
+  "syllables": [
+    "cong2",
+    "wei4",
+    "qiao2",
+    "qu3",
+    "hao2",
+    "duo2",
+    "wei4",
+    "shang1",
+    "tian1",
+    "hai4",
+    "li3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.455 exceeds 0.35"
+}

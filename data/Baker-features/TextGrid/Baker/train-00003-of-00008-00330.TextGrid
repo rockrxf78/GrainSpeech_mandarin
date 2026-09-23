@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.495011337868481
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.495011337868481
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "heng1"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.8224687500000001
+			text = "gu3"
+		intervals [3]:
+			xmin = 0.8224687500000001
+			xmax = 1.10246875
+			text = "kao4"
+		intervals [4]:
+			xmin = 1.10246875
+			xmax = 1.30246875
+			text = "jin4"
+		intervals [5]:
+			xmin = 1.30246875
+			xmax = 1.47246875
+			text = "ba1"
+		intervals [6]:
+			xmin = 1.47246875
+			xmax = 1.6224687500000001
+			text = "ji1"
+		intervals [7]:
+			xmin = 1.6224687500000001
+			xmax = 1.78246875
+			text = "si1"
+		intervals [8]:
+			xmin = 1.78246875
+			xmax = 2.00246875
+			text = "tan3"
+		intervals [9]:
+			xmin = 2.00246875
+			xmax = 2.20246875
+			text = "yu3"
+		intervals [10]:
+			xmin = 2.20246875
+			xmax = 2.36246875
+			text = "a1"
+		intervals [11]:
+			xmin = 2.36246875
+			xmax = 2.5224687500000003
+			text = "fu4"
+		intervals [12]:
+			xmin = 2.5224687500000003
+			xmax = 2.66246875
+			text = "han4"
+		intervals [13]:
+			xmin = 2.66246875
+			xmax = 2.7924687500000003
+			text = "de5"
+		intervals [14]:
+			xmin = 2.7924687500000003
+			xmax = 2.97246875
+			text = "bian1"
+		intervals [15]:
+			xmin = 2.97246875
+			xmax = 3.34246875
+			text = "jie4"
+		intervals [16]:
+			xmin = 3.34246875
+			xmax = 3.68246875
+			text = "wu3"
+		intervals [17]:
+			xmin = 3.68246875
+			xmax = 3.87246875
+			text = "zhuang1"
+		intervals [18]:
+			xmin = 3.87246875
+			xmax = 4.0724687500000005
+			text = "fen4"
+		intervals [19]:
+			xmin = 4.0724687500000005
+			xmax = 4.27246875
+			text = "zi3"
+		intervals [20]:
+			xmin = 4.27246875
+			xmax = 4.44246875
+			text = "huo2"
+		intervals [21]:
+			xmin = 4.44246875
+			xmax = 4.63246875
+			text = "dong4"
+		intervals [22]:
+			xmin = 4.63246875
+			xmax = 4.83246875
+			text = "pin2"
+		intervals [23]:
+			xmin = 4.83246875
+			xmax = 5.495011337868481
+			text = "fan2"

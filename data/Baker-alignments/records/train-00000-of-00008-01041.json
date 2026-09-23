@@ -1,0 +1,37 @@
+{
+  "id": "train-00000-of-00008-01041",
+  "status": "rejected",
+  "hypothesis": "炸皇瓜之啦",
+  "cer": 0.6,
+  "hanzi": "榨黄瓜汁啦",
+  "syllables": [
+    "zha4",
+    "huang2",
+    "gua1",
+    "zhi1",
+    "la5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.600 exceeds 0.35"
+}

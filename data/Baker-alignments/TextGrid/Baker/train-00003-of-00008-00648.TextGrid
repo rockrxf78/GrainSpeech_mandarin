@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.055011337868481
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.055011337868481
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.51246875
+			text = "mu4"
+		intervals [2]:
+			xmin = 0.51246875
+			xmax = 0.8324687500000001
+			text = "qian2"
+		intervals [3]:
+			xmin = 0.8324687500000001
+			xmax = 1.1524687500000002
+			text = "ye4"
+		intervals [4]:
+			xmin = 1.1524687500000002
+			xmax = 1.3624687500000001
+			text = "jiang1"
+		intervals [5]:
+			xmin = 1.3624687500000001
+			xmax = 1.6524687500000002
+			text = "chuan1"
+		intervals [6]:
+			xmin = 1.6524687500000002
+			xmax = 1.9124687500000002
+			text = "ye4"
+		intervals [7]:
+			xmin = 1.9124687500000002
+			xmax = 2.07246875
+			text = "rong2"
+		intervals [8]:
+			xmin = 2.07246875
+			xmax = 2.39246875
+			text = "guang1"
+		intervals [9]:
+			xmin = 2.39246875
+			xmax = 2.72246875
+			text = "xu2"
+		intervals [10]:
+			xmin = 2.72246875
+			xmax = 3.07246875
+			text = "jun4"
+		intervals [11]:
+			xmin = 3.07246875
+			xmax = 3.43246875
+			text = "he2"
+		intervals [12]:
+			xmin = 3.43246875
+			xmax = 3.63246875
+			text = "yin4"
+		intervals [13]:
+			xmin = 3.63246875
+			xmax = 3.7924687500000003
+			text = "ni2"
+		intervals [14]:
+			xmin = 3.7924687500000003
+			xmax = 3.99246875
+			text = "de5"
+		intervals [15]:
+			xmin = 3.99246875
+			xmax = 4.2424687500000005
+			text = "xi1"
+		intervals [16]:
+			xmin = 4.2424687500000005
+			xmax = 4.46246875
+			text = "tang2"
+		intervals [17]:
+			xmin = 4.46246875
+			xmax = 4.77246875
+			text = "gang1"
+		intervals [18]:
+			xmin = 4.77246875
+			xmax = 5.0724687500000005
+			text = "jun1"
+		intervals [19]:
+			xmin = 5.0724687500000005
+			xmax = 5.26246875
+			text = "ji1"
+		intervals [20]:
+			xmin = 5.26246875
+			xmax = 5.45246875
+			text = "si4"
+		intervals [21]:
+			xmin = 5.45246875
+			xmax = 6.055011337868481
+			text = "fen1"

@@ -1,0 +1,52 @@
+{
+  "id": "train-00001-of-00008-01194",
+  "status": "rejected",
+  "hypothesis": "慢慢长叶窈痒员工",
+  "cer": 0.75,
+  "hanzi": "漫漫长夜窈窈元宫",
+  "syllables": [
+    "man4",
+    "man4",
+    "chang2",
+    "ye4",
+    "yao2",
+    "yao3",
+    "yuan2",
+    "gong1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.750 exceeds 0.35"
+}

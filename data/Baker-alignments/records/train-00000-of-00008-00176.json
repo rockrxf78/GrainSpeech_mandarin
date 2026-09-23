@@ -1,0 +1,47 @@
+{
+  "id": "train-00000-of-00008-00176",
+  "status": "rejected",
+  "hypothesis": "更起指指其所野",
+  "cer": 0.7142857142857143,
+  "hanzi": "艮其止止其所也",
+  "syllables": [
+    "gen4",
+    "qi2",
+    "zhi3",
+    "zhi3",
+    "qi2",
+    "suo2",
+    "ye3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.714 exceeds 0.35"
+}

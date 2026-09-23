@@ -1,0 +1,57 @@
+{
+  "id": "train-00003-of-00008-00473",
+  "status": "rejected",
+  "hypothesis": "正是在演是灭火噪吧",
+  "cer": 0.5555555555555556,
+  "hanzi": "战士在演示灭火扫把",
+  "syllables": [
+    "zhan4",
+    "shi4",
+    "zai4",
+    "yan3",
+    "shi4",
+    "mie4",
+    "huo3",
+    "sao4",
+    "ba3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.556 exceeds 0.35"
+}

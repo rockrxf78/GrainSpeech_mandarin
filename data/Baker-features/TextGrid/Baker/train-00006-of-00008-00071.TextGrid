@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0010430839002264
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.0010430839002264
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "zuo2"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.87246875
+			text = "tian1"
+		intervals [3]:
+			xmin = 0.87246875
+			xmax = 1.18246875
+			text = "ou1"
+		intervals [4]:
+			xmin = 1.18246875
+			xmax = 1.3624687500000001
+			text = "zhou1"
+		intervals [5]:
+			xmin = 1.3624687500000001
+			xmax = 1.56246875
+			text = "gu3"
+		intervals [6]:
+			xmin = 1.56246875
+			xmax = 1.78246875
+			text = "shi4"
+		intervals [7]:
+			xmin = 1.78246875
+			xmax = 2.01246875
+			text = "zhong1"
+		intervals [8]:
+			xmin = 2.01246875
+			xmax = 2.2524687500000002
+			text = "pan2"
+		intervals [9]:
+			xmin = 2.2524687500000002
+			xmax = 2.46246875
+			text = "pu3"
+		intervals [10]:
+			xmin = 2.46246875
+			xmax = 2.64246875
+			text = "bian4"
+		intervals [11]:
+			xmin = 2.64246875
+			xmax = 2.84246875
+			text = "zou3"
+		intervals [12]:
+			xmin = 2.84246875
+			xmax = 3.22246875
+			text = "gao1"
+		intervals [13]:
+			xmin = 3.22246875
+			xmax = 3.5824687500000003
+			text = "yi4"
+		intervals [14]:
+			xmin = 3.5824687500000003
+			xmax = 3.7924687500000003
+			text = "sao3"
+		intervals [15]:
+			xmin = 3.7924687500000003
+			xmax = 4.01246875
+			text = "ya4"
+		intervals [16]:
+			xmin = 4.01246875
+			xmax = 4.19246875
+			text = "tai4"
+		intervals [17]:
+			xmin = 4.19246875
+			xmax = 4.38246875
+			text = "gu3"
+		intervals [18]:
+			xmin = 4.38246875
+			xmax = 4.60246875
+			text = "shi4"
+		intervals [19]:
+			xmin = 4.60246875
+			xmax = 4.80246875
+			text = "pu3"
+		intervals [20]:
+			xmin = 4.80246875
+			xmax = 4.95246875
+			text = "die1"
+		intervals [21]:
+			xmin = 4.95246875
+			xmax = 5.09246875
+			text = "de5"
+		intervals [22]:
+			xmin = 5.09246875
+			xmax = 5.26246875
+			text = "yin1"
+		intervals [23]:
+			xmin = 5.26246875
+			xmax = 6.0010430839002264
+			text = "mai2"

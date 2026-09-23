@@ -1,0 +1,47 @@
+{
+  "id": "train-00001-of-00008-00189",
+  "status": "rejected",
+  "hypothesis": "邓明渐寡岩少雨",
+  "cer": 0.42857142857142855,
+  "hanzi": "邓明建寡言少语",
+  "syllables": [
+    "deng4",
+    "ming2",
+    "jian4",
+    "gua3",
+    "yan2",
+    "shao2",
+    "yu3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

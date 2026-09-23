@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.86
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.86
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52246875
+			text = "zai4"
+		intervals [2]:
+			xmin = 0.52246875
+			xmax = 0.72246875
+			text = "qi2"
+		intervals [3]:
+			xmin = 0.72246875
+			xmax = 0.86246875
+			text = "qi2"
+		intervals [4]:
+			xmin = 0.86246875
+			xmax = 1.02246875
+			text = "ha1"
+		intervals [5]:
+			xmin = 1.02246875
+			xmax = 1.35246875
+			text = "er3"
+		intervals [6]:
+			xmin = 1.35246875
+			xmax = 1.70246875
+			text = "liang2"
+		intervals [7]:
+			xmin = 1.70246875
+			xmax = 1.8824687500000001
+			text = "hao3"
+		intervals [8]:
+			xmin = 1.8824687500000001
+			xmax = 2.03246875
+			text = "de5"
+		intervals [9]:
+			xmin = 2.03246875
+			xmax = 2.19246875
+			text = "sheng1"
+		intervals [10]:
+			xmin = 2.19246875
+			xmax = 2.36246875
+			text = "tai4"
+		intervals [11]:
+			xmin = 2.36246875
+			xmax = 2.5624687500000003
+			text = "huan2"
+		intervals [12]:
+			xmin = 2.5624687500000003
+			xmax = 2.91246875
+			text = "jing4"
+		intervals [13]:
+			xmin = 2.91246875
+			xmax = 3.26246875
+			text = "rang4"
+		intervals [14]:
+			xmin = 3.26246875
+			xmax = 3.46246875
+			text = "dan1"
+		intervals [15]:
+			xmin = 3.46246875
+			xmax = 3.69246875
+			text = "ding3"
+		intervals [16]:
+			xmin = 3.69246875
+			xmax = 4.01246875
+			text = "he4"
+		intervals [17]:
+			xmin = 4.01246875
+			xmax = 4.2824687500000005
+			text = "lai2"
+		intervals [18]:
+			xmin = 4.2824687500000005
+			xmax = 4.45246875
+			text = "zhe4"
+		intervals [19]:
+			xmin = 4.45246875
+			xmax = 4.70246875
+			text = "li3"
+		intervals [20]:
+			xmin = 4.70246875
+			xmax = 4.92246875
+			text = "xiu1"
+		intervals [21]:
+			xmin = 4.92246875
+			xmax = 5.09246875
+			text = "yang3"
+		intervals [22]:
+			xmin = 5.09246875
+			xmax = 5.34246875
+			text = "sheng1"
+		intervals [23]:
+			xmin = 5.34246875
+			xmax = 5.86
+			text = "xi1"

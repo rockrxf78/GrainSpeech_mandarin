@@ -1,0 +1,67 @@
+{
+  "id": "train-00002-of-00008-01030",
+  "status": "rejected",
+  "hypothesis": "不过德江山荣易手江山南",
+  "cer": 0.36363636363636365,
+  "hanzi": "不过得江山容易守江山难",
+  "syllables": [
+    "bu2",
+    "guo4",
+    "de2",
+    "jiang1",
+    "shan1",
+    "rong2",
+    "yi4",
+    "shou3",
+    "jiang1",
+    "shan1",
+    "nan2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

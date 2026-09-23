@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.049024943310657
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.049024943310657
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "yao4"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.77246875
+			text = "jian1"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 0.9424687500000001
+			text = "jue2"
+		intervals [4]:
+			xmin = 0.9424687500000001
+			xmax = 1.1224687500000001
+			text = "fan3"
+		intervals [5]:
+			xmin = 1.1224687500000001
+			xmax = 1.3724687500000001
+			text = "dui4"
+		intervals [6]:
+			xmin = 1.3724687500000001
+			xmax = 1.6324687500000001
+			text = "xing2"
+		intervals [7]:
+			xmin = 1.6324687500000001
+			xmax = 1.83246875
+			text = "xing2"
+		intervals [8]:
+			xmin = 1.83246875
+			xmax = 2.03246875
+			text = "se4"
+		intervals [9]:
+			xmin = 2.03246875
+			xmax = 2.20246875
+			text = "se4"
+		intervals [10]:
+			xmin = 2.20246875
+			xmax = 2.36246875
+			text = "de5"
+		intervals [11]:
+			xmin = 2.36246875
+			xmax = 2.49246875
+			text = "xing2"
+		intervals [12]:
+			xmin = 2.49246875
+			xmax = 2.64246875
+			text = "er2"
+		intervals [13]:
+			xmin = 2.64246875
+			xmax = 2.88246875
+			text = "shang4"
+		intervals [14]:
+			xmin = 2.88246875
+			xmax = 3.18246875
+			text = "xue2"
+		intervals [15]:
+			xmin = 3.18246875
+			xmax = 3.43246875
+			text = "he2"
+		intervals [16]:
+			xmin = 3.43246875
+			xmax = 3.62246875
+			text = "nong4"
+		intervals [17]:
+			xmin = 3.62246875
+			xmax = 3.80246875
+			text = "xu1"
+		intervals [18]:
+			xmin = 3.80246875
+			xmax = 3.96246875
+			text = "zuo4"
+		intervals [19]:
+			xmin = 3.96246875
+			xmax = 4.11246875
+			text = "jia3"
+		intervals [20]:
+			xmin = 4.11246875
+			xmax = 4.23246875
+			text = "de5"
+		intervals [21]:
+			xmin = 4.23246875
+			xmax = 4.40246875
+			text = "wai1"
+		intervals [22]:
+			xmin = 4.40246875
+			xmax = 5.049024943310657
+			text = "feng1"

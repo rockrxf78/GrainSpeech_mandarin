@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.353015873015873
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.353015873015873
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "zhi4"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.73246875
+			text = "yu2"
+		intervals [3]:
+			xmin = 0.73246875
+			xmax = 0.98246875
+			text = "can2"
+		intervals [4]:
+			xmin = 0.98246875
+			xmax = 1.17246875
+			text = "si3"
+		intervals [5]:
+			xmin = 1.17246875
+			xmax = 1.33246875
+			text = "de5"
+		intervals [6]:
+			xmin = 1.33246875
+			xmax = 1.49246875
+			text = "lv2"
+		intervals [7]:
+			xmin = 1.49246875
+			xmax = 1.6324687500000001
+			text = "guan3"
+		intervals [8]:
+			xmin = 1.6324687500000001
+			xmax = 1.80246875
+			text = "dian4"
+		intervals [9]:
+			xmin = 1.80246875
+			xmax = 1.97246875
+			text = "zhu3"
+		intervals [10]:
+			xmin = 1.97246875
+			xmax = 2.15246875
+			text = "fu4"
+		intervals [11]:
+			xmin = 2.15246875
+			xmax = 2.47246875
+			text = "nv3"
+		intervals [12]:
+			xmin = 2.47246875
+			xmax = 2.76246875
+			text = "ye3"
+		intervals [13]:
+			xmin = 2.76246875
+			xmax = 2.91246875
+			text = "shi4"
+		intervals [14]:
+			xmin = 2.91246875
+			xmax = 3.07246875
+			text = "ta1"
+		intervals [15]:
+			xmin = 3.07246875
+			xmax = 3.2724687500000003
+			text = "men5"
+		intervals [16]:
+			xmin = 3.2724687500000003
+			xmax = 3.5024687500000002
+			text = "you4"
+		intervals [17]:
+			xmin = 3.5024687500000002
+			xmax = 3.71246875
+			text = "pian4"
+		intervals [18]:
+			xmin = 3.71246875
+			xmax = 3.90246875
+			text = "jin4"
+		intervals [19]:
+			xmin = 3.90246875
+			xmax = 4.0724687500000005
+			text = "wu1"
+		intervals [20]:
+			xmin = 4.0724687500000005
+			xmax = 4.27246875
+			text = "hou4"
+		intervals [21]:
+			xmin = 4.27246875
+			xmax = 4.4924687500000005
+			text = "sha1"
+		intervals [22]:
+			xmin = 4.4924687500000005
+			xmax = 4.70246875
+			text = "hai4"
+		intervals [23]:
+			xmin = 4.70246875
+			xmax = 5.353015873015873
+			text = "de5"

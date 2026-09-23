@@ -1,0 +1,37 @@
+{
+  "id": "train-00003-of-00008-00395",
+  "status": "rejected",
+  "hypothesis": "宝塔震和腰",
+  "cer": 0.6,
+  "hanzi": "宝塔镇河妖",
+  "syllables": [
+    "bao2",
+    "ta3",
+    "zhen4",
+    "he2",
+    "yao1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.600 exceeds 0.35"
+}

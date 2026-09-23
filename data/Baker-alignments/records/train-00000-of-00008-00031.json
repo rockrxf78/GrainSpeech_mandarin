@@ -1,0 +1,67 @@
+{
+  "id": "train-00000-of-00008-00031",
+  "status": "rejected",
+  "hypothesis": "亚硝酸盐为威胁一溶雨水",
+  "cer": 0.45454545454545453,
+  "hanzi": "亚硝酸盐味微咸易溶于水",
+  "syllables": [
+    "ya4",
+    "xiao1",
+    "suan1",
+    "yan2",
+    "wei4",
+    "wei1",
+    "xian2",
+    "yi4",
+    "rong2",
+    "yu2",
+    "shui3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.455 exceeds 0.35"
+}

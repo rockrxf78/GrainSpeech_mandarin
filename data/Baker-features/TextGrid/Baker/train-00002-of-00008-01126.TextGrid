@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.929024943310657
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.929024943310657
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "an1"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.6824687500000001
+			text = "wa2"
+		intervals [3]:
+			xmin = 0.6824687500000001
+			xmax = 0.8324687500000001
+			text = "er3"
+		intervals [4]:
+			xmin = 0.8324687500000001
+			xmax = 1.00246875
+			text = "bei4"
+		intervals [5]:
+			xmin = 1.00246875
+			xmax = 1.19246875
+			text = "bu3"
+		intervals [6]:
+			xmin = 1.19246875
+			xmax = 1.51246875
+			text = "hou4"
+		intervals [7]:
+			xmin = 1.51246875
+			xmax = 1.81246875
+			text = "yi4"
+		intervals [8]:
+			xmin = 1.81246875
+			xmax = 1.96246875
+			text = "xie1"
+		intervals [9]:
+			xmin = 1.96246875
+			xmax = 2.11246875
+			text = "fan3"
+		intervals [10]:
+			xmin = 2.11246875
+			xmax = 2.26246875
+			text = "dui4"
+		intervals [11]:
+			xmin = 2.26246875
+			xmax = 2.39246875
+			text = "dang3"
+		intervals [12]:
+			xmin = 2.39246875
+			xmax = 2.53246875
+			text = "de5"
+		intervals [13]:
+			xmin = 2.53246875
+			xmax = 2.69246875
+			text = "yi4"
+		intervals [14]:
+			xmin = 2.69246875
+			xmax = 2.93246875
+			text = "yuan2"
+		intervals [15]:
+			xmin = 2.93246875
+			xmax = 3.16246875
+			text = "fen1"
+		intervals [16]:
+			xmin = 3.16246875
+			xmax = 3.32246875
+			text = "fen1"
+		intervals [17]:
+			xmin = 3.32246875
+			xmax = 3.4824687500000002
+			text = "ju4"
+		intervals [18]:
+			xmin = 3.4824687500000002
+			xmax = 3.62246875
+			text = "ji2"
+		intervals [19]:
+			xmin = 3.62246875
+			xmax = 3.7924687500000003
+			text = "zai4"
+		intervals [20]:
+			xmin = 3.7924687500000003
+			xmax = 3.99246875
+			text = "jing3"
+		intervals [21]:
+			xmin = 3.99246875
+			xmax = 4.19246875
+			text = "cha2"
+		intervals [22]:
+			xmin = 4.19246875
+			xmax = 4.362468750000001
+			text = "ju2"
+		intervals [23]:
+			xmin = 4.362468750000001
+			xmax = 4.929024943310657
+			text = "wai4"

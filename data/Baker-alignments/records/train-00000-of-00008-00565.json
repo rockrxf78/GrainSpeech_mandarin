@@ -1,0 +1,47 @@
+{
+  "id": "train-00000-of-00008-00565",
+  "status": "rejected",
+  "hypothesis": "证券后婚试告吹",
+  "cer": 0.5714285714285714,
+  "hanzi": "郑俊浩婚事告吹",
+  "syllables": [
+    "zheng4",
+    "jun4",
+    "hao4",
+    "hun1",
+    "shi4",
+    "gao4",
+    "chui1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.571 exceeds 0.35"
+}

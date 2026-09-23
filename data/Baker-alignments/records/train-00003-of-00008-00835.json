@@ -1,0 +1,67 @@
+{
+  "id": "train-00003-of-00008-00835",
+  "status": "rejected",
+  "hypothesis": "老僧视觉贤老僧深百英朗",
+  "cer": 0.36363636363636365,
+  "hanzi": "老僧释觉贤老僧身板硬朗",
+  "syllables": [
+    "lao3",
+    "seng1",
+    "shi4",
+    "jue2",
+    "xian2",
+    "lao3",
+    "seng1",
+    "shen1",
+    "ban3",
+    "ying4",
+    "lang3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

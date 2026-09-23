@@ -1,0 +1,67 @@
+{
+  "id": "train-00000-of-00008-01182",
+  "status": "rejected",
+  "hypothesis": "可作船在儿海上唱有一番",
+  "cer": 0.36363636363636365,
+  "hanzi": "可座船在洱海上畅游一番",
+  "syllables": [
+    "ke3",
+    "zuo4",
+    "chuan2",
+    "zai4",
+    "er2",
+    "hai3",
+    "shang4",
+    "chang4",
+    "you2",
+    "yi4",
+    "fan1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

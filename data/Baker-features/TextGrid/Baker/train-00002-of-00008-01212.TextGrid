@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.878004535147392
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.878004535147392
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "jie1"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.79246875
+			text = "zhe5"
+		intervals [3]:
+			xmin = 0.79246875
+			xmax = 1.05246875
+			text = "ta1"
+		intervals [4]:
+			xmin = 1.05246875
+			xmax = 1.23246875
+			text = "you4"
+		intervals [5]:
+			xmin = 1.23246875
+			xmax = 1.3924687500000001
+			text = "zou3"
+		intervals [6]:
+			xmin = 1.3924687500000001
+			xmax = 1.56246875
+			text = "jin4"
+		intervals [7]:
+			xmin = 1.56246875
+			xmax = 1.75246875
+			text = "ke4"
+		intervals [8]:
+			xmin = 1.75246875
+			xmax = 2.05246875
+			text = "ting1"
+		intervals [9]:
+			xmin = 2.05246875
+			xmax = 2.34246875
+			text = "jiang1"
+		intervals [10]:
+			xmin = 2.34246875
+			xmax = 2.5024687500000002
+			text = "ye2"
+		intervals [11]:
+			xmin = 2.5024687500000002
+			xmax = 2.66246875
+			text = "ye5"
+		intervals [12]:
+			xmin = 2.66246875
+			xmax = 2.83246875
+			text = "tui1"
+		intervals [13]:
+			xmin = 2.83246875
+			xmax = 3.01246875
+			text = "dao3"
+		intervals [14]:
+			xmin = 3.01246875
+			xmax = 3.20246875
+			text = "zai4"
+		intervals [15]:
+			xmin = 3.20246875
+			xmax = 3.55246875
+			text = "di4"
+		intervals [16]:
+			xmin = 3.55246875
+			xmax = 3.90246875
+			text = "tong2"
+		intervals [17]:
+			xmin = 3.90246875
+			xmax = 4.0724687500000005
+			text = "yang4"
+		intervals [18]:
+			xmin = 4.0724687500000005
+			xmax = 4.25246875
+			text = "yong4"
+		intervals [19]:
+			xmin = 4.25246875
+			xmax = 4.43246875
+			text = "cai4"
+		intervals [20]:
+			xmin = 4.43246875
+			xmax = 4.62246875
+			text = "dao1"
+		intervals [21]:
+			xmin = 4.62246875
+			xmax = 4.85246875
+			text = "meng4"
+		intervals [22]:
+			xmin = 4.85246875
+			xmax = 5.06246875
+			text = "kan3"
+		intervals [23]:
+			xmin = 5.06246875
+			xmax = 5.26246875
+			text = "guo4"
+		intervals [24]:
+			xmin = 5.26246875
+			xmax = 5.878004535147392
+			text = "qu4"

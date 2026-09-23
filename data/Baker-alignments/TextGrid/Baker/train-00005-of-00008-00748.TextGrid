@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.8710204081632655
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.8710204081632655
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "e4"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.74246875
+			text = "fa3"
+		intervals [3]:
+			xmin = 0.74246875
+			xmax = 0.9524687500000001
+			text = "yi4"
+		intervals [4]:
+			xmin = 0.9524687500000001
+			xmax = 1.24246875
+			text = "fa3"
+		intervals [5]:
+			xmin = 1.24246875
+			xmax = 1.53246875
+			text = "e4"
+		intervals [6]:
+			xmin = 1.53246875
+			xmax = 1.73246875
+			text = "fa3"
+		intervals [7]:
+			xmin = 1.73246875
+			xmax = 1.95246875
+			text = "fei1"
+		intervals [8]:
+			xmin = 1.95246875
+			xmax = 2.32246875
+			text = "fa3"
+		intervals [9]:
+			xmin = 2.32246875
+			xmax = 2.64246875
+			text = "shi4"
+		intervals [10]:
+			xmin = 2.64246875
+			xmax = 2.7924687500000003
+			text = "fa3"
+		intervals [11]:
+			xmin = 2.7924687500000003
+			xmax = 2.97246875
+			text = "lv4"
+		intervals [12]:
+			xmin = 2.97246875
+			xmax = 3.16246875
+			text = "shang4"
+		intervals [13]:
+			xmin = 3.16246875
+			xmax = 3.32246875
+			text = "de5"
+		intervals [14]:
+			xmin = 3.32246875
+			xmax = 3.49246875
+			text = "liang2"
+		intervals [15]:
+			xmin = 3.49246875
+			xmax = 3.70246875
+			text = "zhong3"
+		intervals [16]:
+			xmin = 3.70246875
+			xmax = 3.89246875
+			text = "jian4"
+		intervals [17]:
+			xmin = 3.89246875
+			xmax = 4.22246875
+			text = "jie3"
+		intervals [18]:
+			xmin = 4.22246875
+			xmax = 4.54246875
+			text = "zhi4"
+		intervals [19]:
+			xmin = 4.54246875
+			xmax = 4.7824687500000005
+			text = "jin1"
+		intervals [20]:
+			xmin = 4.7824687500000005
+			xmax = 5.00246875
+			text = "wu2"
+		intervals [21]:
+			xmin = 5.00246875
+			xmax = 5.17246875
+			text = "ding4"
+		intervals [22]:
+			xmin = 5.17246875
+			xmax = 5.8710204081632655
+			text = "lun4"

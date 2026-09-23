@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00654",
+  "status": "rejected",
+  "hypothesis": "绿柳滴锤江水哽业",
+  "cer": 0.375,
+  "hanzi": "绿柳低垂江水哽咽",
+  "syllables": [
+    "lv4",
+    "liu3",
+    "di1",
+    "chui2",
+    "jiang1",
+    "shui2",
+    "geng3",
+    "ye4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

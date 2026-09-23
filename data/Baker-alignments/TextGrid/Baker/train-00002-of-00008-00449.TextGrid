@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.214013605442177
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.214013605442177
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "tu2"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.77246875
+			text = "wei2"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 0.9624687500000001
+			text = "yi4"
+		intervals [4]:
+			xmin = 0.9624687500000001
+			xmax = 1.1324687500000001
+			text = "ming2"
+		intervals [5]:
+			xmin = 1.1324687500000001
+			xmax = 1.32246875
+			text = "xue2"
+		intervals [6]:
+			xmin = 1.32246875
+			xmax = 1.57246875
+			text = "sheng1"
+		intervals [7]:
+			xmin = 1.57246875
+			xmax = 1.84246875
+			text = "zai4"
+		intervals [8]:
+			xmin = 1.84246875
+			xmax = 2.05246875
+			text = "che2"
+		intervals [9]:
+			xmin = 2.05246875
+			xmax = 2.2524687500000002
+			text = "ban3"
+		intervals [10]:
+			xmin = 2.2524687500000002
+			xmax = 2.46246875
+			text = "fang2"
+		intervals [11]:
+			xmin = 2.46246875
+			xmax = 2.66246875
+			text = "chuang1"
+		intervals [12]:
+			xmin = 2.66246875
+			xmax = 2.85246875
+			text = "hu5"
+		intervals [13]:
+			xmin = 2.85246875
+			xmax = 3.10246875
+			text = "shang5"
+		intervals [14]:
+			xmin = 3.10246875
+			xmax = 3.39246875
+			text = "wei4"
+		intervals [15]:
+			xmin = 3.39246875
+			xmax = 3.61246875
+			text = "si1"
+		intervals [16]:
+			xmin = 3.61246875
+			xmax = 3.7524687500000002
+			text = "diao4"
+		intervals [17]:
+			xmin = 3.7524687500000002
+			xmax = 3.87246875
+			text = "de5"
+		intervals [18]:
+			xmin = 3.87246875
+			xmax = 4.0324687500000005
+			text = "bao1"
+		intervals [19]:
+			xmin = 4.0324687500000005
+			xmax = 4.2424687500000005
+			text = "zhuang1"
+		intervals [20]:
+			xmin = 4.2424687500000005
+			xmax = 4.48246875
+			text = "tie1"
+		intervals [21]:
+			xmin = 4.48246875
+			xmax = 5.214013605442177
+			text = "tiao2"

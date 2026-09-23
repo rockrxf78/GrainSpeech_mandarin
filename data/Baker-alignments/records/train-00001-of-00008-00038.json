@@ -1,0 +1,62 @@
+{
+  "id": "train-00001-of-00008-00038",
+  "status": "rejected",
+  "hypothesis": "故早前互车空遣返内地",
+  "cer": 0.4,
+  "hanzi": "杜早前获撤控遣返内地",
+  "syllables": [
+    "du4",
+    "zao3",
+    "qian2",
+    "huo4",
+    "che4",
+    "kong4",
+    "qian2",
+    "fan3",
+    "nei4",
+    "di4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

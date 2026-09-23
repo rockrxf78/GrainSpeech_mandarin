@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.363038548752835
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.363038548752835
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.60246875
+			text = "she4"
+		intervals [2]:
+			xmin = 0.60246875
+			xmax = 0.8224687500000001
+			text = "you3"
+		intervals [3]:
+			xmin = 0.8224687500000001
+			xmax = 1.01246875
+			text = "ye2"
+		intervals [4]:
+			xmin = 1.01246875
+			xmax = 1.19246875
+			text = "hen2"
+		intervals [5]:
+			xmin = 1.19246875
+			xmax = 1.35246875
+			text = "xi3"
+		intervals [6]:
+			xmin = 1.35246875
+			xmax = 1.51246875
+			text = "huan1"
+		intervals [7]:
+			xmin = 1.51246875
+			xmax = 1.6624687500000002
+			text = "zhe4"
+		intervals [8]:
+			xmin = 1.6624687500000002
+			xmax = 1.81246875
+			text = "xie1"
+		intervals [9]:
+			xmin = 1.81246875
+			xmax = 2.01246875
+			text = "xiao3"
+		intervals [10]:
+			xmin = 2.01246875
+			xmax = 2.20246875
+			text = "wu1"
+		intervals [11]:
+			xmin = 2.20246875
+			xmax = 2.5624687500000003
+			text = "gui1"
+		intervals [12]:
+			xmin = 2.5624687500000003
+			xmax = 2.96246875
+			text = "jing1"
+		intervals [13]:
+			xmin = 2.96246875
+			xmax = 3.16246875
+			text = "chang2"
+		intervals [14]:
+			xmin = 3.16246875
+			xmax = 3.35246875
+			text = "ba3"
+		intervals [15]:
+			xmin = 3.35246875
+			xmax = 3.51246875
+			text = "ta1"
+		intervals [16]:
+			xmin = 3.51246875
+			xmax = 3.68246875
+			text = "men5"
+		intervals [17]:
+			xmin = 3.68246875
+			xmax = 3.88246875
+			text = "peng3"
+		intervals [18]:
+			xmin = 3.88246875
+			xmax = 4.06246875
+			text = "zai4"
+		intervals [19]:
+			xmin = 4.06246875
+			xmax = 4.26246875
+			text = "shou3"
+		intervals [20]:
+			xmin = 4.26246875
+			xmax = 4.46246875
+			text = "xin1"
+		intervals [21]:
+			xmin = 4.46246875
+			xmax = 4.64246875
+			text = "shang4"
+		intervals [22]:
+			xmin = 4.64246875
+			xmax = 5.363038548752835
+			text = "wan2"

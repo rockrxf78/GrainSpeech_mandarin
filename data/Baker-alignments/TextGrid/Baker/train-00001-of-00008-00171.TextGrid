@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.04
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.04
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.48246875
+			text = "wang3"
+		intervals [2]:
+			xmin = 0.48246875
+			xmax = 0.77246875
+			text = "shang4"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 1.02246875
+			text = "zan4"
+		intervals [4]:
+			xmin = 1.02246875
+			xmax = 1.25246875
+			text = "tan4"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.52246875
+			text = "sheng1"
+		intervals [6]:
+			xmin = 1.52246875
+			xmax = 1.75246875
+			text = "xiong1"
+		intervals [7]:
+			xmin = 1.75246875
+			xmax = 1.94246875
+			text = "yong3"
+		intervals [8]:
+			xmin = 1.94246875
+			xmax = 2.18246875
+			text = "peng2"
+		intervals [9]:
+			xmin = 2.18246875
+			xmax = 2.60246875
+			text = "pai4"
+		intervals [10]:
+			xmin = 2.60246875
+			xmax = 2.96246875
+			text = "hai2"
+		intervals [11]:
+			xmin = 2.96246875
+			xmax = 3.12246875
+			text = "you3"
+		intervals [12]:
+			xmin = 3.12246875
+			xmax = 3.3124687500000003
+			text = "bu4"
+		intervals [13]:
+			xmin = 3.3124687500000003
+			xmax = 3.5024687500000002
+			text = "shao3"
+		intervals [14]:
+			xmin = 3.5024687500000002
+			xmax = 3.71246875
+			text = "wang2"
+		intervals [15]:
+			xmin = 3.71246875
+			xmax = 3.97246875
+			text = "you3"
+		intervals [16]:
+			xmin = 3.97246875
+			xmax = 4.23246875
+			text = "chen4"
+		intervals [17]:
+			xmin = 4.23246875
+			xmax = 4.48246875
+			text = "ji1"
+		intervals [18]:
+			xmin = 4.48246875
+			xmax = 4.73246875
+			text = "wa1"
+		intervals [19]:
+			xmin = 4.73246875
+			xmax = 4.92246875
+			text = "ku3"
+		intervals [20]:
+			xmin = 4.92246875
+			xmax = 5.06246875
+			text = "yi2"
+		intervals [21]:
+			xmin = 5.06246875
+			xmax = 5.23246875
+			text = "xia4"
+		intervals [22]:
+			xmin = 5.23246875
+			xmax = 5.45246875
+			text = "jiang1"
+		intervals [23]:
+			xmin = 5.45246875
+			xmax = 6.04
+			text = "kun1"

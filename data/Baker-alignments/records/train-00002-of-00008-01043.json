@@ -1,0 +1,52 @@
+{
+  "id": "train-00002-of-00008-01043",
+  "status": "rejected",
+  "hypothesis": "皇后之喜今吃胡纽",
+  "cer": 0.5,
+  "hanzi": "皇后之玺金螭虎纽",
+  "syllables": [
+    "huang2",
+    "hou4",
+    "zhi1",
+    "xi3",
+    "jin1",
+    "chi1",
+    "hu2",
+    "niu3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

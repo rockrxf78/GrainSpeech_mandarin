@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00337",
+  "status": "rejected",
+  "hypothesis": "金埔在望龙海相连",
+  "cer": 0.375,
+  "hanzi": "津浦在望陇海相连",
+  "syllables": [
+    "jin1",
+    "pu3",
+    "zai4",
+    "wang4",
+    "long2",
+    "hai3",
+    "xiang1",
+    "lian2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.34
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.34
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5724687500000001
+			text = "xi1"
+		intervals [2]:
+			xmin = 0.5724687500000001
+			xmax = 0.8224687500000001
+			text = "han4"
+		intervals [3]:
+			xmin = 0.8224687500000001
+			xmax = 1.09246875
+			text = "chang2"
+		intervals [4]:
+			xmin = 1.09246875
+			xmax = 1.3824687500000001
+			text = "yi3"
+		intervals [5]:
+			xmin = 1.3824687500000001
+			xmax = 1.69246875
+			text = "jiang4"
+		intervals [6]:
+			xmin = 1.69246875
+			xmax = 1.94246875
+			text = "yan2"
+		intervals [7]:
+			xmin = 1.94246875
+			xmax = 2.16246875
+			text = "deng3"
+		intervals [8]:
+			xmin = 2.16246875
+			xmax = 2.38246875
+			text = "zuo2"
+		intervals [9]:
+			xmin = 2.38246875
+			xmax = 2.66246875
+			text = "liao5"
+		intervals [10]:
+			xmin = 2.66246875
+			xmax = 2.93246875
+			text = "wei2"
+		intervals [11]:
+			xmin = 2.93246875
+			xmax = 3.14246875
+			text = "rou4"
+		intervals [12]:
+			xmin = 3.14246875
+			xmax = 3.3324687500000003
+			text = "shi2"
+		intervals [13]:
+			xmin = 3.3324687500000003
+			xmax = 3.5224687500000003
+			text = "pin3"
+		intervals [14]:
+			xmin = 3.5224687500000003
+			xmax = 3.7324687500000002
+			text = "tiao2"
+		intervals [15]:
+			xmin = 3.7324687500000002
+			xmax = 4.21246875
+			text = "liao4"
+		intervals [16]:
+			xmin = 4.21246875
+			xmax = 4.67246875
+			text = "tiao2"
+		intervals [17]:
+			xmin = 4.67246875
+			xmax = 4.92246875
+			text = "liao4"
+		intervals [18]:
+			xmin = 4.92246875
+			xmax = 5.21246875
+			text = "jun1"
+		intervals [19]:
+			xmin = 5.21246875
+			xmax = 5.42246875
+			text = "fang4"
+		intervals [20]:
+			xmin = 5.42246875
+			xmax = 5.59246875
+			text = "ru4"
+		intervals [21]:
+			xmin = 5.59246875
+			xmax = 5.7824687500000005
+			text = "bei1"
+		intervals [22]:
+			xmin = 5.7824687500000005
+			xmax = 6.34
+			text = "zhong1"

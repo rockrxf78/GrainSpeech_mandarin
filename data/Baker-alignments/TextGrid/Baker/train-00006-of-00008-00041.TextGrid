@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.646031746031746
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.646031746031746
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.59246875
+			text = "zai4"
+		intervals [2]:
+			xmin = 0.59246875
+			xmax = 0.79246875
+			text = "chuan1"
+		intervals [3]:
+			xmin = 0.79246875
+			xmax = 0.9424687500000001
+			text = "yue4"
+		intervals [4]:
+			xmin = 0.9424687500000001
+			xmax = 1.1124687500000001
+			text = "guo4"
+		intervals [5]:
+			xmin = 1.1124687500000001
+			xmax = 1.29246875
+			text = "cheng2"
+		intervals [6]:
+			xmin = 1.29246875
+			xmax = 1.6624687500000002
+			text = "zhong1"
+		intervals [7]:
+			xmin = 1.6624687500000002
+			xmax = 2.03246875
+			text = "lv2"
+		intervals [8]:
+			xmin = 2.03246875
+			xmax = 2.22246875
+			text = "you3"
+		intervals [9]:
+			xmin = 2.22246875
+			xmax = 2.42246875
+			text = "zai4"
+		intervals [10]:
+			xmin = 2.42246875
+			xmax = 2.59246875
+			text = "yi2"
+		intervals [11]:
+			xmin = 2.59246875
+			xmax = 2.78246875
+			text = "chu4"
+		intervals [12]:
+			xmin = 2.78246875
+			xmax = 2.97246875
+			text = "zhu2"
+		intervals [13]:
+			xmin = 2.97246875
+			xmax = 3.15246875
+			text = "lin2"
+		intervals [14]:
+			xmin = 3.15246875
+			xmax = 3.37246875
+			text = "shen1"
+		intervals [15]:
+			xmin = 3.37246875
+			xmax = 3.66246875
+			text = "chu4"
+		intervals [16]:
+			xmin = 3.66246875
+			xmax = 3.92246875
+			text = "pai1"
+		intervals [17]:
+			xmin = 3.92246875
+			xmax = 4.08246875
+			text = "dao4"
+		intervals [18]:
+			xmin = 4.08246875
+			xmax = 4.23246875
+			text = "le5"
+		intervals [19]:
+			xmin = 4.23246875
+			xmax = 4.42246875
+			text = "da4"
+		intervals [20]:
+			xmin = 4.42246875
+			xmax = 4.60246875
+			text = "xiong2"
+		intervals [21]:
+			xmin = 4.60246875
+			xmax = 4.76246875
+			text = "mao1"
+		intervals [22]:
+			xmin = 4.76246875
+			xmax = 4.94246875
+			text = "fen4"
+		intervals [23]:
+			xmin = 4.94246875
+			xmax = 5.646031746031746
+			text = "bian4"

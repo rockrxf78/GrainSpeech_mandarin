@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.324036281179138
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.324036281179138
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5824687500000001
+			text = "qian2"
+		intervals [2]:
+			xmin = 0.5824687500000001
+			xmax = 0.77246875
+			text = "ji3"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 0.9324687500000001
+			text = "ri4"
+		intervals [4]:
+			xmin = 0.9324687500000001
+			xmax = 1.1324687500000001
+			text = "de5"
+		intervals [5]:
+			xmin = 1.1324687500000001
+			xmax = 1.4124687500000002
+			text = "mao4"
+		intervals [6]:
+			xmin = 1.4124687500000002
+			xmax = 1.71246875
+			text = "xian4"
+		intervals [7]:
+			xmin = 1.71246875
+			xmax = 1.96246875
+			text = "wen4"
+		intervals [8]:
+			xmin = 1.96246875
+			xmax = 2.19246875
+			text = "chuan1"
+		intervals [9]:
+			xmin = 2.19246875
+			xmax = 2.43246875
+			text = "deng3"
+		intervals [10]:
+			xmin = 2.43246875
+			xmax = 2.63246875
+			text = "zhen4"
+		intervals [11]:
+			xmin = 2.63246875
+			xmax = 2.78246875
+			text = "zhong1"
+		intervals [12]:
+			xmin = 2.78246875
+			xmax = 2.97246875
+			text = "di4"
+		intervals [13]:
+			xmin = 2.97246875
+			xmax = 3.24246875
+			text = "qu1"
+		intervals [14]:
+			xmin = 3.24246875
+			xmax = 3.47246875
+			text = "jiang4"
+		intervals [15]:
+			xmin = 3.47246875
+			xmax = 3.63246875
+			text = "yu3"
+		intervals [16]:
+			xmin = 3.63246875
+			xmax = 3.80246875
+			text = "jiao4"
+		intervals [17]:
+			xmin = 3.80246875
+			xmax = 4.08246875
+			text = "duo1"
+		intervals [18]:
+			xmin = 4.08246875
+			xmax = 4.37246875
+			text = "yun2"
+		intervals [19]:
+			xmin = 4.37246875
+			xmax = 4.5724687500000005
+			text = "ceng2"
+		intervals [20]:
+			xmin = 4.5724687500000005
+			xmax = 4.77246875
+			text = "jiao4"
+		intervals [21]:
+			xmin = 4.77246875
+			xmax = 5.324036281179138
+			text = "hou4"

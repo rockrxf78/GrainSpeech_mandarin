@@ -1,0 +1,72 @@
+{
+  "id": "train-00003-of-00008-00636",
+  "status": "rejected",
+  "hypothesis": "鸟秒细雨怀望美人希添一方",
+  "cer": 0.5,
+  "hanzi": "渺渺兮予怀望美人兮天一方",
+  "syllables": [
+    "miao2",
+    "miao3",
+    "xi1",
+    "yu3",
+    "huai2",
+    "wang4",
+    "mei3",
+    "ren2",
+    "xi1",
+    "tian1",
+    "yi4",
+    "fang1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

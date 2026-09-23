@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.511020408163265
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.511020408163265
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "chu1"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.6724687500000001
+			text = "le5"
+		intervals [3]:
+			xmin = 0.6724687500000001
+			xmax = 0.91246875
+			text = "shir4"
+		intervals [4]:
+			xmin = 0.91246875
+			xmax = 1.27246875
+			text = "hou4"
+		intervals [5]:
+			xmin = 1.27246875
+			xmax = 1.6224687500000001
+			text = "ta1"
+		intervals [6]:
+			xmin = 1.6224687500000001
+			xmax = 1.78246875
+			text = "hai2"
+		intervals [7]:
+			xmin = 1.78246875
+			xmax = 2.01246875
+			text = "he2"
+		intervals [8]:
+			xmin = 2.01246875
+			xmax = 2.2324687500000002
+			text = "kan1"
+		intervals [9]:
+			xmin = 2.2324687500000002
+			xmax = 2.40246875
+			text = "shou2"
+		intervals [10]:
+			xmin = 2.40246875
+			xmax = 2.57246875
+			text = "suo2"
+		intervals [11]:
+			xmin = 2.57246875
+			xmax = 2.76246875
+			text = "guan3"
+		intervals [12]:
+			xmin = 2.76246875
+			xmax = 2.9824687500000002
+			text = "jiao4"
+		intervals [13]:
+			xmin = 2.9824687500000002
+			xmax = 3.2724687500000003
+			text = "shuo1"
+		intervals [14]:
+			xmin = 3.2724687500000003
+			xmax = 3.5424687500000003
+			text = "dui4"
+		intervals [15]:
+			xmin = 3.5424687500000003
+			xmax = 3.78246875
+			text = "wo3"
+		intervals [16]:
+			xmin = 3.78246875
+			xmax = 4.00246875
+			text = "yi4"
+		intervals [17]:
+			xmin = 4.00246875
+			xmax = 4.23246875
+			text = "dianr2"
+		intervals [18]:
+			xmin = 4.23246875
+			xmax = 4.40246875
+			text = "gan3"
+		intervals [19]:
+			xmin = 4.40246875
+			xmax = 4.58246875
+			text = "qing2"
+		intervals [20]:
+			xmin = 4.58246875
+			xmax = 4.72246875
+			text = "dou1"
+		intervals [21]:
+			xmin = 4.72246875
+			xmax = 4.87246875
+			text = "mei2"
+		intervals [22]:
+			xmin = 4.87246875
+			xmax = 5.511020408163265
+			text = "you3"

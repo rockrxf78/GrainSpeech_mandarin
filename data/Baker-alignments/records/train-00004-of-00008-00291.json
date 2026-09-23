@@ -1,0 +1,67 @@
+{
+  "id": "train-00004-of-00008-00291",
+  "status": "rejected",
+  "hypothesis": "而苹果等指枚肉援也不少",
+  "cer": 0.36363636363636365,
+  "hanzi": "而苹果等纸媒冗员也不少",
+  "syllables": [
+    "er2",
+    "ping2",
+    "guo3",
+    "deng2",
+    "zhi3",
+    "mei2",
+    "rong3",
+    "yuan2",
+    "ye3",
+    "bu4",
+    "shao3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

@@ -1,0 +1,5 @@
+{
+  "id": "train-00007-of-00008-00461",
+  "status": "rejected",
+  "reason": "Characters outside CTC vocabulary: ['倔']"
+}

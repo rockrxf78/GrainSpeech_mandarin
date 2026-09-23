@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.218004535147393
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.218004535147393
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "xiao3"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.73246875
+			text = "wang2"
+		intervals [3]:
+			xmin = 0.73246875
+			xmax = 0.9224687500000001
+			text = "jue2"
+		intervals [4]:
+			xmin = 0.9224687500000001
+			xmax = 1.1124687500000001
+			text = "de5"
+		intervals [5]:
+			xmin = 1.1124687500000001
+			xmax = 1.32246875
+			text = "fu4"
+		intervals [6]:
+			xmin = 1.32246875
+			xmax = 1.51246875
+			text = "qin1"
+		intervals [7]:
+			xmin = 1.51246875
+			xmax = 1.6624687500000002
+			text = "shuo1"
+		intervals [8]:
+			xmin = 1.6624687500000002
+			xmax = 1.78246875
+			text = "de5"
+		intervals [9]:
+			xmin = 1.78246875
+			xmax = 1.93246875
+			text = "bu2"
+		intervals [10]:
+			xmin = 1.93246875
+			xmax = 2.2924687500000003
+			text = "dui4"
+		intervals [11]:
+			xmin = 2.2924687500000003
+			xmax = 2.63246875
+			text = "ren4"
+		intervals [12]:
+			xmin = 2.63246875
+			xmax = 2.78246875
+			text = "wei2"
+		intervals [13]:
+			xmin = 2.78246875
+			xmax = 2.94246875
+			text = "zi4"
+		intervals [14]:
+			xmin = 2.94246875
+			xmax = 3.07246875
+			text = "ji3"
+		intervals [15]:
+			xmin = 3.07246875
+			xmax = 3.24246875
+			text = "bei4"
+		intervals [16]:
+			xmin = 3.24246875
+			xmax = 3.46246875
+			text = "wu4"
+		intervals [17]:
+			xmin = 3.46246875
+			xmax = 3.66246875
+			text = "jie3"
+		intervals [18]:
+			xmin = 3.66246875
+			xmax = 3.93246875
+			text = "le5"
+		intervals [19]:
+			xmin = 3.93246875
+			xmax = 4.17246875
+			text = "xin1"
+		intervals [20]:
+			xmin = 4.17246875
+			xmax = 4.3224687500000005
+			text = "li3"
+		intervals [21]:
+			xmin = 4.3224687500000005
+			xmax = 4.5724687500000005
+			text = "bie4"
+		intervals [22]:
+			xmin = 4.5724687500000005
+			xmax = 5.218004535147393
+			text = "niu5"

@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-01108",
+  "status": "rejected",
+  "hypothesis": "忙人虾马叶半凌池",
+  "cer": 0.5,
+  "hanzi": "盲人瞎马夜半临池",
+  "syllables": [
+    "mang2",
+    "ren2",
+    "xia1",
+    "ma3",
+    "ye4",
+    "ban4",
+    "lin2",
+    "chi2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

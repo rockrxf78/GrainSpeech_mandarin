@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.992018140589569
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.992018140589569
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5624687500000001
+			text = "shen4"
+		intervals [2]:
+			xmin = 0.5624687500000001
+			xmax = 0.8324687500000001
+			text = "zhi4"
+		intervals [3]:
+			xmin = 0.8324687500000001
+			xmax = 1.08246875
+			text = "jun1"
+		intervals [4]:
+			xmin = 1.08246875
+			xmax = 1.30246875
+			text = "zheng4"
+		intervals [5]:
+			xmin = 1.30246875
+			xmax = 1.60246875
+			text = "fu3"
+		intervals [6]:
+			xmin = 1.60246875
+			xmax = 1.84246875
+			text = "zi4"
+		intervals [7]:
+			xmin = 1.84246875
+			xmax = 2.01246875
+			text = "yuan4"
+		intervals [8]:
+			xmin = 2.01246875
+			xmax = 2.22246875
+			text = "jiao1"
+		intervals [9]:
+			xmin = 2.22246875
+			xmax = 2.42246875
+			text = "quan2"
+		intervals [10]:
+			xmin = 2.42246875
+			xmax = 2.64246875
+			text = "yu2"
+		intervals [11]:
+			xmin = 2.64246875
+			xmax = 2.87246875
+			text = "min2"
+		intervals [12]:
+			xmin = 2.87246875
+			xmax = 3.07246875
+			text = "xuan3"
+		intervals [13]:
+			xmin = 3.07246875
+			xmax = 3.2924687500000003
+			text = "zheng4"
+		intervals [14]:
+			xmin = 3.2924687500000003
+			xmax = 3.71246875
+			text = "fu3"
+		intervals [15]:
+			xmin = 3.71246875
+			xmax = 4.10246875
+			text = "ye3"
+		intervals [16]:
+			xmin = 4.10246875
+			xmax = 4.27246875
+			text = "shi4"
+		intervals [17]:
+			xmin = 4.27246875
+			xmax = 4.43246875
+			text = "zhe4"
+		intervals [18]:
+			xmin = 4.43246875
+			xmax = 4.64246875
+			text = "zhong3"
+		intervals [19]:
+			xmin = 4.64246875
+			xmax = 4.85246875
+			text = "xin4"
+		intervals [20]:
+			xmin = 4.85246875
+			xmax = 4.97246875
+			text = "nian4"
+		intervals [21]:
+			xmin = 4.97246875
+			xmax = 5.13246875
+			text = "de5"
+		intervals [22]:
+			xmin = 5.13246875
+			xmax = 5.362468750000001
+			text = "chan3"
+		intervals [23]:
+			xmin = 5.362468750000001
+			xmax = 5.992018140589569
+			text = "wu4"

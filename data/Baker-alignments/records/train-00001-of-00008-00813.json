@@ -1,0 +1,57 @@
+{
+  "id": "train-00001-of-00008-00813",
+  "status": "rejected",
+  "hypothesis": "这些基毒犬公勋着住",
+  "cer": 0.4444444444444444,
+  "hanzi": "这些缉毒犬功勋卓著",
+  "syllables": [
+    "zhe4",
+    "xie1",
+    "ji1",
+    "du2",
+    "quan3",
+    "gong1",
+    "xun1",
+    "zhuo2",
+    "zhu4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.444 exceeds 0.35"
+}

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.395011337868481
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.395011337868481
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5624687500000001
+			text = "you2"
+		intervals [2]:
+			xmin = 0.5624687500000001
+			xmax = 0.77246875
+			text = "qi2"
+		intervals [3]:
+			xmin = 0.77246875
+			xmax = 0.97246875
+			text = "shi4"
+		intervals [4]:
+			xmin = 0.97246875
+			xmax = 1.1624687500000002
+			text = "bu4"
+		intervals [5]:
+			xmin = 1.1624687500000002
+			xmax = 1.35246875
+			text = "shao3"
+		intervals [6]:
+			xmin = 1.35246875
+			xmax = 1.58246875
+			text = "yun4"
+		intervals [7]:
+			xmin = 1.58246875
+			xmax = 1.84246875
+			text = "fu4"
+		intervals [8]:
+			xmin = 1.84246875
+			xmax = 2.07246875
+			text = "geng4"
+		intervals [9]:
+			xmin = 2.07246875
+			xmax = 2.2924687500000003
+			text = "ying1"
+		intervals [10]:
+			xmin = 2.2924687500000003
+			xmax = 2.5024687500000002
+			text = "chi1"
+		intervals [11]:
+			xmin = 2.5024687500000002
+			xmax = 2.70246875
+			text = "he2"
+		intervals [12]:
+			xmin = 2.70246875
+			xmax = 3.07246875
+			text = "tao5"
+		intervals [13]:
+			xmin = 3.07246875
+			xmax = 3.42246875
+			text = "yi3"
+		intervals [14]:
+			xmin = 3.42246875
+			xmax = 3.5824687500000003
+			text = "li4"
+		intervals [15]:
+			xmin = 3.5824687500000003
+			xmax = 3.7724687500000003
+			text = "yu2"
+		intervals [16]:
+			xmin = 3.7724687500000003
+			xmax = 3.99246875
+			text = "bao3"
+		intervals [17]:
+			xmin = 3.99246875
+			xmax = 4.17246875
+			text = "bao5"
+		intervals [18]:
+			xmin = 4.17246875
+			xmax = 4.35246875
+			text = "da4"
+		intervals [19]:
+			xmin = 4.35246875
+			xmax = 4.56246875
+			text = "nao3"
+		intervals [20]:
+			xmin = 4.56246875
+			xmax = 4.7824687500000005
+			text = "fa1"
+		intervals [21]:
+			xmin = 4.7824687500000005
+			xmax = 5.395011337868481
+			text = "yu4"

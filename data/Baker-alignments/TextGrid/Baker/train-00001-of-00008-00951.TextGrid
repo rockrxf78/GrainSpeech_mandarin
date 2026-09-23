@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.537006802721089
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.537006802721089
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.60246875
+			text = "xue2"
+		intervals [2]:
+			xmin = 0.60246875
+			xmax = 0.8324687500000001
+			text = "sheng1"
+		intervals [3]:
+			xmin = 0.8324687500000001
+			xmax = 1.05246875
+			text = "geng4"
+		intervals [4]:
+			xmin = 1.05246875
+			xmax = 1.25246875
+			text = "jia1"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.46246875
+			text = "xiang1"
+		intervals [6]:
+			xmin = 1.46246875
+			xmax = 1.84246875
+			text = "xin4"
+		intervals [7]:
+			xmin = 1.84246875
+			xmax = 2.22246875
+			text = "yan3"
+		intervals [8]:
+			xmin = 2.22246875
+			xmax = 2.4824687500000002
+			text = "qian2"
+		intervals [9]:
+			xmin = 2.4824687500000002
+			xmax = 2.69246875
+			text = "si4"
+		intervals [10]:
+			xmin = 2.69246875
+			xmax = 2.83246875
+			text = "hu1"
+		intervals [11]:
+			xmin = 2.83246875
+			xmax = 3.0224687500000003
+			text = "yong3"
+		intervals [12]:
+			xmin = 3.0224687500000003
+			xmax = 3.19246875
+			text = "shang4"
+		intervals [13]:
+			xmin = 3.19246875
+			xmax = 3.34246875
+			text = "le5"
+		intervals [14]:
+			xmin = 3.34246875
+			xmax = 3.51246875
+			text = "xu3"
+		intervals [15]:
+			xmin = 3.51246875
+			xmax = 3.7524687500000002
+			text = "duo1"
+		intervals [16]:
+			xmin = 3.7524687500000002
+			xmax = 4.02246875
+			text = "yin3"
+		intervals [17]:
+			xmin = 4.02246875
+			xmax = 4.23246875
+			text = "zheng4"
+		intervals [18]:
+			xmin = 4.23246875
+			xmax = 4.39246875
+			text = "yong4"
+		intervals [19]:
+			xmin = 4.39246875
+			xmax = 4.55246875
+			text = "de5"
+		intervals [20]:
+			xmin = 4.55246875
+			xmax = 4.73246875
+			text = "shu1"
+		intervals [21]:
+			xmin = 4.73246875
+			xmax = 4.90246875
+			text = "ming2"
+		intervals [22]:
+			xmin = 4.90246875
+			xmax = 5.537006802721089
+			text = "hao4"

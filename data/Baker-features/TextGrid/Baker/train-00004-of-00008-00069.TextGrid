@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.901043083900227
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.901043083900227
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.48246875
+			text = "jin1"
+		intervals [2]:
+			xmin = 0.48246875
+			xmax = 0.6724687500000001
+			text = "nian2"
+		intervals [3]:
+			xmin = 0.6724687500000001
+			xmax = 1.1424687500000001
+			text = "chu1"
+		intervals [4]:
+			xmin = 1.1424687500000001
+			xmax = 1.6124687500000001
+			text = "yin4"
+		intervals [5]:
+			xmin = 1.6124687500000001
+			xmax = 1.85246875
+			text = "ni2"
+		intervals [6]:
+			xmin = 1.85246875
+			xmax = 2.05246875
+			text = "yi4"
+		intervals [7]:
+			xmin = 2.05246875
+			xmax = 2.2724687500000003
+			text = "ming2"
+		intervals [8]:
+			xmin = 2.2724687500000003
+			xmax = 2.5424687500000003
+			text = "qiu2"
+		intervals [9]:
+			xmin = 2.5424687500000003
+			xmax = 2.86246875
+			text = "fan4"
+		intervals [10]:
+			xmin = 2.86246875
+			xmax = 3.15246875
+			text = "shou4"
+		intervals [11]:
+			xmin = 3.15246875
+			xmax = 3.37246875
+			text = "nve4"
+		intervals [12]:
+			xmin = 3.37246875
+			xmax = 3.59246875
+			text = "can2"
+		intervals [13]:
+			xmin = 3.59246875
+			xmax = 3.74246875
+			text = "si3"
+		intervals [14]:
+			xmin = 3.74246875
+			xmax = 3.89246875
+			text = "de5"
+		intervals [15]:
+			xmin = 3.89246875
+			xmax = 4.0724687500000005
+			text = "xin1"
+		intervals [16]:
+			xmin = 4.0724687500000005
+			xmax = 4.33246875
+			text = "wen2"
+		intervals [17]:
+			xmin = 4.33246875
+			xmax = 4.64246875
+			text = "ceng2"
+		intervals [18]:
+			xmin = 4.64246875
+			xmax = 4.862468750000001
+			text = "yin3"
+		intervals [19]:
+			xmin = 4.862468750000001
+			xmax = 5.06246875
+			text = "fa1"
+		intervals [20]:
+			xmin = 5.06246875
+			xmax = 5.27246875
+			text = "hong1"
+		intervals [21]:
+			xmin = 5.27246875
+			xmax = 5.901043083900227
+			text = "dong4"

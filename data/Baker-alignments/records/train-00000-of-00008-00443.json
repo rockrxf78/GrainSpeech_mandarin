@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00443",
+  "status": "rejected",
+  "hypothesis": "姚鸟贤语三光不入",
+  "cer": 0.5,
+  "hanzi": "窈窈弦宇三光不入",
+  "syllables": [
+    "yao2",
+    "yao3",
+    "xian2",
+    "yu3",
+    "san1",
+    "guang1",
+    "bu2",
+    "ru4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

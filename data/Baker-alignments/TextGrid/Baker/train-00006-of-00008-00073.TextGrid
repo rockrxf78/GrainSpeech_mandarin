@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.063038548752835
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.063038548752835
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5524687500000001
+			text = "ju4"
+		intervals [2]:
+			xmin = 0.5524687500000001
+			xmax = 0.73246875
+			text = "liao2"
+		intervals [3]:
+			xmin = 0.73246875
+			xmax = 1.1324687500000001
+			text = "jie3"
+		intervals [4]:
+			xmin = 1.1324687500000001
+			xmax = 1.51246875
+			text = "xin1"
+		intervals [5]:
+			xmin = 1.51246875
+			xmax = 1.71246875
+			text = "xing2"
+		intervals [6]:
+			xmin = 1.71246875
+			xmax = 1.9124687500000002
+			text = "dian4"
+		intervals [7]:
+			xmin = 1.9124687500000002
+			xmax = 2.07246875
+			text = "zi2"
+		intervals [8]:
+			xmin = 2.07246875
+			xmax = 2.36246875
+			text = "biao3"
+		intervals [9]:
+			xmin = 2.36246875
+			xmax = 2.71246875
+			text = "yu3"
+		intervals [10]:
+			xmin = 2.71246875
+			xmax = 2.92246875
+			text = "chuan2"
+		intervals [11]:
+			xmin = 2.92246875
+			xmax = 3.13246875
+			text = "tong3"
+		intervals [12]:
+			xmin = 3.13246875
+			xmax = 3.3324687500000003
+			text = "ji1"
+		intervals [13]:
+			xmin = 3.3324687500000003
+			xmax = 3.4824687500000002
+			text = "xie4"
+		intervals [14]:
+			xmin = 3.4824687500000002
+			xmax = 3.67246875
+			text = "biao3"
+		intervals [15]:
+			xmin = 3.67246875
+			xmax = 3.89246875
+			text = "xiang1"
+		intervals [16]:
+			xmin = 3.89246875
+			xmax = 4.25246875
+			text = "bi3"
+		intervals [17]:
+			xmin = 4.25246875
+			xmax = 4.59246875
+			text = "zi4"
+		intervals [18]:
+			xmin = 4.59246875
+			xmax = 4.77246875
+			text = "shen1"
+		intervals [19]:
+			xmin = 4.77246875
+			xmax = 4.96246875
+			text = "hao4"
+		intervals [20]:
+			xmin = 4.96246875
+			xmax = 5.12246875
+			text = "dian4"
+		intervals [21]:
+			xmin = 5.12246875
+			xmax = 5.30246875
+			text = "liang4"
+		intervals [22]:
+			xmin = 5.30246875
+			xmax = 6.063038548752835
+			text = "di1"

@@ -1,0 +1,62 @@
+{
+  "id": "train-00000-of-00008-00032",
+  "status": "rejected",
+  "hypothesis": "运强被石棉瓦均演上了",
+  "cer": 0.4,
+  "hanzi": "院墙被石棉瓦遮掩上了",
+  "syllables": [
+    "yuan4",
+    "qiang2",
+    "bei4",
+    "shi2",
+    "mian2",
+    "wa3",
+    "zhe1",
+    "yan3",
+    "shang4",
+    "le5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

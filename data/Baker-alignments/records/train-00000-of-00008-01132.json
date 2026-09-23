@@ -1,0 +1,47 @@
+{
+  "id": "train-00000-of-00008-01132",
+  "status": "rejected",
+  "hypothesis": "咋啦焚让人跑啦",
+  "cer": 0.42857142857142855,
+  "hanzi": "咋啦坟让人刨了",
+  "syllables": [
+    "za3",
+    "la5",
+    "fen2",
+    "rang4",
+    "ren2",
+    "pao2",
+    "le5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

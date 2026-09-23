@@ -1,0 +1,62 @@
+{
+  "id": "train-00002-of-00008-01237",
+  "status": "rejected",
+  "hypothesis": "弘姓探出苏南的强头南",
+  "cer": 0.4,
+  "hanzi": "红杏探出苏南的墙头难",
+  "syllables": [
+    "hong2",
+    "xing4",
+    "tan4",
+    "chu1",
+    "su1",
+    "nan2",
+    "de5",
+    "qiang2",
+    "tou2",
+    "nan2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

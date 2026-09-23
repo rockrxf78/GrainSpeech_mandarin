@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.496009070294784
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.496009070294784
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "chun1"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.72246875
+			text = "yun4"
+		intervals [3]:
+			xmin = 0.72246875
+			xmax = 0.9324687500000001
+			text = "qi1"
+		intervals [4]:
+			xmin = 0.9324687500000001
+			xmax = 1.25246875
+			text = "jian1"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.60246875
+			text = "guang2"
+		intervals [6]:
+			xmin = 1.60246875
+			xmax = 1.80246875
+			text = "tie3"
+		intervals [7]:
+			xmin = 1.80246875
+			xmax = 1.97246875
+			text = "ji2"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.2324687500000002
+			text = "tuan2"
+		intervals [9]:
+			xmin = 2.2324687500000002
+			xmax = 2.5024687500000002
+			text = "ri4"
+		intervals [10]:
+			xmin = 2.5024687500000002
+			xmax = 2.71246875
+			text = "kai1"
+		intervals [11]:
+			xmin = 2.71246875
+			xmax = 2.93246875
+			text = "xing2"
+		intervals [12]:
+			xmin = 2.93246875
+			xmax = 3.13246875
+			text = "dong4"
+		intervals [13]:
+			xmin = 3.13246875
+			xmax = 3.30246875
+			text = "che1"
+		intervals [14]:
+			xmin = 3.30246875
+			xmax = 3.46246875
+			text = "zu3"
+		intervals [15]:
+			xmin = 3.46246875
+			xmax = 3.67246875
+			text = "lie4"
+		intervals [16]:
+			xmin = 3.67246875
+			xmax = 3.94246875
+			text = "che1"
+		intervals [17]:
+			xmin = 3.94246875
+			xmax = 4.18246875
+			text = "er4"
+		intervals [18]:
+			xmin = 4.18246875
+			xmax = 4.37246875
+			text = "bai2"
+		intervals [19]:
+			xmin = 4.37246875
+			xmax = 4.55246875
+			text = "wu3"
+		intervals [20]:
+			xmin = 4.55246875
+			xmax = 4.70246875
+			text = "shi2"
+		intervals [21]:
+			xmin = 4.70246875
+			xmax = 4.862468750000001
+			text = "liu4"
+		intervals [22]:
+			xmin = 4.862468750000001
+			xmax = 5.496009070294784
+			text = "dui4"

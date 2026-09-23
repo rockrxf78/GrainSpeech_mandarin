@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.1210430839002266
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.1210430839002266
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.49246875
+			text = "pei2"
+		intervals [2]:
+			xmin = 0.49246875
+			xmax = 0.6824687500000001
+			text = "rui4"
+		intervals [3]:
+			xmin = 0.6824687500000001
+			xmax = 0.90246875
+			text = "zi1"
+		intervals [4]:
+			xmin = 0.90246875
+			xmax = 1.42246875
+			text = "cheng1"
+		intervals [5]:
+			xmin = 1.42246875
+			xmax = 1.9224687500000002
+			text = "ci3"
+		intervals [6]:
+			xmin = 1.9224687500000002
+			xmax = 2.17246875
+			text = "ke4"
+		intervals [7]:
+			xmin = 2.17246875
+			xmax = 2.40246875
+			text = "tai2"
+		intervals [8]:
+			xmin = 2.40246875
+			xmax = 2.55246875
+			text = "wan1"
+		intervals [9]:
+			xmin = 2.55246875
+			xmax = 2.7524687500000002
+			text = "di4"
+		intervals [10]:
+			xmin = 2.7524687500000002
+			xmax = 3.0224687500000003
+			text = "qu1"
+		intervals [11]:
+			xmin = 3.0224687500000003
+			xmax = 3.24246875
+			text = "min2"
+		intervals [12]:
+			xmin = 3.24246875
+			xmax = 3.45246875
+			text = "zhong4"
+		intervals [13]:
+			xmin = 3.45246875
+			xmax = 3.69246875
+			text = "qing2"
+		intervals [14]:
+			xmin = 3.69246875
+			xmax = 3.86246875
+			text = "xu4"
+		intervals [15]:
+			xmin = 3.86246875
+			xmax = 4.02246875
+			text = "gao1"
+		intervals [16]:
+			xmin = 4.02246875
+			xmax = 4.35246875
+			text = "ang2"
+		intervals [17]:
+			xmin = 4.35246875
+			xmax = 4.70246875
+			text = "qing2"
+		intervals [18]:
+			xmin = 4.70246875
+			xmax = 4.91246875
+			text = "shi4"
+		intervals [19]:
+			xmin = 4.91246875
+			xmax = 5.08246875
+			text = "gao1"
+		intervals [20]:
+			xmin = 5.08246875
+			xmax = 5.25246875
+			text = "du4"
+		intervals [21]:
+			xmin = 5.25246875
+			xmax = 5.45246875
+			text = "jin3"
+		intervals [22]:
+			xmin = 5.45246875
+			xmax = 6.1210430839002266
+			text = "zhang1"

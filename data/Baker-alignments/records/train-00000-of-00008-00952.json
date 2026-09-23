@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00952",
+  "status": "rejected",
+  "hypothesis": "来来来闻吻怀里君",
+  "cer": 0.375,
+  "hanzi": "来来来往我怀里晕",
+  "syllables": [
+    "lai2",
+    "lai2",
+    "lai2",
+    "wang2",
+    "wo3",
+    "huai2",
+    "li3",
+    "yun1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

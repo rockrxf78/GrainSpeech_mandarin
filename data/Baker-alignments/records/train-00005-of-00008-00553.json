@@ -1,0 +1,62 @@
+{
+  "id": "train-00005-of-00008-00553",
+  "status": "rejected",
+  "hypothesis": "庸江水味暴涨水流吞及",
+  "cer": 0.4,
+  "hanzi": "邕江水位暴涨水流湍急",
+  "syllables": [
+    "yong1",
+    "jiang1",
+    "shui3",
+    "wei4",
+    "bao4",
+    "zhang3",
+    "shui3",
+    "liu2",
+    "tuan1",
+    "ji2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

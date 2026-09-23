@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00514",
+  "status": "rejected",
+  "hypothesis": "赵座男斥责他准奔",
+  "cer": 0.5,
+  "hanzi": "赵作兰斥责他蠢笨",
+  "syllables": [
+    "zhao4",
+    "zuo4",
+    "lan2",
+    "chi4",
+    "ze2",
+    "ta1",
+    "chun3",
+    "ben4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

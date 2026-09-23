@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.5
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.5
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.46246875
+			text = "zhe4"
+		intervals [2]:
+			xmin = 0.46246875
+			xmax = 0.6924687500000001
+			text = "du2"
+		intervals [3]:
+			xmin = 0.6924687500000001
+			xmax = 0.88246875
+			text = "si3"
+		intervals [4]:
+			xmin = 0.88246875
+			xmax = 1.06246875
+			text = "wang2"
+		intervals [5]:
+			xmin = 1.06246875
+			xmax = 1.32246875
+			text = "qiang2"
+		intervals [6]:
+			xmin = 1.32246875
+			xmax = 1.6124687500000001
+			text = "shang4"
+		intervals [7]:
+			xmin = 1.6124687500000001
+			xmax = 1.8924687500000001
+			text = "dan4"
+		intervals [8]:
+			xmin = 1.8924687500000001
+			xmax = 2.09246875
+			text = "kong3"
+		intervals [9]:
+			xmin = 2.09246875
+			xmax = 2.2724687500000003
+			text = "lei2"
+		intervals [10]:
+			xmin = 2.2724687500000003
+			xmax = 2.71246875
+			text = "lei3"
+		intervals [11]:
+			xmin = 2.71246875
+			xmax = 3.11246875
+			text = "zhe4"
+		intervals [12]:
+			xmin = 3.11246875
+			xmax = 3.2724687500000003
+			text = "li3"
+		intervals [13]:
+			xmin = 3.2724687500000003
+			xmax = 3.46246875
+			text = "shi4"
+		intervals [14]:
+			xmin = 3.46246875
+			xmax = 3.67246875
+			text = "na4"
+		intervals [15]:
+			xmin = 3.67246875
+			xmax = 3.92246875
+			text = "cui4"
+		intervals [16]:
+			xmin = 3.92246875
+			xmax = 4.16246875
+			text = "chu3"
+		intervals [17]:
+			xmin = 4.16246875
+			xmax = 4.362468750000001
+			text = "jue2"
+		intervals [18]:
+			xmin = 4.362468750000001
+			xmax = 4.54246875
+			text = "fan4"
+		intervals [19]:
+			xmin = 4.54246875
+			xmax = 4.69246875
+			text = "ren2"
+		intervals [20]:
+			xmin = 4.69246875
+			xmax = 4.81246875
+			text = "de5"
+		intervals [21]:
+			xmin = 4.81246875
+			xmax = 4.97246875
+			text = "di4"
+		intervals [22]:
+			xmin = 4.97246875
+			xmax = 5.5
+			text = "fang5"

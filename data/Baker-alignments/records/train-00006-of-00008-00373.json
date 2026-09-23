@@ -1,0 +1,5 @@
+{
+  "id": "train-00006-of-00008-00373",
+  "status": "rejected",
+  "reason": "Characters outside CTC vocabulary: ['綮']"
+}

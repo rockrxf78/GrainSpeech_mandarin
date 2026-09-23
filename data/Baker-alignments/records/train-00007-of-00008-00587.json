@@ -1,0 +1,37 @@
+{
+  "id": "train-00007-of-00008-00587",
+  "status": "rejected",
+  "hypothesis": "你好凡呀",
+  "cer": 0.4,
+  "hanzi": "你也好烦呀",
+  "syllables": [
+    "ni2",
+    "ye2",
+    "hao3",
+    "fan2",
+    "ya5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

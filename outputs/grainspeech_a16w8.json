@@ -1,0 +1,32 @@
+{
+  "format": "tflite",
+  "quantization": "A16W8",
+  "quantization_detail": "Single graph with A16W8 convolutional/linear operators, CPU token lookup and bookkeeping, and float32 input/output interfaces.",
+  "input": {
+    "phoneme": [
+      1,
+      128
+    ],
+    "phoneme_dtype": "float32",
+    "padding_id": 0
+  },
+  "output": {
+    "mel": [
+      1,
+      512,
+      80
+    ],
+    "mel_dtype": "float32",
+    "mel_len": [
+      1
+    ],
+    "mel_len_dtype": "float32"
+  },
+  "calibration": {
+    "source": "synthetic phoneme sequences",
+    "samples": 64,
+    "seed": 260918856
+  },
+  "ethos_u_note": "Run Vela or the vendor Ethos-U compiler and inspect delegated ops; TFLite conversion alone does not guarantee full NPU delegation.",
+  "vocoder": "not included; the paper MCU result measures the acoustic model only"
+}

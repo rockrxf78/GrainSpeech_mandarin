@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.486031746031746
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.486031746031746
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5724687500000001
+			text = "ju4"
+		intervals [2]:
+			xmin = 0.5724687500000001
+			xmax = 0.76246875
+			text = "wang2"
+		intervals [3]:
+			xmin = 0.76246875
+			xmax = 0.9424687500000001
+			text = "rui4"
+		intervals [4]:
+			xmin = 0.9424687500000001
+			xmax = 1.1224687500000001
+			text = "chen1"
+		intervals [5]:
+			xmin = 1.1224687500000001
+			xmax = 1.30246875
+			text = "jie4"
+		intervals [6]:
+			xmin = 1.30246875
+			xmax = 1.6524687500000002
+			text = "shao4"
+		intervals [7]:
+			xmin = 1.6524687500000002
+			xmax = 1.97246875
+			text = "ta1"
+		intervals [8]:
+			xmin = 1.97246875
+			xmax = 2.09246875
+			text = "men5"
+		intervals [9]:
+			xmin = 2.09246875
+			xmax = 2.2524687500000002
+			text = "yi3"
+		intervals [10]:
+			xmin = 2.2524687500000002
+			xmax = 2.44246875
+			text = "jie1"
+		intervals [11]:
+			xmin = 2.44246875
+			xmax = 2.63246875
+			text = "shou4"
+		intervals [12]:
+			xmin = 2.63246875
+			xmax = 2.80246875
+			text = "jie2"
+		intervals [13]:
+			xmin = 2.80246875
+			xmax = 2.96246875
+			text = "yu4"
+		intervals [14]:
+			xmin = 2.96246875
+			xmax = 3.16246875
+			text = "shou3"
+		intervals [15]:
+			xmin = 3.16246875
+			xmax = 3.49246875
+			text = "shu4"
+		intervals [16]:
+			xmin = 3.49246875
+			xmax = 3.8324687500000003
+			text = "mei2"
+		intervals [17]:
+			xmin = 3.8324687500000003
+			xmax = 4.01246875
+			text = "ke3"
+		intervals [18]:
+			xmin = 4.01246875
+			xmax = 4.17246875
+			text = "neng2"
+		intervals [19]:
+			xmin = 4.17246875
+			xmax = 4.34246875
+			text = "zai4"
+		intervals [20]:
+			xmin = 4.34246875
+			xmax = 4.50246875
+			text = "yao4"
+		intervals [21]:
+			xmin = 4.50246875
+			xmax = 4.70246875
+			text = "xiao3"
+		intervals [22]:
+			xmin = 4.70246875
+			xmax = 5.486031746031746
+			text = "hai2"

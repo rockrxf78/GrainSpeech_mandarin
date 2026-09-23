@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.0010430839002264
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.0010430839002264
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "da4"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.73246875
+			text = "nian2"
+		intervals [3]:
+			xmin = 0.73246875
+			xmax = 0.9324687500000001
+			text = "chu1"
+		intervals [4]:
+			xmin = 0.9324687500000001
+			xmax = 1.09246875
+			text = "wu3"
+		intervals [5]:
+			xmin = 1.09246875
+			xmax = 1.27246875
+			text = "zhe4"
+		intervals [6]:
+			xmin = 1.27246875
+			xmax = 1.60246875
+			text = "tian1"
+		intervals [7]:
+			xmin = 1.60246875
+			xmax = 1.9024687500000002
+			text = "min2"
+		intervals [8]:
+			xmin = 1.9024687500000002
+			xmax = 2.07246875
+			text = "jian1"
+		intervals [9]:
+			xmin = 2.07246875
+			xmax = 2.2724687500000003
+			text = "tong1"
+		intervals [10]:
+			xmin = 2.2724687500000003
+			xmax = 2.42246875
+			text = "xing2"
+		intervals [11]:
+			xmin = 2.42246875
+			xmax = 2.57246875
+			text = "de5"
+		intervals [12]:
+			xmin = 2.57246875
+			xmax = 2.76246875
+			text = "shi2"
+		intervals [13]:
+			xmin = 2.76246875
+			xmax = 2.97246875
+			text = "su2"
+		intervals [14]:
+			xmin = 2.97246875
+			xmax = 3.19246875
+			text = "shi4"
+		intervals [15]:
+			xmin = 3.19246875
+			xmax = 3.38246875
+			text = "chi1"
+		intervals [16]:
+			xmin = 3.38246875
+			xmax = 3.61246875
+			text = "jiao3"
+		intervals [17]:
+			xmin = 3.61246875
+			xmax = 3.99246875
+			text = "zi5"
+		intervals [18]:
+			xmin = 3.99246875
+			xmax = 4.33246875
+			text = "su2"
+		intervals [19]:
+			xmin = 4.33246875
+			xmax = 4.612468750000001
+			text = "cheng1"
+		intervals [20]:
+			xmin = 4.612468750000001
+			xmax = 4.90246875
+			text = "nie1"
+		intervals [21]:
+			xmin = 4.90246875
+			xmax = 5.09246875
+			text = "xiao3"
+		intervals [22]:
+			xmin = 5.09246875
+			xmax = 5.27246875
+			text = "ren2"
+		intervals [23]:
+			xmin = 5.27246875
+			xmax = 6.0010430839002264
+			text = "zui3"

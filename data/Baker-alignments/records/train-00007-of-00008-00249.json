@@ -1,0 +1,52 @@
+{
+  "id": "train-00007-of-00008-00249",
+  "status": "rejected",
+  "hypothesis": "是良托还是带根的",
+  "cer": 0.375,
+  "hanzi": "是凉拖还是带跟的",
+  "syllables": [
+    "shi4",
+    "liang2",
+    "tuo1",
+    "hai2",
+    "shi4",
+    "dai4",
+    "gen1",
+    "de5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

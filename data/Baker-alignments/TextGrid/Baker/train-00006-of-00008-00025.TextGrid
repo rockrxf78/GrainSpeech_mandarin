@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.202040816326531
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.202040816326531
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.49246875
+			text = "ru2"
+		intervals [2]:
+			xmin = 0.49246875
+			xmax = 0.63246875
+			text = "guo2"
+		intervals [3]:
+			xmin = 0.63246875
+			xmax = 0.79246875
+			text = "wo3"
+		intervals [4]:
+			xmin = 0.79246875
+			xmax = 0.97246875
+			text = "bu4"
+		intervals [5]:
+			xmin = 0.97246875
+			xmax = 1.29246875
+			text = "mai3"
+		intervals [6]:
+			xmin = 1.29246875
+			xmax = 1.59246875
+			text = "ta1"
+		intervals [7]:
+			xmin = 1.59246875
+			xmax = 1.73246875
+			text = "jiu4"
+		intervals [8]:
+			xmin = 1.73246875
+			xmax = 1.8724687500000001
+			text = "hui4"
+		intervals [9]:
+			xmin = 1.8724687500000001
+			xmax = 2.0424687500000003
+			text = "da3"
+		intervals [10]:
+			xmin = 2.0424687500000003
+			xmax = 2.22246875
+			text = "dian4"
+		intervals [11]:
+			xmin = 2.22246875
+			xmax = 2.41246875
+			text = "hua4"
+		intervals [12]:
+			xmin = 2.41246875
+			xmax = 2.60246875
+			text = "sao1"
+		intervals [13]:
+			xmin = 2.60246875
+			xmax = 2.7924687500000003
+			text = "rao2"
+		intervals [14]:
+			xmin = 2.7924687500000003
+			xmax = 3.14246875
+			text = "wo3"
+		intervals [15]:
+			xmin = 3.14246875
+			xmax = 3.45246875
+			text = "zhi2"
+		intervals [16]:
+			xmin = 3.45246875
+			xmax = 3.59246875
+			text = "dao4"
+		intervals [17]:
+			xmin = 3.59246875
+			xmax = 3.78246875
+			text = "wo3"
+		intervals [18]:
+			xmin = 3.78246875
+			xmax = 3.9824687500000002
+			text = "kang2"
+		intervals [19]:
+			xmin = 3.9824687500000002
+			xmax = 4.15246875
+			text = "bu2"
+		intervals [20]:
+			xmin = 4.15246875
+			xmax = 4.3224687500000005
+			text = "zhu4"
+		intervals [21]:
+			xmin = 4.3224687500000005
+			xmax = 4.54246875
+			text = "wei2"
+		intervals [22]:
+			xmin = 4.54246875
+			xmax = 5.202040816326531
+			text = "zhi3"

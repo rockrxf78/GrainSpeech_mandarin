@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.051020408163265
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.051020408163265
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.64246875
+			text = "ju4"
+		intervals [2]:
+			xmin = 0.64246875
+			xmax = 1.06246875
+			text = "xi1"
+		intervals [3]:
+			xmin = 1.06246875
+			xmax = 1.49246875
+			text = "da4"
+		intervals [4]:
+			xmin = 1.49246875
+			xmax = 1.72246875
+			text = "huo3"
+		intervals [5]:
+			xmin = 1.72246875
+			xmax = 1.95246875
+			text = "zao4"
+		intervals [6]:
+			xmin = 1.95246875
+			xmax = 2.15246875
+			text = "cheng2"
+		intervals [7]:
+			xmin = 2.15246875
+			xmax = 2.34246875
+			text = "de5"
+		intervals [8]:
+			xmin = 2.34246875
+			xmax = 2.5224687500000003
+			text = "zhi2"
+		intervals [9]:
+			xmin = 2.5224687500000003
+			xmax = 2.68246875
+			text = "jie1"
+		intervals [10]:
+			xmin = 2.68246875
+			xmax = 2.86246875
+			text = "cai2"
+		intervals [11]:
+			xmin = 2.86246875
+			xmax = 3.05246875
+			text = "chan2"
+		intervals [12]:
+			xmin = 3.05246875
+			xmax = 3.2924687500000003
+			text = "sun3"
+		intervals [13]:
+			xmin = 3.2924687500000003
+			xmax = 3.60246875
+			text = "shi1"
+		intervals [14]:
+			xmin = 3.60246875
+			xmax = 3.94246875
+			text = "wei2"
+		intervals [15]:
+			xmin = 3.94246875
+			xmax = 4.18246875
+			text = "san1"
+		intervals [16]:
+			xmin = 4.18246875
+			xmax = 4.37246875
+			text = "wan4"
+		intervals [17]:
+			xmin = 4.37246875
+			xmax = 4.612468750000001
+			text = "ling2"
+		intervals [18]:
+			xmin = 4.612468750000001
+			xmax = 4.80246875
+			text = "wu2"
+		intervals [19]:
+			xmin = 4.80246875
+			xmax = 5.00246875
+			text = "bai3"
+		intervals [20]:
+			xmin = 5.00246875
+			xmax = 5.21246875
+			text = "qi1"
+		intervals [21]:
+			xmin = 5.21246875
+			xmax = 5.39246875
+			text = "shi2"
+		intervals [22]:
+			xmin = 5.39246875
+			xmax = 6.051020408163265
+			text = "yuan2"

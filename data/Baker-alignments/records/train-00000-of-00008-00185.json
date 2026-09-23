@@ -1,0 +1,67 @@
+{
+  "id": "train-00000-of-00008-00185",
+  "status": "rejected",
+  "hypothesis": "在施工中无法用航精免闸",
+  "cer": 0.36363636363636365,
+  "hanzi": "在施工中无法用夯机碾轧",
+  "syllables": [
+    "zai4",
+    "shi1",
+    "gong1",
+    "zhong1",
+    "wu2",
+    "fa3",
+    "yong4",
+    "hang1",
+    "ji1",
+    "nian3",
+    "zha2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.364 exceeds 0.35"
+}

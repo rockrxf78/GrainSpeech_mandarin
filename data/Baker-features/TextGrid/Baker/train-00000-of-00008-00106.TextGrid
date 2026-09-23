@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.06
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.06
+		intervals: size = 14
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.41246875000000005
+			text = "wu3"
+		intervals [2]:
+			xmin = 0.41246875000000005
+			xmax = 0.60246875
+			text = "yue4"
+		intervals [3]:
+			xmin = 0.60246875
+			xmax = 0.8124687500000001
+			text = "tian1"
+		intervals [4]:
+			xmin = 0.8124687500000001
+			xmax = 1.06246875
+			text = "ma3"
+		intervals [5]:
+			xmin = 1.06246875
+			xmax = 1.4024687500000002
+			text = "sha1"
+		intervals [6]:
+			xmin = 1.4024687500000002
+			xmax = 1.73246875
+			text = "ti4"
+		intervals [7]:
+			xmin = 1.73246875
+			xmax = 1.96246875
+			text = "ju2"
+		intervals [8]:
+			xmin = 1.96246875
+			xmax = 2.17246875
+			text = "wa2"
+		intervals [9]:
+			xmin = 2.17246875
+			xmax = 2.47246875
+			text = "wa5"
+		intervals [10]:
+			xmin = 2.47246875
+			xmax = 2.78246875
+			text = "huan4"
+		intervals [11]:
+			xmin = 2.78246875
+			xmax = 3.03246875
+			text = "zhuang1"
+		intervals [12]:
+			xmin = 3.03246875
+			xmax = 3.26246875
+			text = "bi3"
+		intervals [13]:
+			xmin = 3.26246875
+			xmax = 3.51246875
+			text = "ji1"
+		intervals [14]:
+			xmin = 3.51246875
+			xmax = 4.06
+			text = "ni2"

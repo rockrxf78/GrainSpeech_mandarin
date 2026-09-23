@@ -1,0 +1,72 @@
+{
+  "id": "train-00007-of-00008-00154",
+  "status": "rejected",
+  "hypothesis": "小袁烹的观上房门已是抗议",
+  "cer": 0.5,
+  "hanzi": "小元嘭地关上房门以示抗议",
+  "syllables": [
+    "xiao3",
+    "yuan2",
+    "peng1",
+    "de5",
+    "guan1",
+    "shang4",
+    "fang2",
+    "men2",
+    "yi3",
+    "shi4",
+    "kang4",
+    "yi4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      10,
+      11
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

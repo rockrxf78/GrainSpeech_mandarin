@@ -1,0 +1,57 @@
+{
+  "id": "train-00006-of-00008-00387",
+  "status": "rejected",
+  "hypothesis": "上岸后他浑身值多索",
+  "cer": 0.4444444444444444,
+  "hanzi": "上岸后她浑身直哆嗦",
+  "syllables": [
+    "shang4",
+    "an4",
+    "hou4",
+    "ta1",
+    "hun2",
+    "shen1",
+    "zhi2",
+    "duo1",
+    "suo5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.444 exceeds 0.35"
+}

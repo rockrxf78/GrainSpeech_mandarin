@@ -1,0 +1,52 @@
+{
+  "id": "train-00006-of-00008-00839",
+  "status": "rejected",
+  "hypothesis": "回来放在哪没爷生",
+  "cer": 0.4444444444444444,
+  "hanzi": "回来放在那儿没言声",
+  "syllables": [
+    "hui2",
+    "lai2",
+    "fang4",
+    "zai4",
+    "nar4",
+    "mei2",
+    "yan2",
+    "sheng1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.444 exceeds 0.35"
+}

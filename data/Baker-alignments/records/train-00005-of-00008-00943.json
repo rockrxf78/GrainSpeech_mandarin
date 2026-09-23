@@ -1,0 +1,62 @@
+{
+  "id": "train-00005-of-00008-00943",
+  "status": "rejected",
+  "hypothesis": "裸露的皮肤图抹曲壁济",
+  "cer": 0.4,
+  "hanzi": "裸露的皮肤涂抹驱避剂",
+  "syllables": [
+    "luo3",
+    "lu4",
+    "de5",
+    "pi2",
+    "fu1",
+    "tu2",
+    "mo3",
+    "qu1",
+    "bi4",
+    "ji4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

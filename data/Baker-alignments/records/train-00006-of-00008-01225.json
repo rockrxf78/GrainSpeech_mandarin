@@ -1,0 +1,52 @@
+{
+  "id": "train-00006-of-00008-01225",
+  "status": "rejected",
+  "hypothesis": "曾晓华向公寓汇报",
+  "cer": 0.375,
+  "hanzi": "耿晓华向龚宇汇报",
+  "syllables": [
+    "geng2",
+    "xiao3",
+    "hua2",
+    "xiang4",
+    "gong1",
+    "yu3",
+    "hui4",
+    "bao4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

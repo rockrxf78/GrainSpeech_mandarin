@@ -1,0 +1,6 @@
+outputs/*.tflite filter=lfs diff=lfs merge=lfs -text
+outputs/*/*.wav filter=lfs diff=lfs merge=lfs -text
+outputs/*/*.npy filter=lfs diff=lfs merge=lfs -text
+data/Baker/**/*.wav filter=lfs diff=lfs merge=lfs -text
+data/Baker-features/**/*.npy filter=lfs diff=lfs merge=lfs -text
+lightning_logs/grainspeech-baker/checkpoints/*.ckpt filter=lfs diff=lfs merge=lfs -text

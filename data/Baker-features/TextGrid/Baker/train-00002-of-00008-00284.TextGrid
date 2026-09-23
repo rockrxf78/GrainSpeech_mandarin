@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.273015873015873
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.273015873015873
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.53246875
+			text = "pei4"
+		intervals [2]:
+			xmin = 0.53246875
+			xmax = 0.8024687500000001
+			text = "ling2"
+		intervals [3]:
+			xmin = 0.8024687500000001
+			xmax = 1.04246875
+			text = "wei4"
+		intervals [4]:
+			xmin = 1.04246875
+			xmax = 1.25246875
+			text = "hun1"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.44246875
+			text = "xian1"
+		intervals [6]:
+			xmin = 1.44246875
+			xmax = 1.58246875
+			text = "yun4"
+		intervals [7]:
+			xmin = 1.58246875
+			xmax = 1.74246875
+			text = "de5"
+		intervals [8]:
+			xmin = 1.74246875
+			xmax = 1.8924687500000001
+			text = "nv3"
+		intervals [9]:
+			xmin = 1.8924687500000001
+			xmax = 2.2524687500000002
+			text = "er2"
+		intervals [10]:
+			xmin = 2.2524687500000002
+			xmax = 2.60246875
+			text = "shi4"
+		intervals [11]:
+			xmin = 2.60246875
+			xmax = 2.7524687500000002
+			text = "ling4"
+		intervals [12]:
+			xmin = 2.7524687500000002
+			xmax = 2.96246875
+			text = "pei4"
+		intervals [13]:
+			xmin = 2.96246875
+			xmax = 3.24246875
+			text = "lin2"
+		intervals [14]:
+			xmin = 3.24246875
+			xmax = 3.4824687500000002
+			text = "ji2"
+		intervals [15]:
+			xmin = 3.4824687500000002
+			xmax = 3.65246875
+			text = "gong4"
+		intervals [16]:
+			xmin = 3.65246875
+			xmax = 3.8324687500000003
+			text = "he2"
+		intervals [17]:
+			xmin = 3.8324687500000003
+			xmax = 4.05246875
+			text = "dang3"
+		intervals [18]:
+			xmin = 4.05246875
+			xmax = 4.30246875
+			text = "nan2"
+		intervals [19]:
+			xmin = 4.30246875
+			xmax = 4.4924687500000005
+			text = "kan1"
+		intervals [20]:
+			xmin = 4.4924687500000005
+			xmax = 4.68246875
+			text = "de5"
+		intervals [21]:
+			xmin = 4.68246875
+			xmax = 5.273015873015873
+			text = "shi4"

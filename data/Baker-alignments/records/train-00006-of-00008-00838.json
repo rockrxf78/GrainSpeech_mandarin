@@ -1,0 +1,57 @@
+{
+  "id": "train-00006-of-00008-00838",
+  "status": "rejected",
+  "hypothesis": "届时会挑选馀地也大",
+  "cer": 0.4444444444444444,
+  "hanzi": "既实惠挑选余地也大",
+  "syllables": [
+    "ji4",
+    "shi2",
+    "hui4",
+    "tiao1",
+    "xuan3",
+    "yu2",
+    "di4",
+    "ye3",
+    "da4"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.444 exceeds 0.35"
+}

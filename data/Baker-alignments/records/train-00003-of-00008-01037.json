@@ -1,0 +1,62 @@
+{
+  "id": "train-00003-of-00008-01037",
+  "status": "rejected",
+  "hypothesis": "安张的加工并死基桌房",
+  "cer": 0.6,
+  "hanzi": "肮脏的加工病死鸡作坊",
+  "syllables": [
+    "ang1",
+    "zang1",
+    "de5",
+    "jia1",
+    "gong1",
+    "bing4",
+    "si3",
+    "ji1",
+    "zuo1",
+    "fang5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.600 exceeds 0.35"
+}

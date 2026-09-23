@@ -1,0 +1,62 @@
+{
+  "id": "train-00000-of-00008-00207",
+  "status": "rejected",
+  "hypothesis": "三月春来藻内芽挂受伤",
+  "cer": 0.4,
+  "hanzi": "三月春来早嫩芽挂树梢",
+  "syllables": [
+    "san1",
+    "yue4",
+    "chun1",
+    "lai2",
+    "zao3",
+    "nen4",
+    "ya2",
+    "gua4",
+    "shu4",
+    "shao1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

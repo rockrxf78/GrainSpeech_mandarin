@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.8100226757369615
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.8100226757369615
+		intervals: size = 21
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.59246875
+			text = "duan3"
+		intervals [2]:
+			xmin = 0.59246875
+			xmax = 0.8424687500000001
+			text = "xian4"
+		intervals [3]:
+			xmin = 0.8424687500000001
+			xmax = 1.02246875
+			text = "ou1"
+		intervals [4]:
+			xmin = 1.02246875
+			xmax = 1.20246875
+			text = "yuan2"
+		intervals [5]:
+			xmin = 1.20246875
+			xmax = 1.49246875
+			text = "liao4"
+		intervals [6]:
+			xmin = 1.49246875
+			xmax = 1.79246875
+			text = "reng2"
+		intervals [7]:
+			xmin = 1.79246875
+			xmax = 2.0224687500000003
+			text = "jiang1"
+		intervals [8]:
+			xmin = 2.0224687500000003
+			xmax = 2.22246875
+			text = "chu3"
+		intervals [9]:
+			xmin = 2.22246875
+			xmax = 2.38246875
+			text = "yu2"
+		intervals [10]:
+			xmin = 2.38246875
+			xmax = 2.61246875
+			text = "ruo4"
+		intervals [11]:
+			xmin = 2.61246875
+			xmax = 3.03246875
+			text = "shi4"
+		intervals [12]:
+			xmin = 3.03246875
+			xmax = 3.39246875
+			text = "xia4"
+		intervals [13]:
+			xmin = 3.39246875
+			xmax = 3.5624687500000003
+			text = "fang1"
+		intervals [14]:
+			xmin = 3.5624687500000003
+			xmax = 3.7524687500000002
+			text = "zhi1"
+		intervals [15]:
+			xmin = 3.7524687500000002
+			xmax = 4.02246875
+			text = "cheng1"
+		intervals [16]:
+			xmin = 4.02246875
+			xmax = 4.27246875
+			text = "yi1"
+		intervals [17]:
+			xmin = 4.27246875
+			xmax = 4.45246875
+			text = "dian3"
+		intervals [18]:
+			xmin = 4.45246875
+			xmax = 4.65246875
+			text = "er4"
+		intervals [19]:
+			xmin = 4.65246875
+			xmax = 4.84246875
+			text = "ba1"
+		intervals [20]:
+			xmin = 4.84246875
+			xmax = 5.0324687500000005
+			text = "liu4"
+		intervals [21]:
+			xmin = 5.0324687500000005
+			xmax = 5.8100226757369615
+			text = "ling2"

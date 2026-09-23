@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.3920181405895695
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.3920181405895695
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5724687500000001
+			text = "shui2"
+		intervals [2]:
+			xmin = 0.5724687500000001
+			xmax = 0.8024687500000001
+			text = "liao4"
+		intervals [3]:
+			xmin = 0.8024687500000001
+			xmax = 1.04246875
+			text = "duo1"
+		intervals [4]:
+			xmin = 1.04246875
+			xmax = 1.19246875
+			text = "shu4"
+		intervals [5]:
+			xmin = 1.19246875
+			xmax = 1.3624687500000001
+			text = "wang2"
+		intervals [6]:
+			xmin = 1.3624687500000001
+			xmax = 1.60246875
+			text = "you3"
+		intervals [7]:
+			xmin = 1.60246875
+			xmax = 1.81246875
+			text = "bing4"
+		intervals [8]:
+			xmin = 1.81246875
+			xmax = 1.97246875
+			text = "bu4"
+		intervals [9]:
+			xmin = 1.97246875
+			xmax = 2.13246875
+			text = "li2"
+		intervals [10]:
+			xmin = 2.13246875
+			xmax = 2.3124687500000003
+			text = "jie3"
+		intervals [11]:
+			xmin = 2.3124687500000003
+			xmax = 2.46246875
+			text = "ta1"
+		intervals [12]:
+			xmin = 2.46246875
+			xmax = 2.59246875
+			text = "de5"
+		intervals [13]:
+			xmin = 2.59246875
+			xmax = 2.76246875
+			text = "ku3"
+		intervals [14]:
+			xmin = 2.76246875
+			xmax = 3.15246875
+			text = "zhong1"
+		intervals [15]:
+			xmin = 3.15246875
+			xmax = 3.51246875
+			text = "fan3"
+		intervals [16]:
+			xmin = 3.51246875
+			xmax = 3.66246875
+			text = "er2"
+		intervals [17]:
+			xmin = 3.66246875
+			xmax = 3.85246875
+			text = "cheng1"
+		intervals [18]:
+			xmin = 3.85246875
+			xmax = 4.04246875
+			text = "ta1"
+		intervals [19]:
+			xmin = 4.04246875
+			xmax = 4.3224687500000005
+			text = "wei2"
+		intervals [20]:
+			xmin = 4.3224687500000005
+			xmax = 4.59246875
+			text = "kou1"
+		intervals [21]:
+			xmin = 4.59246875
+			xmax = 4.77246875
+			text = "men2"
+		intervals [22]:
+			xmin = 4.77246875
+			xmax = 5.3920181405895695
+			text = "ge1"

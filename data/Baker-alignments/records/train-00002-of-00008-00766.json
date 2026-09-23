@@ -1,0 +1,37 @@
+{
+  "id": "train-00002-of-00008-00766",
+  "status": "rejected",
+  "hypothesis": "敬因已取消",
+  "cer": 0.4,
+  "hanzi": "静音已取消",
+  "syllables": [
+    "jing4",
+    "yin1",
+    "yi2",
+    "qu3",
+    "xiao1"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

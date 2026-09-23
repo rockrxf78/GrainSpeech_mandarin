@@ -1,0 +1,62 @@
+{
+  "id": "train-00004-of-00008-00323",
+  "status": "rejected",
+  "hypothesis": "蜈功怒气后甚至山和窑",
+  "cer": 0.4,
+  "hanzi": "蜈蚣怒气吼甚至山河摇",
+  "syllables": [
+    "wu2",
+    "gong1",
+    "nu4",
+    "qi4",
+    "hou3",
+    "shen4",
+    "zhi4",
+    "shan1",
+    "he2",
+    "yao2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.400 exceeds 0.35"
+}

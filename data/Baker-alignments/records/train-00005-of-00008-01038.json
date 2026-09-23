@@ -1,0 +1,52 @@
+{
+  "id": "train-00005-of-00008-01038",
+  "status": "rejected",
+  "hypothesis": "蔡美尔也再次考着",
+  "cer": 0.375,
+  "hanzi": "蔡美儿也在思考着",
+  "syllables": [
+    "cai4",
+    "mei3",
+    "er2",
+    "ye3",
+    "zai4",
+    "si1",
+    "kao3",
+    "zhe5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

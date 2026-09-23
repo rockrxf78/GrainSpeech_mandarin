@@ -1,0 +1,47 @@
+{
+  "id": "train-00001-of-00008-00158",
+  "status": "rejected",
+  "hypothesis": "学子戴孔子其伏",
+  "cer": 0.42857142857142855,
+  "hanzi": "学子拜孔子祈福",
+  "syllables": [
+    "xue2",
+    "zi3",
+    "bai4",
+    "kong2",
+    "zi3",
+    "qi2",
+    "fu2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.429 exceeds 0.35"
+}

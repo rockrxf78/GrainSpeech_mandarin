@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00013",
+  "status": "rejected",
+  "hypothesis": "我回又亨狠左亨哼狠",
+  "cer": 0.625,
+  "hanzi": "我回右哼哼左哼哼",
+  "syllables": [
+    "wo3",
+    "hui2",
+    "you4",
+    "heng1",
+    "heng5",
+    "zuo3",
+    "heng1",
+    "heng5"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.625 exceeds 0.35"
+}

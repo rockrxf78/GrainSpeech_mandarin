@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.388027210884354
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.388027210884354
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52246875
+			text = "liang3"
+		intervals [2]:
+			xmin = 0.52246875
+			xmax = 0.6924687500000001
+			text = "wei4"
+		intervals [3]:
+			xmin = 0.6924687500000001
+			xmax = 0.87246875
+			text = "lao3"
+		intervals [4]:
+			xmin = 0.87246875
+			xmax = 1.1124687500000001
+			text = "ren2"
+		intervals [5]:
+			xmin = 1.1124687500000001
+			xmax = 1.33246875
+			text = "huan4"
+		intervals [6]:
+			xmin = 1.33246875
+			xmax = 1.49246875
+			text = "you3"
+		intervals [7]:
+			xmin = 1.49246875
+			xmax = 1.69246875
+			text = "nao2"
+		intervals [8]:
+			xmin = 1.69246875
+			xmax = 2.0424687500000003
+			text = "geng3"
+		intervals [9]:
+			xmin = 2.0424687500000003
+			xmax = 2.39246875
+			text = "tui2"
+		intervals [10]:
+			xmin = 2.39246875
+			xmax = 2.61246875
+			text = "jiao2"
+		intervals [11]:
+			xmin = 2.61246875
+			xmax = 2.78246875
+			text = "ye3"
+		intervals [12]:
+			xmin = 2.78246875
+			xmax = 2.92246875
+			text = "bu4"
+		intervals [13]:
+			xmin = 2.92246875
+			xmax = 3.10246875
+			text = "ling2"
+		intervals [14]:
+			xmin = 3.10246875
+			xmax = 3.68246875
+			text = "bian4"
+		intervals [15]:
+			xmin = 3.68246875
+			xmax = 4.29246875
+			text = "dan4"
+		intervals [16]:
+			xmin = 4.29246875
+			xmax = 4.50246875
+			text = "hai2"
+		intervals [17]:
+			xmin = 4.50246875
+			xmax = 4.72246875
+			text = "yao4"
+		intervals [18]:
+			xmin = 4.72246875
+			xmax = 4.96246875
+			text = "xin1"
+		intervals [19]:
+			xmin = 4.96246875
+			xmax = 5.112468750000001
+			text = "ku3"
+		intervals [20]:
+			xmin = 5.112468750000001
+			xmax = 5.25246875
+			text = "de5"
+		intervals [21]:
+			xmin = 5.25246875
+			xmax = 5.47246875
+			text = "jian3"
+		intervals [22]:
+			xmin = 5.47246875
+			xmax = 5.72246875
+			text = "ping2"
+		intervals [23]:
+			xmin = 5.72246875
+			xmax = 6.388027210884354
+			text = "zi5"

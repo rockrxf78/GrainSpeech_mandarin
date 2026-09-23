@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.04
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.04
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.47246875
+			text = "nv3"
+		intervals [2]:
+			xmin = 0.47246875
+			xmax = 0.66246875
+			text = "ming2"
+		intervals [3]:
+			xmin = 0.66246875
+			xmax = 0.91246875
+			text = "xing1"
+		intervals [4]:
+			xmin = 0.91246875
+			xmax = 1.1424687500000001
+			text = "ye3"
+		intervals [5]:
+			xmin = 1.1424687500000001
+			xmax = 1.35246875
+			text = "shi4"
+		intervals [6]:
+			xmin = 1.35246875
+			xmax = 1.55246875
+			text = "ping2"
+		intervals [7]:
+			xmin = 1.55246875
+			xmax = 1.73246875
+			text = "fan2"
+		intervals [8]:
+			xmin = 1.73246875
+			xmax = 2.14246875
+			text = "ren2"
+		intervals [9]:
+			xmin = 2.14246875
+			xmax = 2.51246875
+			text = "ni2"
+		intervals [10]:
+			xmin = 2.51246875
+			xmax = 2.65246875
+			text = "yi3"
+		intervals [11]:
+			xmin = 2.65246875
+			xmax = 2.88246875
+			text = "wei2"
+		intervals [12]:
+			xmin = 2.88246875
+			xmax = 3.10246875
+			text = "zai4"
+		intervals [13]:
+			xmin = 3.10246875
+			xmax = 3.26246875
+			text = "yu2"
+		intervals [14]:
+			xmin = 3.26246875
+			xmax = 3.45246875
+			text = "le4"
+		intervals [15]:
+			xmin = 3.45246875
+			xmax = 3.66246875
+			text = "quan1"
+		intervals [16]:
+			xmin = 3.66246875
+			xmax = 3.92246875
+			text = "pai1"
+		intervals [17]:
+			xmin = 3.92246875
+			xmax = 4.17246875
+			text = "xi4"
+		intervals [18]:
+			xmin = 4.17246875
+			xmax = 4.39246875
+			text = "gan3"
+		intervals [19]:
+			xmin = 4.39246875
+			xmax = 4.612468750000001
+			text = "tong1"
+		intervals [20]:
+			xmin = 4.612468750000001
+			xmax = 4.862468750000001
+			text = "gao4"
+		intervals [21]:
+			xmin = 4.862468750000001
+			xmax = 5.10246875
+			text = "hen3"
+		intervals [22]:
+			xmin = 5.10246875
+			xmax = 5.30246875
+			text = "rong2"
+		intervals [23]:
+			xmin = 5.30246875
+			xmax = 5.50246875
+			text = "yi4"
+		intervals [24]:
+			xmin = 5.50246875
+			xmax = 6.04
+			text = "ma5"

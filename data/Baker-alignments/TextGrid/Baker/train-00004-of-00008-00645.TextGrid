@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.766031746031746
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.766031746031746
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.59246875
+			text = "xin1"
+		intervals [2]:
+			xmin = 0.59246875
+			xmax = 0.78246875
+			text = "dian4"
+		intervals [3]:
+			xmin = 0.78246875
+			xmax = 0.99246875
+			text = "kai1"
+		intervals [4]:
+			xmin = 0.99246875
+			xmax = 1.25246875
+			text = "zhang1"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.50246875
+			text = "bing4"
+		intervals [6]:
+			xmin = 1.50246875
+			xmax = 1.68246875
+			text = "wei4"
+		intervals [7]:
+			xmin = 1.68246875
+			xmax = 1.8624687500000001
+			text = "tui1"
+		intervals [8]:
+			xmin = 1.8624687500000001
+			xmax = 2.05246875
+			text = "chu1"
+		intervals [9]:
+			xmin = 2.05246875
+			xmax = 2.2924687500000003
+			text = "xin1"
+		intervals [10]:
+			xmin = 2.2924687500000003
+			xmax = 2.70246875
+			text = "pin3"
+		intervals [11]:
+			xmin = 2.70246875
+			xmax = 3.0824687500000003
+			text = "dan4"
+		intervals [12]:
+			xmin = 3.0824687500000003
+			xmax = 3.35246875
+			text = "reng2"
+		intervals [13]:
+			xmin = 3.35246875
+			xmax = 3.55246875
+			text = "xi1"
+		intervals [14]:
+			xmin = 3.55246875
+			xmax = 3.68246875
+			text = "yin3"
+		intervals [15]:
+			xmin = 3.68246875
+			xmax = 3.85246875
+			text = "le5"
+		intervals [16]:
+			xmin = 3.85246875
+			xmax = 4.0724687500000005
+			text = "shang4"
+		intervals [17]:
+			xmin = 4.0724687500000005
+			xmax = 4.27246875
+			text = "qian1"
+		intervals [18]:
+			xmin = 4.27246875
+			xmax = 4.43246875
+			text = "ming2"
+		intervals [19]:
+			xmin = 4.43246875
+			xmax = 4.612468750000001
+			text = "guo2"
+		intervals [20]:
+			xmin = 4.612468750000001
+			xmax = 4.8224687500000005
+			text = "fen3"
+		intervals [21]:
+			xmin = 4.8224687500000005
+			xmax = 5.0724687500000005
+			text = "peng2"
+		intervals [22]:
+			xmin = 5.0724687500000005
+			xmax = 5.766031746031746
+			text = "chang3"

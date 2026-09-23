@@ -1,0 +1,52 @@
+{
+  "id": "train-00000-of-00008-00580",
+  "status": "rejected",
+  "hypothesis": "孔甲居首昌黎娜喊",
+  "cer": 0.5,
+  "hanzi": "孔贾拘守昌黎呐喊",
+  "syllables": [
+    "kong2",
+    "jia3",
+    "ju1",
+    "shou3",
+    "chang1",
+    "li2",
+    "na4",
+    "han3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

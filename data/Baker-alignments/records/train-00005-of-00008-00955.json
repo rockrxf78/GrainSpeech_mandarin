@@ -1,0 +1,62 @@
+{
+  "id": "train-00005-of-00008-00955",
+  "status": "rejected",
+  "hypothesis": "现斋陆整礼已警是后人",
+  "cer": 0.5,
+  "hanzi": "现摘录整理以警示后人",
+  "syllables": [
+    "xian4",
+    "zhai1",
+    "lu4",
+    "zheng2",
+    "li3",
+    "yi2",
+    "jing3",
+    "shi4",
+    "hou4",
+    "ren2"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.500 exceeds 0.35"
+}

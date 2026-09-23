@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.826031746031746
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.826031746031746
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.47246875
+			text = "zhe4"
+		intervals [2]:
+			xmin = 0.47246875
+			xmax = 0.6724687500000001
+			text = "shi4"
+		intervals [3]:
+			xmin = 0.6724687500000001
+			xmax = 0.86246875
+			text = "liang3"
+		intervals [4]:
+			xmin = 0.86246875
+			xmax = 1.06246875
+			text = "liang4"
+		intervals [5]:
+			xmin = 1.06246875
+			xmax = 1.22246875
+			text = "mian4"
+		intervals [6]:
+			xmin = 1.22246875
+			xmax = 1.4124687500000002
+			text = "bao1"
+		intervals [7]:
+			xmin = 1.4124687500000002
+			xmax = 1.76246875
+			text = "che1"
+		intervals [8]:
+			xmin = 1.76246875
+			xmax = 2.10246875
+			text = "dou1"
+		intervals [9]:
+			xmin = 2.10246875
+			xmax = 2.30246875
+			text = "tie1"
+		intervals [10]:
+			xmin = 2.30246875
+			xmax = 2.49246875
+			text = "zhe5"
+		intervals [11]:
+			xmin = 2.49246875
+			xmax = 2.69246875
+			text = "huan2"
+		intervals [12]:
+			xmin = 2.69246875
+			xmax = 2.89246875
+			text = "wei4"
+		intervals [13]:
+			xmin = 2.89246875
+			xmax = 3.10246875
+			text = "jian1"
+		intervals [14]:
+			xmin = 3.10246875
+			xmax = 3.32246875
+			text = "cha2"
+		intervals [15]:
+			xmin = 3.32246875
+			xmax = 3.5024687500000002
+			text = "zi4"
+		intervals [16]:
+			xmin = 3.5024687500000002
+			xmax = 3.87246875
+			text = "yang4"
+		intervals [17]:
+			xmin = 3.87246875
+			xmax = 4.25246875
+			text = "che1"
+		intervals [18]:
+			xmin = 4.25246875
+			xmax = 4.46246875
+			text = "ding3"
+		intervals [19]:
+			xmin = 4.46246875
+			xmax = 4.68246875
+			text = "an1"
+		intervals [20]:
+			xmin = 4.68246875
+			xmax = 4.85246875
+			text = "zhuang1"
+		intervals [21]:
+			xmin = 4.85246875
+			xmax = 5.00246875
+			text = "zhe5"
+		intervals [22]:
+			xmin = 5.00246875
+			xmax = 5.20246875
+			text = "la3"
+		intervals [23]:
+			xmin = 5.20246875
+			xmax = 5.826031746031746
+			text = "ba5"

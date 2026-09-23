@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.815011337868481
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.815011337868481
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.54246875
+			text = "jia2"
+		intervals [2]:
+			xmin = 0.54246875
+			xmax = 0.78246875
+			text = "mou2"
+		intervals [3]:
+			xmin = 0.78246875
+			xmax = 1.01246875
+			text = "hen3"
+		intervals [4]:
+			xmin = 1.01246875
+			xmax = 1.25246875
+			text = "nao2"
+		intervals [5]:
+			xmin = 1.25246875
+			xmax = 1.6524687500000002
+			text = "huo3"
+		intervals [6]:
+			xmin = 1.6524687500000002
+			xmax = 1.99246875
+			text = "meng3"
+		intervals [7]:
+			xmin = 1.99246875
+			xmax = 2.17246875
+			text = "an4"
+		intervals [8]:
+			xmin = 2.17246875
+			xmax = 2.36246875
+			text = "la3"
+		intervals [9]:
+			xmin = 2.36246875
+			xmax = 2.5424687500000003
+			text = "ba1"
+		intervals [10]:
+			xmin = 2.5424687500000003
+			xmax = 2.76246875
+			text = "jing3"
+		intervals [11]:
+			xmin = 2.76246875
+			xmax = 3.11246875
+			text = "shi4"
+		intervals [12]:
+			xmin = 3.11246875
+			xmax = 3.43246875
+			text = "bing4"
+		intervals [13]:
+			xmin = 3.43246875
+			xmax = 3.64246875
+			text = "jiang1"
+		intervals [14]:
+			xmin = 3.64246875
+			xmax = 3.87246875
+			text = "che1"
+		intervals [15]:
+			xmin = 3.87246875
+			xmax = 4.11246875
+			text = "zi5"
+		intervals [16]:
+			xmin = 4.11246875
+			xmax = 4.3224687500000005
+			text = "la1"
+		intervals [17]:
+			xmin = 4.3224687500000005
+			xmax = 4.51246875
+			text = "hui2"
+		intervals [18]:
+			xmin = 4.51246875
+			xmax = 4.69246875
+			text = "yuan2"
+		intervals [19]:
+			xmin = 4.69246875
+			xmax = 4.84246875
+			text = "lai2"
+		intervals [20]:
+			xmin = 4.84246875
+			xmax = 5.00246875
+			text = "de5"
+		intervals [21]:
+			xmin = 5.00246875
+			xmax = 5.18246875
+			text = "che1"
+		intervals [22]:
+			xmin = 5.18246875
+			xmax = 5.815011337868481
+			text = "dao4"

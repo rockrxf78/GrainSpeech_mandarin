@@ -1,0 +1,52 @@
+{
+  "id": "train-00005-of-00008-01075",
+  "status": "rejected",
+  "hypothesis": "富巢之下难有玩暖",
+  "cer": 0.375,
+  "hanzi": "覆巢之下难有完卵",
+  "syllables": [
+    "fu4",
+    "chao2",
+    "zhi1",
+    "xia4",
+    "nan2",
+    "you3",
+    "wan2",
+    "luan3"
+  ],
+  "syllable_character_ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ]
+  ],
+  "reason": "Greedy ASR CER 0.375 exceeds 0.35"
+}

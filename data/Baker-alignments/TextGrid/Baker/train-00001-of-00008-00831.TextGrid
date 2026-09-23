@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 6.42
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 6.42
+		intervals: size = 24
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.50246875
+			text = "ta1"
+		intervals [2]:
+			xmin = 0.50246875
+			xmax = 0.6924687500000001
+			text = "xing3"
+		intervals [3]:
+			xmin = 0.6924687500000001
+			xmax = 0.87246875
+			text = "lai2"
+		intervals [4]:
+			xmin = 0.87246875
+			xmax = 1.1224687500000001
+			text = "hou4"
+		intervals [5]:
+			xmin = 1.1224687500000001
+			xmax = 1.35246875
+			text = "xian1"
+		intervals [6]:
+			xmin = 1.35246875
+			xmax = 1.55246875
+			text = "zhao3"
+		intervals [7]:
+			xmin = 1.55246875
+			xmax = 1.80246875
+			text = "qing2"
+		intervals [8]:
+			xmin = 1.80246875
+			xmax = 2.16246875
+			text = "shi1"
+		intervals [9]:
+			xmin = 2.16246875
+			xmax = 2.49246875
+			text = "zai4"
+		intervals [10]:
+			xmin = 2.49246875
+			xmax = 2.67246875
+			text = "chuan1"
+		intervals [11]:
+			xmin = 2.67246875
+			xmax = 2.86246875
+			text = "hao3"
+		intervals [12]:
+			xmin = 2.86246875
+			xmax = 3.0624687500000003
+			text = "yi1"
+		intervals [13]:
+			xmin = 3.0624687500000003
+			xmax = 3.38246875
+			text = "fu5"
+		intervals [14]:
+			xmin = 3.38246875
+			xmax = 3.72246875
+			text = "hui2"
+		intervals [15]:
+			xmin = 3.72246875
+			xmax = 3.95246875
+			text = "xiang3"
+		intervals [16]:
+			xmin = 3.95246875
+			xmax = 4.16246875
+			text = "zuo2"
+		intervals [17]:
+			xmin = 4.16246875
+			xmax = 4.30246875
+			text = "ye4"
+		intervals [18]:
+			xmin = 4.30246875
+			xmax = 4.43246875
+			text = "de5"
+		intervals [19]:
+			xmin = 4.43246875
+			xmax = 4.80246875
+			text = "meng4"
+		intervals [20]:
+			xmin = 4.80246875
+			xmax = 5.19246875
+			text = "ke3"
+		intervals [21]:
+			xmin = 5.19246875
+			xmax = 5.39246875
+			text = "meng4"
+		intervals [22]:
+			xmin = 5.39246875
+			xmax = 5.612468750000001
+			text = "jing4"
+		intervals [23]:
+			xmin = 5.612468750000001
+			xmax = 5.83246875
+			text = "quan2"
+		intervals [24]:
+			xmin = 5.83246875
+			xmax = 6.42
+			text = "wu2"

@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.74
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.74
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.52246875
+			text = "ta1"
+		intervals [2]:
+			xmin = 0.52246875
+			xmax = 0.8124687500000001
+			text = "yu3"
+		intervals [3]:
+			xmin = 0.8124687500000001
+			xmax = 1.06246875
+			text = "shang4"
+		intervals [4]:
+			xmin = 1.06246875
+			xmax = 1.26246875
+			text = "hai3"
+		intervals [5]:
+			xmin = 1.26246875
+			xmax = 1.44246875
+			text = "ping1"
+		intervals [6]:
+			xmin = 1.44246875
+			xmax = 1.60246875
+			text = "pang1"
+		intervals [7]:
+			xmin = 1.60246875
+			xmax = 1.81246875
+			text = "guo2"
+		intervals [8]:
+			xmin = 1.81246875
+			xmax = 2.07246875
+			text = "shou3"
+		intervals [9]:
+			xmin = 2.07246875
+			xmax = 2.30246875
+			text = "wang2"
+		intervals [10]:
+			xmin = 2.30246875
+			xmax = 2.5224687500000003
+			text = "li4"
+		intervals [11]:
+			xmin = 2.5224687500000003
+			xmax = 2.90246875
+			text = "qin2"
+		intervals [12]:
+			xmin = 2.90246875
+			xmax = 3.24246875
+			text = "hai2"
+		intervals [13]:
+			xmin = 3.24246875
+			xmax = 3.45246875
+			text = "you3"
+		intervals [14]:
+			xmin = 3.45246875
+			xmax = 3.67246875
+			text = "wang2"
+		intervals [15]:
+			xmin = 3.67246875
+			xmax = 3.87246875
+			text = "ma1"
+		intervals [16]:
+			xmin = 3.87246875
+			xmax = 4.12246875
+			text = "ma5"
+		intervals [17]:
+			xmin = 4.12246875
+			xmax = 4.35246875
+			text = "yi4"
+		intervals [18]:
+			xmin = 4.35246875
+			xmax = 4.54246875
+			text = "tong2"
+		intervals [19]:
+			xmin = 4.54246875
+			xmax = 4.79246875
+			text = "guang4"
+		intervals [20]:
+			xmin = 4.79246875
+			xmax = 4.9924687500000005
+			text = "shi4"
+		intervals [21]:
+			xmin = 4.9924687500000005
+			xmax = 5.16246875
+			text = "bo2"
+		intervals [22]:
+			xmin = 5.16246875
+			xmax = 5.74
+			text = "yuan2"

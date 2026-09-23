@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.74
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 5.74
+		intervals: size = 22
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.51246875
+			text = "you3"
+		intervals [2]:
+			xmin = 0.51246875
+			xmax = 0.6824687500000001
+			text = "ping2"
+		intervals [3]:
+			xmin = 0.6824687500000001
+			xmax = 0.8324687500000001
+			text = "lun4"
+		intervals [4]:
+			xmin = 0.8324687500000001
+			xmax = 1.05246875
+			text = "zhi3"
+		intervals [5]:
+			xmin = 1.05246875
+			xmax = 1.50246875
+			text = "chu1"
+		intervals [6]:
+			xmin = 1.50246875
+			xmax = 1.95246875
+			text = "zhe4"
+		intervals [7]:
+			xmin = 1.95246875
+			xmax = 2.19246875
+			text = "huo4"
+		intervals [8]:
+			xmin = 2.19246875
+			xmax = 2.43246875
+			text = "wei4"
+		intervals [9]:
+			xmin = 2.43246875
+			xmax = 2.64246875
+			text = "chuo1"
+		intervals [10]:
+			xmin = 2.64246875
+			xmax = 2.85246875
+			text = "po4"
+		intervals [11]:
+			xmin = 2.85246875
+			xmax = 3.09246875
+			text = "tuan2"
+		intervals [12]:
+			xmin = 3.09246875
+			xmax = 3.32246875
+			text = "gou4"
+		intervals [13]:
+			xmin = 3.32246875
+			xmax = 3.49246875
+			text = "zhe4"
+		intervals [14]:
+			xmin = 3.49246875
+			xmax = 3.61246875
+			text = "ge5"
+		intervals [15]:
+			xmin = 3.61246875
+			xmax = 3.7924687500000003
+			text = "da4"
+		intervals [16]:
+			xmin = 3.7924687500000003
+			xmax = 4.02246875
+			text = "pao4"
+		intervals [17]:
+			xmin = 4.02246875
+			xmax = 4.30246875
+			text = "mo4"
+		intervals [18]:
+			xmin = 4.30246875
+			xmax = 4.56246875
+			text = "qiao1"
+		intervals [19]:
+			xmin = 4.56246875
+			xmax = 4.73246875
+			text = "xiang3"
+		intervals [20]:
+			xmin = 4.73246875
+			xmax = 4.89246875
+			text = "le5"
+		intervals [21]:
+			xmin = 4.89246875
+			xmax = 5.09246875
+			text = "jing3"
+		intervals [22]:
+			xmin = 5.09246875
+			xmax = 5.74
+			text = "zhong1"
