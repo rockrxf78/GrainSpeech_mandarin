@@ -539,6 +539,16 @@ revision：b654b5f3df69725df32808de454a1b865c829e4c
 缓存：external/alignment-models/
 ```
 
+`external/alignment-models/` 是 Hugging Face 模型下载缓存，不是生成的中文语料，也不是最终 GrainSpeech 或 HiFi-GAN 权重。目录名中的 `models--...` 对应缓存的模型仓库；`ls -lh` 显示的 12K 只是目录项大小，不是权重占用。本机三个目录的用途如下：
+
+| 缓存模型 | 与本次全量 Baker 对齐的关系 |
+|---|---|
+| `models--wbbbbb--wav2vec2-large-chinese-zh-cn` | **实际使用**：`data/Baker-alignments/run.json` 记录的模型及上述固定 revision。 |
+| `models--jonatasgrosman--wav2vec2-large-xlsr-53-chinese-zh-cn` | 下载过的另一候选中文识别模型；**没有用于本次全量对齐**。仅凭缓存目录不能判断其是否用于其他试验。 |
+| `models--qinyue--wav2vec2-large-xlsr-53-chinese-zn-cn-aishell1` | 下载过的另一候选中文识别模型；**没有用于本次全量对齐**。仅凭缓存目录不能判断其是否用于其他试验。 |
+
+对齐器读取 `data/Baker/` 中**已有的录音和文字/带调拼音标注**，用 CTC 预测汉字在音频中的位置，再转为拼音音节时长；它不生成语料文字、不训练 GrainSpeech，也不参与 TFLite 量化或最终合成。对齐结果保存在 `data/Baker-alignments/`，随后由 `scripts/preprocess_baker.py` 转成 `data/Baker-features/` 供声学模型训练。已有特征、checkpoint 和 TFLite 推理不依赖这些下载缓存；若需要重新对齐，则需要保留或重新下载对应的固定 revision。`external/` 被 Git 忽略，没有随项目数据与模型产物提交；不要将缓存目录误认为已上传的训练权重。
+
 模型页面声明 Apache-2.0；部署分发前仍应检查所用模型、数据集及依赖的实际许可证。本次音频和文本只在本地处理，不上传外部识别服务。
 
 先做代表性随机抽样可用 `--sample-size 64`；`--limit 64` 只取开头，未必代表整个语料。全量命令：
