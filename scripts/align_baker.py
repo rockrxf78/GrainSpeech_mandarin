@@ -26,6 +26,7 @@ import torch
 from preprocessing.ctc import (
     AlignmentError, character_error_rate, hanzi_pinyin, syllable_intervals, viterbi_spans,
 )
+from mandarin_dataset import resolve_speaker, textgrid_relative
 
 
 def write_json(path, value):
@@ -34,10 +35,11 @@ def write_json(path, value):
     temporary.replace(path)
 
 
-def main():
+def main(argv=None, defaults=None):
+    defaults = defaults or {}
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--dataset", type=Path, default=ROOT / "data/Baker")
-    parser.add_argument("--output-dir", type=Path, default=ROOT / "data/Baker-alignments")
+    parser.add_argument("--dataset", type=Path, default=defaults.get("dataset", ROOT / "data/Baker"))
+    parser.add_argument("--output-dir", type=Path, default=defaults.get("output-dir", ROOT / "data/Baker-alignments"))
     parser.add_argument("--model", default="wbbbbb/wav2vec2-large-chinese-zh-cn")
     parser.add_argument("--revision", default="b654b5f3df69725df32808de454a1b865c829e4c")
     parser.add_argument("--safetensors", action=argparse.BooleanOptionalAction, default=True,
@@ -53,7 +55,7 @@ def main():
     parser.add_argument("--max-cer", type=float, default=0.35)
     parser.add_argument("--min-confidence", type=float, default=0.01)
     parser.add_argument("--resume", action="store_true")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     if args.limit is not None and args.limit <= 0:
         parser.error("--limit must be positive")
     if args.sample_size is not None and args.sample_size <= 0:
@@ -82,6 +84,8 @@ def main():
             vocabulary.update(value[1])
     if not vocabulary:
         raise ValueError("No supported Hanzi/pinyin recordings")
+    speaker = resolve_speaker(dataset, rows)
+    grids = textgrid_relative(speaker)
 
     from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor
 
@@ -123,7 +127,7 @@ def main():
             raise ValueError("Cannot resume with changed source, model, subset, or thresholds")
     output.mkdir(parents=True, exist_ok=True)
     (output / "records").mkdir(exist_ok=True)
-    (output / "TextGrid" / "Baker").mkdir(parents=True, exist_ok=True)
+    (output / grids).mkdir(parents=True, exist_ok=True)
     write_json(output / "run.json", settings)
     write_json(output / "frontend.json", {
         "language": "zh", "unit": "tone_marked_pinyin_syllable",
@@ -139,7 +143,7 @@ def main():
     for index, row in enumerate(selected, start=1):
         name = row["id"]
         record_path = output / "records" / f"{name}.json"
-        textgrid_path = output / "TextGrid/Baker" / f"{name}.TextGrid"
+        textgrid_path = output / grids / f"{name}.TextGrid"
         if record_path.exists():
             result = json.loads(record_path.read_text(encoding="utf-8"))
             if result["status"] == "accepted" and not textgrid_path.is_file():

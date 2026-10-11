@@ -47,11 +47,12 @@ def validate_config(config):
             )
 
 
-def parse_args():
+def parse_args(argv=None, defaults=None):
+    defaults = defaults or {}
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--preprocess-config", type=Path,
-                        default=Path("data/Baker-features/preprocess.yaml"))
-    parser.add_argument("--run-name", default="baker")
+                        default=defaults.get("preprocess-config", Path("data/Baker-features/preprocess.yaml")))
+    parser.add_argument("--run-name", default=defaults.get("run-name", "baker"))
     parser.add_argument("--batch-size", type=int, default=16)
     parser.add_argument("--epochs", type=int, default=1000)
     parser.add_argument("--workers", type=int, default=4)
@@ -63,7 +64,7 @@ def parse_args():
                         help="Resume a trusted Chinese full training checkpoint")
     parser.add_argument("--max-steps", type=int, default=None)
     parser.add_argument("--seed", type=int, default=1234)
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     if args.batch_size < 1 or args.epochs < 1 or args.workers < 0:
         parser.error("batch-size/epochs must be positive and workers nonnegative")
     if args.max_steps is not None and args.max_steps < 1:
@@ -73,8 +74,8 @@ def parse_args():
     return args
 
 
-def main():
-    args = parse_args()
+def main(argv=None, defaults=None):
+    args = parse_args(argv, defaults)
     with args.preprocess_config.open(encoding="utf-8") as stream:
         config = yaml.safe_load(stream)
     validate_config(config)

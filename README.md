@@ -369,7 +369,10 @@ This imports original audio/text/pinyin without modifying that project or
 reusing its codec tokens. The separate
 [Chinese alignment and training workflow](data/README.md#chinese-alignment-and-acoustic-training)
 uses tone-marked pinyin syllables, pretrained CTC alignment, and acoustic-only
-GrainSpeech training. The instructions below remain the LJSpeech workflow.
+GrainSpeech training. The open Apache-2.0 alternative is
+[AISHELL-3](data/README.md#aishell-3-chinese-corpus) (OpenSLR SLR93): one
+speaker is prepared into the same align, feature, train, and pinyin-Mel path.
+The instructions below remain the LJSpeech workflow.
 
 Want to modify GrainSpeech or train your own variant? Complete the Quick Start
 installation first, then prepare LJSpeech as follows.

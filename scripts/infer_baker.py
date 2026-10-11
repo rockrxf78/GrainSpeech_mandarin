@@ -21,7 +21,7 @@ from model_l1_ssim_gvar import GrainSpeech
 from text.vocabulary import pinyin_to_phones, vocabulary_from_config
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--checkpoint", type=Path, required=True,
                         help="Trusted Chinese acoustic checkpoint")
@@ -30,7 +30,7 @@ def main():
     parser.add_argument("--output", type=Path, required=True, help="Output .npy mel array")
     parser.add_argument("--device", default="cpu")
     parser.add_argument("--disable-cudnn", action="store_true")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     if args.output.suffix != ".npy":
         parser.error("--output must end in .npy")
     model = GrainSpeech.load_from_checkpoint(
