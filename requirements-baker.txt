@@ -1,3 +1,4 @@
 # Optional Baker Parquet reader; install requirements.txt first.
-pyarrow>=17.0.0
+# PyArrow 21+ requires NumPy 2, which conflicts with NumPy 1.26.4 in requirements.txt.
+pyarrow>=17.0.0,<21
 transformers==4.57.6
