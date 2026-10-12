@@ -8,6 +8,7 @@
 >
 > - 英文：已发布 GrainSpeech → FP32/A16W8 TFLite → HiFi-GAN → WAV。
 > - 中文：复用 Baker 原始语料 → 自动音节对齐 → 特征提取 → 训练 GrainSpeech → FP32/A16W8 TFLite → 同一个 A16W8 HiFi-GAN → WAV。
+> - 开放替代语料：AISHELL-3（OpenSLR SLR93，Apache-2.0）走同一条单说话人声学路径，见 [5.10](#510-aishell-3-开放语料)。Baker 流程保持不变。
 > - 中文推理目前接收**带调拼音**，不是任意汉字直接输入；自动文本规范化、多音字消歧和变调前端尚未接入。
 > - 两个模型都有桌面 TFLite 推理产物，但**完整链路尚未完成 MCU 板端内存、延迟、实时率验证**。
 
@@ -749,6 +750,72 @@ outputs/baker_a16w8_audio/
 
 这里的 `fp32` / `a16w8` 指**声学模型精度**，两组都使用相同的 A16W8 HiFi-GAN。对比时才不会把声码器变化误认为声学量化变化。
 
+### 5.10 AISHELL-3 开放语料
+
+Baker 语料是本地私有 Parquet。若要在可再分发的数据上走同一条中文声学路径，使用 [AISHELL-3](https://www.openslr.org/93/)（OpenSLR SLR93，Apache-2.0）：约 85 小时、218 个说话人、88035 句，常见采样率 44.1 kHz。下载 `data_aishell3.tgz` 后自行解压，不要把音频提交进仓库。
+
+GrainSpeech 的 Baker 声学模型没有说话人 embedding。AISHELL-3 因此按**一个说话人、一条声音**来训练，不在这里改成多说话人结构。`--list-speakers` 会打印各说话人条数，以及 `spk-info.txt`（或 `spk_info.txt`）里的年龄组、性别和口音。官方目录示例说话人是 `SSB0005`（女声、年龄组 B、北方口音）；这只是示例 ID，不是音质排名。选好一个 ID 后先听预览，再决定是否全量训练。
+
+标注在 `train/content.txt` 和 `test/content.txt`，不是 Baker 的 Parquet。每行是「文件名 + Tab + 汉字与拼音交替」：
+
+```text
+SSB00050002.wav	尊 zhun1 重 zhong4 的 de5 要 yao1 求 qiu2
+SSB06930026.wav	二 er4 点儿 dianr3 一 yi1 七 qi1
+```
+
+拼音是标注员听到的**实际读音**，已经包含变调（例如「一」可以是 `yi2` 或 `yi4`）。准备脚本不再做第二次变调。`ü` / `u:` 收成 `v`，轻声 `0` 收成 `5`，与 Baker 对齐器的 `ni2`、`lv4`、`de5` 相同。儿化是带「儿」的汉字 token 加一个 `r` 尾音节，例如 `点儿 dianr3`；单独的 `儿 er2` 不并进去。`#1`–`#4` 若出现会被丢掉。不读取 `prosody_label_*.txt`。缺声调或无法配对的句子写入 `rejected.jsonl`，不进入清单。其后的 CTC 对齐仍会按原因拒绝，没有均分时长回退。
+
+默认只用 `train` 划分，避免把官方 test 直接拿去训练。同一说话人的 test 句要另加 `--splits train,test`。一次传入多个说话人只会导出音频供查看；对齐和特征提取发现不止一个说话人时会停止。
+
+预览：
+
+```bash
+"$PY" scripts/prepare_aishell3.py \
+  --corpus-dir /path/to/data_aishell3 \
+  --list-speakers
+
+"$PY" scripts/prepare_aishell3.py \
+  --corpus-dir /path/to/data_aishell3 \
+  --speakers SSB0005 \
+  --output-dir data/AISHELL3-preview \
+  --limit 8 --mel-samples 3
+
+"$PY" scripts/infer_hifigan_tflite.py \
+  --mel-dir data/AISHELL3-preview/mel \
+  --output-dir outputs/aishell3_vocoder_preview
+```
+
+这一步仍然是**真实录音 Mel 的重建**。全量准备换成空的 `--output-dir data/AISHELL3` 并去掉 `--limit`。WAV 为 22050 Hz 单声道 PCM16，峰值 0.95。`dataset.json` 在对齐前保持 `training_ready: false`，并写明 `speaker`。
+
+对齐、特征、训练和拼音 Mel 与 Baker 相同，包装脚本只改默认目录和 run 名。CTC 模型仍是 `wbbbbb/wav2vec2-large-chinese-zh-cn`，revision `b654b5f3df69725df32808de454a1b865c829e4c`，默认要求 Safetensors，缺失或意外权重会被拒绝。
+
+```bash
+OMP_NUM_THREADS=4 "$PY" scripts/align_aishell3.py --disable-cudnn
+
+OMP_NUM_THREADS=4 "$PY" scripts/preprocess_aishell3.py --disable-cudnn
+
+OMP_NUM_THREADS=4 "$PY" scripts/train_aishell3.py \
+  --run-name grainspeech-aishell3 \
+  --accelerator gpu --batch-size 16 --workers 4 \
+  --epochs 1000 --precision 32-true \
+  --disable-cudnn
+
+"$PY" scripts/infer_aishell3.py \
+  --checkpoint lightning_logs/grainspeech-aishell3/checkpoints/last.ckpt \
+  --pinyin "ni2 hao3" \
+  --output outputs/aishell3_mel.npy
+
+"$PY" scripts/infer_hifigan_tflite.py \
+  --mel outputs/aishell3_mel.npy \
+  --output-dir outputs/aishell3_audio
+```
+
+抽样加 `--sample-size 64`，中断后续跑加 `--resume`。续训加 `--checkpoint lightning_logs/grainspeech-aishell3/checkpoints/last.ckpt`。`--max-steps 4` 只检查训练能否启动。
+
+导出仍用现有中文 TFLite 路径，把 checkpoint 和校准清单换成 AISHELL-3 的即可，例如 `--calibration-data data/AISHELL3-features/train.txt`。不重训 HiFi-GAN，也不改英文模型。MCU 侧没有新的改动：中文导出、A16W8 和双 TFLite 推理与第 5.7–5.9 节相同，只是词表来自这次单说话人训练。
+
+`"$PY" scripts/check_aishell3_data.py` 用合成语料检查清单解析和拼音规范化，不下载约 19G 的数据包。
+
 ## 6. 本次问题与修复记录
 
 ### 6.1 英文预测长度从 207 帧变成约 45 帧
@@ -929,6 +996,9 @@ FP32 TFLite 与已保存的 PyTorch Mel 最大绝对误差约不超过 `1.6e-5`�
 "$PY" scripts/check_baker_data.py
 "$PY" scripts/check_baker_alignment.py
 
+# AISHELL-3 清单与拼音解析；不需要下载语料
+"$PY" scripts/check_aishell3_data.py
+
 # 已导出中文模型、PyTorch参考与实际试听文件
 "$PY" scripts/check_baker_tflite.py
 ```
@@ -962,6 +1032,11 @@ PY
 | `scripts/preprocess_baker.py` | 接受的对齐 → 特征、划分、训练统计 |
 | `scripts/train_baker.py` | 中文声学训练与续训，不加载 HiFi-GAN |
 | `scripts/infer_baker.py` | 中文 checkpoint + 带调拼音 → 浮点 Mel |
+| `scripts/prepare_aishell3.py` | AISHELL-3 解压目录 → 单说话人 WAV/lab/带调拼音清单 |
+| `scripts/align_aishell3.py` | 同上 CTC 对齐，默认目录 `data/AISHELL3` |
+| `scripts/preprocess_aishell3.py` | 同上特征提取，默认 AISHELL-3 目录 |
+| `scripts/train_aishell3.py` | 同上声学训练，默认 run 名 `grainspeech-aishell3` |
+| `scripts/infer_aishell3.py` | 同上带调拼音 → 浮点 Mel |
 | `grainspeech/text/vocabulary.py` | checkpoint 局部词表与带调拼音查表 |
 | `grainspeech/text/frontend.py` | 英文 G2P 与 ARPAbet 验证 |
 

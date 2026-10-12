@@ -19,6 +19,7 @@ import yaml
 
 from preprocessing.ctc import AlignmentError
 from preprocessing.ljspeech import LJSpeechPreprocessor
+from mandarin_dataset import dataset_label, feature_name, resolve_speaker, textgrid_relative
 
 
 class AlignedBakerPreprocessor(LJSpeechPreprocessor):
@@ -42,17 +43,18 @@ class AlignedBakerPreprocessor(LJSpeechPreprocessor):
         return phones, durations, start, previous
 
 
-def main():
+def main(argv=None, defaults=None):
+    defaults = defaults or {}
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--dataset", type=Path, default=ROOT / "data/Baker")
-    parser.add_argument("--alignments", type=Path, default=ROOT / "data/Baker-alignments")
-    parser.add_argument("--output-dir", type=Path, default=ROOT / "data/Baker-features")
+    parser.add_argument("--dataset", type=Path, default=defaults.get("dataset", ROOT / "data/Baker"))
+    parser.add_argument("--alignments", type=Path, default=defaults.get("alignments", ROOT / "data/Baker-alignments"))
+    parser.add_argument("--output-dir", type=Path, default=defaults.get("output-dir", ROOT / "data/Baker-features"))
     parser.add_argument("--device", choices=("auto", "cpu", "cuda"), default="auto")
     parser.add_argument("--disable-cudnn", action="store_true",
                         help="Use native PyTorch CUDA kernels if installed cuDNN libraries conflict")
     parser.add_argument("--val-size", type=int)
     parser.add_argument("--seed", type=int, default=1234)
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     dataset, alignments, output = args.dataset.resolve(), args.alignments.resolve(), args.output_dir.resolve()
     for source in (dataset, alignments):
         if output == source or output in source.parents or source in output.parents:
@@ -77,7 +79,9 @@ def main():
     frontend = json.loads((alignments / "frontend.json").read_text(encoding="utf-8"))
     with (ROOT / "configs/LJSpeech/preprocess.yaml").open() as stream:
         config = copy.deepcopy(yaml.safe_load(stream))
-    config["dataset"] = "Baker"
+    speaker = resolve_speaker(dataset, rows)
+    grids = textgrid_relative(speaker)
+    config["dataset"] = dataset_label(source_config, speaker)
     config["path"] = {
         "corpus_path": str(dataset), "raw_path": str(dataset / "raw"),
         "preprocessed_path": str(output),
@@ -89,8 +93,8 @@ def main():
     device = ("cuda" if torch.cuda.is_available() else "cpu") if args.device == "auto" else args.device
     if device == "cuda" and not torch.cuda.is_available():
         raise RuntimeError("CUDA requested but unavailable")
-    extractor = AlignedBakerPreprocessor(config, torch.device(device), speaker="Baker")
-    for directory in ("duration", "mel", "pitch", "energy", "TextGrid/Baker"):
+    extractor = AlignedBakerPreprocessor(config, torch.device(device), speaker=speaker)
+    for directory in ("duration", "mel", "pitch", "energy", grids):
         (output / directory).mkdir(parents=True, exist_ok=True)
     metadata = {}
     rejections = []
@@ -107,8 +111,8 @@ def main():
         expected = [entry["phone"] for entry in alignment["intervals"]]
         if any(phone not in frontend["symbols"] for phone in expected):
             raise ValueError(f"{name}: alignment phone outside frontend vocabulary")
-        original = alignments / "TextGrid/Baker" / f"{name}.TextGrid"
-        shutil.copy2(original, output / "TextGrid/Baker" / original.name)
+        original = alignments / grids / f"{name}.TextGrid"
+        shutil.copy2(original, output / grids / original.name)
         try:
             backend = torch.backends.cudnn.flags(enabled=False) if args.disable_cudnn else nullcontext()
             with backend:
@@ -119,12 +123,12 @@ def main():
             phones = text_row.split("|")[2].strip("{}").split()
             if phones != expected:
                 raise ValueError(f"{name}: TextGrid and accepted alignment record disagree")
-            duration = np.load(output / "duration" / f"Baker-duration-{name}.npy")
-            mel = np.load(output / "mel" / f"Baker-mel-{name}.npy")
+            duration = np.load(output / "duration" / feature_name(speaker, "duration", name))
+            mel = np.load(output / "mel" / feature_name(speaker, "mel", name))
             if len(duration) != len(phones) or duration.sum() != len(mel):
                 raise ValueError(f"{name}: duration/phone/Mel length mismatch")
             for feature in ("pitch", "energy", "mel"):
-                value = np.load(output / feature / f"Baker-{feature}-{name}.npy")
+                value = np.load(output / feature / feature_name(speaker, feature, name))
                 if not np.isfinite(value).all():
                     raise AlignmentError(f"Non-finite {feature}")
             metadata[name] = text_row
@@ -148,7 +152,7 @@ def main():
     for feature in ("pitch", "energy"):
         scaler = StandardScaler()
         for name in training:
-            values = np.load(output / feature / f"Baker-{feature}-{name}.npy")
+            values = np.load(output / feature / feature_name(speaker, feature, name))
             filtered = extractor._remove_outlier(values)
             if len(filtered):
                 scaler.partial_fit(filtered.reshape(-1, 1))
@@ -157,7 +161,7 @@ def main():
         mean, std = float(scaler.mean_[0]), float(scaler.scale_[0])
         extractor._normalize_files(feature, names, mean, std)
         training_values = [
-            np.load(output / feature / f"Baker-{feature}-{name}.npy") for name in training
+            np.load(output / feature / feature_name(speaker, feature, name)) for name in training
         ]
         stats[feature] = [
             min(float(value.min()) for value in training_values),
@@ -169,7 +173,9 @@ def main():
             "".join(metadata[name] + "\n" for name in selected), encoding="utf-8",
         )
     (output / "stats.json").write_text(json.dumps(stats, indent=2) + "\n")
-    (output / "speakers.json").write_text('{"Baker": 0}\n')
+    (output / "speakers.json").write_text(
+        json.dumps({speaker: 0}, ensure_ascii=False) + "\n", encoding="utf-8",
+    )
     (output / "preprocess.yaml").write_text(
         yaml.safe_dump(config, allow_unicode=True, sort_keys=False), encoding="utf-8",
     )

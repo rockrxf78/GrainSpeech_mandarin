@@ -211,3 +211,131 @@ For an FP32 acoustic TFLite reference, export the same checkpoint with
 `scripts/check_baker_tflite.py` renders paired FP32/A16W8 listening files into
 `outputs/baker_a16w8_audio/`, using the same A16W8 vocoder for both. It compares
 against the matching PyTorch reference Mels in `outputs/baker_trained_mels/`.
+
+## AISHELL-3 Chinese corpus
+
+[AISHELL-3](https://www.openslr.org/93/) (OpenSLR SLR93) is an Apache-2.0
+Mandarin corpus: about 85 hours, 218 speakers, 88035 utterances, typically
+44.1 kHz. It is the open alternative to the local Baker Parquet path above.
+Baker commands are unchanged. GrainSpeech still trains **one voice** at a time.
+There is no speaker embedding, so do not point feature extraction at a mix of
+speakers.
+
+Download `data_aishell3.tgz` from OpenSLR and extract it. Do not commit the
+audio. The importer expects this layout (a `data_aishell3/` directory directly
+inside the path you pass is also accepted):
+
+```text
+data_aishell3/
+├── spk-info.txt          # or spk_info.txt
+├── train/
+│   ├── content.txt
+│   └── wav/SSB0005/SSB00050001.wav
+└── test/
+    ├── content.txt
+    └── wav/...
+```
+
+`content.txt` is tab-separated. The transcript interleaves a Hanzi token with
+the speaker's **surface** pinyin, including tone sandhi already applied by the
+annotators:
+
+```text
+SSB00050002.wav	尊 zhun1 重 zhong4 科 ke1 学 xue2 规 gui1 律 lv4 的 de5 要 yao1 求 qiu2
+SSB06930026.wav	九 jiu3 千 qian1 四 si4 百 bai3 六 liu4 十 shi2 二 er4 点儿 dianr3 一 yi1 七 qi1
+```
+
+The prepared `text_pinyin` uses the same tone-marked syllable tokens as Baker
+(`lv4`, `de5`, `dianr3`). `ü` and `u:` become `v`. A trailing tone `0` becomes
+neutral tone `5`. Erhua is one syllable whose Hanzi token already contains 儿
+(`点儿` / `dianr3`). A real syllable 儿 stays `er2` and is not merged. This
+script does **not** run a second sandhi pass: `一 yi2` is kept as `yi2`.
+Prosody marks `#1`–`#4`, if present, are dropped. `prosody_label_*.txt` is not
+read. Utterances whose pinyin has no tone, or which are not Hanzi-plus-pinyin,
+are listed in `rejected.jsonl` and omitted. Alignment still rejects the rest
+with reasons. There is no uniform-duration fallback.
+
+List speakers, then prepare one. `SSB0005` is the speaker directory in the
+official corpus tree (female, age group B, northern accent). That is an
+example id, not a claim that it is the best voice. Use the table to pick
+another single speaker after listening.
+
+```bash
+python scripts/prepare_aishell3.py \
+  --corpus-dir /path/to/data_aishell3 \
+  --list-speakers
+
+python scripts/prepare_aishell3.py \
+  --corpus-dir /path/to/data_aishell3 \
+  --speakers SSB0005 \
+  --output-dir data/AISHELL3-preview \
+  --limit 8 --mel-samples 3
+
+python scripts/infer_hifigan_tflite.py \
+  --mel-dir data/AISHELL3-preview/mel \
+  --output-dir outputs/aishell3_vocoder_preview
+```
+
+Full preparation of that speaker uses the **train** split only, so the official
+test split stays out unless you add `--splits train,test`. Nonempty output
+directories are refused. Passing several ids (for example
+`--speakers SSB0005,SSB0009`) only writes audio for inspection; alignment and
+feature extraction then stop, because they require `dataset.json` `"speaker"`
+to be one id.
+
+```bash
+python scripts/prepare_aishell3.py \
+  --corpus-dir /path/to/data_aishell3 \
+  --speakers SSB0005 \
+  --output-dir data/AISHELL3
+```
+
+Output layout, analogous to Baker:
+
+```text
+data/AISHELL3/
+├── raw/SSB0005/*.wav     # 22050 Hz mono PCM16, peak 0.95
+├── raw/SSB0005/*.lab
+├── manifest.jsonl
+├── rejected.jsonl
+└── dataset.json          # training_ready: false, speaker: SSB0005
+```
+
+Alignment, features, training, and Mel inference reuse the Baker programs.
+The `*_aishell3.py` wrappers only change the default paths and run name.
+
+```bash
+OMP_NUM_THREADS=4 python scripts/align_aishell3.py --disable-cudnn
+
+OMP_NUM_THREADS=4 python scripts/preprocess_aishell3.py --disable-cudnn
+
+OMP_NUM_THREADS=4 python scripts/train_aishell3.py \
+  --run-name grainspeech-aishell3 \
+  --accelerator gpu --batch-size 16 --workers 4 \
+  --epochs 1000 --precision 32-true \
+  --disable-cudnn
+
+python scripts/infer_aishell3.py \
+  --checkpoint lightning_logs/grainspeech-aishell3/checkpoints/last.ckpt \
+  --pinyin "ni2 hao3" \
+  --output outputs/aishell3_mel.npy
+
+python scripts/infer_hifigan_tflite.py \
+  --mel outputs/aishell3_mel.npy \
+  --output-dir outputs/aishell3_audio
+```
+
+`align_aishell3.py` still requires Safetensors weights from
+`wbbbbb/wav2vec2-large-chinese-zh-cn` at revision
+`b654b5f3df69725df32808de454a1b865c829e4c`, and still rejects missing or
+unexpected weights. Add `--sample-size 64` for a pilot and `--resume` to
+continue the same run. `train_aishell3.py` writes
+`lightning_logs/grainspeech-aishell3/checkpoints/`. Resume with
+`--checkpoint lightning_logs/grainspeech-aishell3/checkpoints/last.ckpt`.
+`--max-steps 4` only checks that training starts.
+
+The same Chinese TFLite export path applies after training: point
+`scripts/export_tflite.py` at the AISHELL-3 checkpoint and
+`data/AISHELL3-features/train.txt`. This does not train a new vocoder and does
+not change the English model. `scripts/check_aishell3_data.py` covers transcript
+parsing and a synthetic corpus; it does not download AISHELL-3.
